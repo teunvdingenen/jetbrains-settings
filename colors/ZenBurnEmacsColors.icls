@@ -770,6 +770,12 @@
     <option name="JS.ATTRIBUTE">
       <value />
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="7c72c0" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="a9b7c6" />

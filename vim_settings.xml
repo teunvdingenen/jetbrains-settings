@@ -24,6 +24,13 @@
         <mark key="." line="69" column="15" />
         <mark key="^" line="134" column="12" />
       </file>
+      <file name="$USER_HOME$/development/sillyleague/src/db/model/index.js" timestamp="1559127043385">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+      </file>
       <file name="/sparque-management.public.expansion_alternative [sparque-management@localhost]" timestamp="1556183748749">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="31" column="36" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="66" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="72" column="14" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -239,10 +245,11 @@
       <jump line="133" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
       <jump line="342" column="65" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
       <jump line="165" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/development/sillyleague/src/db/model/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
+      <register name="&quot;" type="4">
+        <text>commentSchema</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7641,7 +7648,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>commentSchema</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRCYXNlVXJsXD4=</text>
@@ -7656,8 +7663,8 @@
         return this.props.classes.borderTransparant
     }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7686,16 +7693,30 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBmZXRjaENoYW5uZWxzLAo=</text>
+      <register name="2" type="4">
+        <text>const profileSchema = new mongoose.Schema({
+  name: String,
+  elo: Number,
+  timezone: String,
+  country: String
+})</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBmZXRjaENoYW5uZWxzLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGJvcmRlclJpZ2h0Q29sb3IK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>borderGreen: {
     borderColor: 'rgba(0,255,0,0.29)'
   },
@@ -7703,17 +7724,8 @@
     borderColor: 'rgba(255,192,113,0.22)'
   },</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuOCwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuOCwK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDoKICAgICAgICAgICAgICBoaWdobGlnaHQgPT09ICdlcXVpJyA/IGNsYXNzTmFtZXMoY2xhc3Nlcy50aWxlLCBjbGFzc2VzLnllbGxvdykKICAgICAgICAgICAgICAgICAgOiBjbGFzc05hbWVzKGNsYXNzZXMudGlsZSwgY2xhc3Nlcy5ncmVlbik=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlckxlZnQ6ICc1MHB4IHNvbGlkICM2NEM3Q0MnLAo=</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuOCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
