@@ -49,6 +49,12 @@
       <file name="/sparque-management.public.account [sparque-management@localhost]" timestamp="1556540316503">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sparque/magento/Makefile" timestamp="1559121551488">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" timestamp="1558621720313">
         <mark key="'" line="139" column="34" />
         <mark key="[" line="71" column="22" />
@@ -129,22 +135,18 @@
       <file name="/sparque-management.public.spinque_credentials [sparque-management@localhost]" timestamp="1556183510296">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sparque/magento/magento/magento.py" timestamp="1559122694518">
+        <mark key="'" line="71" column="16" />
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="61" />
+        <mark key="^" line="69" column="61" />
+        <mark key="." line="69" column="61" />
+      </file>
       <file name="/fragment.java" timestamp="1557674133890">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="58" column="21" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="107" column="9" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="318" column="38" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="46" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="31" column="36" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
-      <jump line="66" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="72" column="14" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="95" column="53" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="129" column="17" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="177" column="18" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="157" column="13" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="124" column="21" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="110" column="8" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -234,10 +236,21 @@
       <jump line="297" column="47" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" />
       <jump line="300" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" />
       <jump line="16" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="68" column="32" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="69" column="42" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="70" column="39" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="89" column="20" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="98" column="62" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="101" column="65" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="123" column="18" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="32" column="9" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="126" column="19" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
+      <jump line="72" column="16" filename="$USER_HOME$/development/sparque/magento/magento/magento.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmZXRjaENoYW5uZWxzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7636,10 +7649,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>channels</text>
+        <text>dir</text>
       </register>
       <register name="0" type="4">
         <text>switch(highlight) {
@@ -7652,7 +7665,7 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmZXRjaENoYW5uZWxzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7682,12 +7695,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CW5vc2V0ZXN0cyB0ZXN0cwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmZXRjaENoYW5uZWxzLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJvcmRlclJpZ2h0Q29sb3IK</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>borderGreen: {
     borderColor: 'rgba(0,255,0,0.29)'
   },
@@ -7695,29 +7723,14 @@
     borderColor: 'rgba(255,192,113,0.22)'
   },</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuOCwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuOCwK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDoKICAgICAgICAgICAgICBoaWdobGlnaHQgPT09ICdlcXVpJyA/IGNsYXNzTmFtZXMoY2xhc3Nlcy50aWxlLCBjbGFzc2VzLnllbGxvdykKICAgICAgICAgICAgICAgICAgOiBjbGFzc05hbWVzKGNsYXNzZXMudGlsZSwgY2xhc3Nlcy5ncmVlbik=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlckxlZnQ6ICc1MHB4IHNvbGlkICM2NEM3Q0MnLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyM2NEM3Q0MnLAo=</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>channels</last-search>
+      <last-search>dir</last-search>
       <last-offset />
-      <last-pattern>channels</last-pattern>
+      <last-pattern>dir</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7725,10 +7738,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tile</entry>
-        <entry>hexa</entry>
-        <entry>userId</entry>
-        <entry>userid</entry>
         <entry>getPersonal</entry>
         <entry>person</entry>
         <entry>url.search</entry>
@@ -7745,6 +7754,10 @@
         <entry>GenericDia</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry>channels</entry>
+        <entry encoding="base64">XDxjb2RlXD4=</entry>
+        <entry encoding="base64">XDxkaXJcPg==</entry>
+        <entry>input_dir</entry>
+        <entry>dir</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>

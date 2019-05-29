@@ -5,9 +5,10 @@
       <mapping pattern="*.4_Add_TableView_for_professionaloverview.sql" type="PLAIN_TEXT" />
       <mapping pattern="*.5__Add_municipality_column_professionaloverview.sql" type="PLAIN_TEXT" />
       <mapping pattern="*.1__Added_SpinqueUser_and_Shop.sql" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping ext="2__minor_additions" type="PLAIN_TEXT" />
       <mapping ext="16__added_twofactoripwhitelist" type="PLAIN_TEXT" />
       <mapping ext="17__scheduleritemstatistiek_addgezinsmatchfields" type="PLAIN_TEXT" />
-      <mapping ext="2__minor_additions" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
