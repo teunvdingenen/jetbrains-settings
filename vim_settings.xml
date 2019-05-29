@@ -14,12 +14,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" timestamp="1559137383812">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="52" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" timestamp="1559139830000">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="58" column="12" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/sparque-management.public.flyway_schema_history [sparque-management@localhost]" timestamp="1556183953371">
         <mark key="[" line="0" column="0" />
@@ -50,12 +50,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" timestamp="1559136924818">
-        <mark key="'" line="191" column="18" />
-        <mark key="[" line="220" column="28" />
-        <mark key="]" line="220" column="29" />
-        <mark key="." line="220" column="29" />
-        <mark key="^" line="220" column="28" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" timestamp="1559141396017">
+        <mark key="'" line="323" column="67" />
+        <mark key="[" line="133" column="28" />
+        <mark key="]" line="134" column="20" />
+        <mark key="." line="134" column="20" />
+        <mark key="^" line="134" column="20" />
       </file>
       <file name="$USER_HOME$/development/codility/src/com/company/Main.java" timestamp="1557679187404">
         <mark key="[" line="8" column="22" />
@@ -95,19 +95,19 @@
       <file name="/dummy.sql" timestamp="1556540316843">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" timestamp="1559135052513">
-        <mark key="'" line="26" column="16" />
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="31" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" timestamp="1559141421346">
+        <mark key="'" line="107" column="11" />
+        <mark key="[" line="123" column="26" />
+        <mark key="]" line="123" column="26" />
+        <mark key="^" line="123" column="28" />
+        <mark key="." line="123" column="26" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" timestamp="1559137380750">
-        <mark key="'" line="127" column="32" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="127" column="59" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" timestamp="1559138699572">
+        <mark key="'" line="41" column="17" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1559125625561">
         <mark key="[" line="0" column="0" />
@@ -151,6 +151,9 @@
       <file name="/GraphQL.variables.json" timestamp="1557390801698">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" timestamp="1559140233506">
+        <mark key="'" line="205" column="31" />
+      </file>
       <file name="$USER_HOME$/development/sillyleague/client/webpack.config.js" timestamp="1556737066152">
         <mark key="[" line="55" column="7" />
         <mark key="]" line="55" column="7" />
@@ -164,25 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="8" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="52" column="6" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="184" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="218" column="14" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="62" column="13" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="127" column="37" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="16" column="7" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="47" column="11" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="49" column="50" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="50" column="24" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="51" column="30" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="53" column="50" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="59" column="53" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="314" column="33" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="3" column="39" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="88" column="39" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="144" column="27" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="20" column="7" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/hex_utils.js" />
-      <jump line="48" column="42" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/hex_utils.js" />
       <jump line="59" column="27" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/hex_utils.js" />
       <jump line="69" column="14" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/hex_utils.js" />
       <jump line="134" column="12" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/hex_utils.js" />
@@ -264,12 +248,29 @@
       <jump line="191" column="18" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="47" column="22" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
       <jump line="45" column="20" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="33" column="1" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="54" column="7" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="1" column="19" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="52" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="60" column="7" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="2" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="46" column="31" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="45" column="25" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="22" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="49" column="67" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="14" column="8" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="38" column="17" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="93" column="52" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
+      <jump line="205" column="31" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" />
+      <jump line="90" column="17" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
+      <jump line="316" column="67" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="89" column="58" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
+      <jump line="107" column="11" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import TechIcon from '@material-ui/icons/DeviceHub'
-import TraitIcon from '@material-ui/icons/Cloud'
-import WormholeIcon from '@material-ui/icons/Camera'</text>
+        <text>n</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7668,18 +7669,16 @@ import WormholeIcon from '@material-ui/icons/Camera'</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>color</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text encoding="base64">XDxvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PFdvcm1ob2xlSWNvbiBrZXk9e3RpbGUubmFtZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlc1t0aWxlLndvcm1ob2xlLnRvTG93ZXJDYXNlKCldfS8+KQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbSB4cz17MTJ9IGNvbnRhaW5lciBzcGFjaW5nPXs4fT4K</text>
       </register>
-      <register name="1" type="4">
-        <text>import TechIcon from '@material-ui/icons/DeviceHub'
-import TraitIcon from '@material-ui/icons/Cloud'
-import WormholeIcon from '@material-ui/icons/Camera'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50TW9kZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7709,37 +7708,37 @@ import WormholeIcon from '@material-ui/icons/Camera'</text>
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gV29ybWhvbGVJY29uKHByb3BzKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgICA8V29ybWhvbGVJY29uIGtleT17dGlsZS5uYW1lfQogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXNbdGlsZS53b3JtaG9sZS50b0xvd2VyQ2FzZSgpXX0vPgogICAgICApCiAgICB9</text>
+        <text encoding="base64">IC8ge28uYXZhaWwKICAgICAgICAgICsgZS5hdmFpbH0g</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyB7by5pbmZsCiAgICAgICAgICArIGUuaW5mbH0g</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PFdvcm1ob2xlSWNvbiBrZXk9e3RpbGUubmFtZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlc1t0aWxlLndvcm1ob2xlLnRvTG93ZXJDYXNlKCldfS8+</text>
+        <text encoding="base64">LyB7by5yZXNjCiAgICAgICAgICArIGUucmVzY30g</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gCg==</text>
+        <text encoding="base64">ICAgICAgICBlID0ge2luZmw6IDAsIHJlc2M6IDAsIGF2YWlsOiAwLCB0dDogdGVjaHRyYWl0c2VtcHR5KCl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gdGhlbWUgPT4gKHsKICBtZW51SWNvbjogewogICAgbWFyZ2luUmlnaHQ6IHRoZW1lLnNwYWNpbmcudW5pdAogIH0sCiAgcmVkOiB7CiAgICBjb2xvcjogJyNhYzAwMDAnLAogICAgbWFyZ2luTGVmdDogdGhlbWUuc3BhY2luZy51bml0CiAgfSwKICBibHVlOiB7CiAgICBjb2xvcjogJyMwMDAwYWMnLAogICAgbWFyZ2luTGVmdDogdGhlbWUuc3BhY2luZy51bml0CiAgfSwKICBncmVlbjogewogICAgY29sb3I6ICcjMDBhYzAwJywKICAgIG1hcmdpbkxlZnQ6IHRoZW1lLnNwYWNpbmcudW5pdAogIH0sCiAgeWVsbG93OiB7CiAgICBjb2xvcjogdGhlbWUucGFsZXR0ZS53YXJuaW5nLm1haW4sCiAgICBtYXJnaW5MZWZ0OiB0aGVtZS5zcGFjaW5nLnVuaXQKICB9LAogIGFscGhhOiB7CiAgICBjb2xvcjogJyNjNzZmMmQnLAogICAgbWFyZ2luTGVmdDogdGhlbWUuc3BhY2luZy51bml0CiAgfSwKICBiZXRhOiB7CiAgICBjb2xvcjogJyM1OWM3MmMnLAogICAgbWFyZ2luTGVmdDogdGhlbWUuc3BhY2luZy51bml0CiAgfQp9KQoKY29uc3QgZ2V0VHJhaXRDb2xvciA9IHRyYWl0ID0+IHsKICBpZiAodHJhaXQgPT09ICJDVUxUVVJBTCIpIHsKICAgIHJldHVybiAnYmx1ZScKICB9IGVsc2UgaWYgKHRyYWl0ID09PSAiSEFaQVJET1VTIikgewogICAgcmV0dXJuICdyZWQnCiAgfSBlbHNlIGlmICh0cmFpdCA9PT0gJ0lORFVTVFJJQUwnKSB7CiAgICByZXR1cm4gJ2dyZWVuJwogIH0KfQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search encoding="base64">XDxvXD4=</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern encoding="base64">XDxvXD4=</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7747,14 +7746,6 @@ import WormholeIcon from '@material-ui/icons/Camera'</text>
     </search>
     <history>
       <history-search>
-        <entry>GenericDia</entry>
-        <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
-        <entry>channels</entry>
-        <entry>getProdu</entry>
-        <entry>products</entry>
-        <entry encoding="base64">XDxnZXRCYXNlVXJsXD4=</entry>
-        <entry encoding="base64">XDxzbGljZXNcPg==</entry>
-        <entry>console</entry>
         <entry encoding="base64">XDxzbGljZUluZm9zXD4=</entry>
         <entry>Generic</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
@@ -7767,6 +7758,14 @@ import WormholeIcon from '@material-ui/icons/Camera'</text>
         <entry>filterSli</entry>
         <entry>dele</entry>
         <entry>remove</entry>
+        <entry encoding="base64">XDxUcmFpdEljb25cPg==</entry>
+        <entry encoding="base64">XDxUZWNoSWNvblw+</entry>
+        <entry encoding="base64">XDxXb3JtaG9sZUljb25cPg==</entry>
+        <entry>getTrait</entry>
+        <entry>cart</entry>
+        <entry>color</entry>
+        <entry>o</entry>
+        <entry encoding="base64">XDxvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>
