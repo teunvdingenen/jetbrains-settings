@@ -14,6 +14,13 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" timestamp="1559137383812">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="/sparque-management.public.flyway_schema_history [sparque-management@localhost]" timestamp="1556183953371">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,12 +50,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" timestamp="1559135663180">
-        <mark key="'" line="133" column="29" />
-        <mark key="[" line="221" column="31" />
-        <mark key="]" line="221" column="31" />
-        <mark key="^" line="221" column="31" />
-        <mark key="." line="221" column="31" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" timestamp="1559136924818">
+        <mark key="'" line="191" column="18" />
+        <mark key="[" line="220" column="28" />
+        <mark key="]" line="220" column="29" />
+        <mark key="." line="220" column="29" />
+        <mark key="^" line="220" column="28" />
       </file>
       <file name="$USER_HOME$/development/codility/src/com/company/Main.java" timestamp="1557679187404">
         <mark key="[" line="8" column="22" />
@@ -95,12 +102,12 @@
         <mark key="." line="33" column="33" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" timestamp="1558434622072">
-        <mark key="'" line="168" column="32" />
-        <mark key="[" line="168" column="46" />
-        <mark key="]" line="168" column="59" />
-        <mark key="." line="168" column="59" />
-        <mark key="^" line="168" column="59" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" timestamp="1559137380750">
+        <mark key="'" line="127" column="32" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="127" column="59" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1559125625561">
         <mark key="[" line="0" column="0" />
@@ -157,9 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="156" column="13" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="123" column="14" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="106" column="8" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="52" column="6" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="184" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -257,10 +261,15 @@
       <jump line="48" column="13" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="132" column="23" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="133" column="29" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="191" column="18" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="47" column="22" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="45" column="20" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>import TechIcon from '@material-ui/icons/DeviceHub'
+import TraitIcon from '@material-ui/icons/Cloud'
+import WormholeIcon from '@material-ui/icons/Camera'</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7659,16 +7668,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
-        <text>filterSli</text>
+        <text>remove</text>
       </register>
       <register name="0" type="4">
-        <text>{infl: 0, resc: 0, avail: 0}</text>
+        <text encoding="base64">PFdvcm1ob2xlSWNvbiBrZXk9e3RpbGUubmFtZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlc1t0aWxlLndvcm1ob2xlLnRvTG93ZXJDYXNlKCldfS8+KQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text>import TechIcon from '@material-ui/icons/DeviceHub'
+import TraitIcon from '@material-ui/icons/Cloud'
+import WormholeIcon from '@material-ui/icons/Camera'</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7697,38 +7708,38 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gV29ybWhvbGVJY29uKHByb3BzKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgICA8V29ybWhvbGVJY29uIGtleT17dGlsZS5uYW1lfQogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXNbdGlsZS53b3JtaG9sZS50b0xvd2VyQ2FzZSgpXX0vPgogICAgICApCiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2Ugewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKCAhaXNIb21lU3lzdGVtKG4pKSByZXR1cm4gdGhpcy5zdGF0ZS5zbGljZXMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">PFdvcm1ob2xlSWNvbiBrZXk9e3RpbGUubmFtZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlc1t0aWxlLndvcm1ob2xlLnRvTG93ZXJDYXNlKCldfS8+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBvbkNvbnRleHRNZW51PXt0aGlzLl9tZW51fQo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0b3JhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBvLCBlID0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gdGhlbWUgPT4gKHsKICBtZW51SWNvbjogewogICAgbWFyZ2luUmlnaHQ6IHRoZW1lLnNwYWNpbmcudW5pdAogIH0sCiAgcmVkOiB7CiAgICBjb2xvcjogJyNhYzAwMDAnLAogICAgbWFyZ2luTGVmdDogdGhlbWUuc3BhY2luZy51bml0CiAgfSwKICBibHVlOiB7CiAgICBjb2xvcjogJyMwMDAwYWMnLAogICAgbWFyZ2luTGVmdDogdGhlbWUuc3BhY2luZy51bml0CiAgfSwKICBncmVlbjogewogICAgY29sb3I6ICcjMDBhYzAwJywKICAgIG1hcmdpbkxlZnQ6IHRoZW1lLnNwYWNpbmcudW5pdAogIH0sCiAgeWVsbG93OiB7CiAgICBjb2xvcjogdGhlbWUucGFsZXR0ZS53YXJuaW5nLm1haW4sCiAgICBtYXJnaW5MZWZ0OiB0aGVtZS5zcGFjaW5nLnVuaXQKICB9LAogIGFscGhhOiB7CiAgICBjb2xvcjogJyNjNzZmMmQnLAogICAgbWFyZ2luTGVmdDogdGhlbWUuc3BhY2luZy51bml0CiAgfSwKICBiZXRhOiB7CiAgICBjb2xvcjogJyM1OWM3MmMnLAogICAgbWFyZ2luTGVmdDogdGhlbWUuc3BhY2luZy51bml0CiAgfQp9KQoKY29uc3QgZ2V0VHJhaXRDb2xvciA9IHRyYWl0ID0+IHsKICBpZiAodHJhaXQgPT09ICJDVUxUVVJBTCIpIHsKICAgIHJldHVybiAnYmx1ZScKICB9IGVsc2UgaWYgKHRyYWl0ID09PSAiSEFaQVJET1VTIikgewogICAgcmV0dXJuICdyZWQnCiAgfSBlbHNlIGlmICh0cmFpdCA9PT0gJ0lORFVTVFJJQUwnKSB7CiAgICByZXR1cm4gJ2dyZWVuJwogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filterSli</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>filterSli</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7736,7 +7747,6 @@
     </search>
     <history>
       <history-search>
-        <entry>primary</entry>
         <entry>GenericDia</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry>channels</entry>
@@ -7751,11 +7761,12 @@
         <entry>fetch</entry>
         <entry encoding="base64">XDxyZXNjXD4=</entry>
         <entry>removeTile</entry>
-        <entry>remove</entry>
         <entry>fitler</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry>filter</entry>
         <entry>filterSli</entry>
+        <entry>dele</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>
