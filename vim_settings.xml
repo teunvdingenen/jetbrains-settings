@@ -64,8 +64,10 @@
       <file name="/a.sql" timestamp="1556183935264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559123760800">
-        <mark key="'" line="218" column="29" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559124593618">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/styles/style.css" timestamp="1557480969181">
         <mark key="[" line="0" column="0" />
@@ -137,9 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="21" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="107" column="9" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="318" column="38" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="46" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="31" column="36" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="66" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -237,10 +236,13 @@
       <jump line="300" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" />
       <jump line="16" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/reduceLink.jsx" />
       <jump line="218" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="133" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="342" column="65" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="165" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmZXRjaENoYW5uZWxzLAo=</text>
+        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7642,7 +7644,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>channels</text>
+        <text encoding="base64">XDxnZXRCYXNlVXJsXD4=</text>
       </register>
       <register name="0" type="4">
         <text>switch(highlight) {
@@ -7655,7 +7657,7 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmZXRjaENoYW5uZWxzLAo=</text>
+        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7685,12 +7687,15 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJwo=</text>
+        <text encoding="base64">ICBmZXRjaENoYW5uZWxzLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGJvcmRlclJpZ2h0Q29sb3IK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>borderGreen: {
     borderColor: 'rgba(0,255,0,0.29)'
   },
@@ -7698,29 +7703,26 @@
     borderColor: 'rgba(255,192,113,0.22)'
   },</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuOCwK</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIG9wYWNpdHk6IDAuOCwK</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuOCwK</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IDoKICAgICAgICAgICAgICBoaWdobGlnaHQgPT09ICdlcXVpJyA/IGNsYXNzTmFtZXMoY2xhc3Nlcy50aWxlLCBjbGFzc2VzLnllbGxvdykKICAgICAgICAgICAgICAgICAgOiBjbGFzc05hbWVzKGNsYXNzZXMudGlsZSwgY2xhc3Nlcy5ncmVlbik=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlckxlZnQ6ICc1MHB4IHNvbGlkICM2NEM3Q0MnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyM2NEM3Q0MnLAo=</text>
+        <text encoding="base64">ICAgIGJvcmRlckxlZnQ6ICc1MHB4IHNvbGlkICM2NEM3Q0MnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>channels</last-search>
+      <last-search encoding="base64">XDxnZXRCYXNlVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern>channels</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRCYXNlVXJsXD4=</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7728,9 +7730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tile</entry>
-        <entry>hexa</entry>
-        <entry>userId</entry>
         <entry>userid</entry>
         <entry>getPersonal</entry>
         <entry>person</entry>
@@ -7748,6 +7747,9 @@
         <entry>GenericDia</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry>channels</entry>
+        <entry>getProdu</entry>
+        <entry>products</entry>
+        <entry encoding="base64">XDxnZXRCYXNlVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>
