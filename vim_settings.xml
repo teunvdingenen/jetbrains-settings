@@ -81,8 +81,7 @@
       <file name="/a.sql" timestamp="1556183935264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559134189431">
-        <mark key="'" line="147" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559142776709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -95,12 +94,12 @@
       <file name="/dummy.sql" timestamp="1556540316843">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" timestamp="1559141421346">
-        <mark key="'" line="107" column="11" />
-        <mark key="[" line="123" column="26" />
-        <mark key="]" line="123" column="26" />
-        <mark key="^" line="123" column="28" />
-        <mark key="." line="123" column="26" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" timestamp="1559142504865">
+        <mark key="'" line="110" column="11" />
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" timestamp="1559138699572">
         <mark key="'" line="41" column="17" />
@@ -150,9 +149,6 @@
       </file>
       <file name="/GraphQL.variables.json" timestamp="1557390801698">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" timestamp="1559140233506">
-        <mark key="'" line="205" column="31" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/webpack.config.js" timestamp="1556737066152">
         <mark key="[" line="55" column="7" />
@@ -269,8 +265,8 @@
       <jump line="107" column="11" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7678,7 +7674,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbSB4cz17MTJ9IGNvbnRhaW5lciBzcGFjaW5nPXs4fT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50TW9kZSkK</text>
+        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7707,29 +7703,29 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC8ge28uYXZhaWwKICAgICAgICAgICsgZS5hdmFpbH0g</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50TW9kZSkK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LyB7by5pbmZsCiAgICAgICAgICArIGUuaW5mbH0g</text>
+        <text encoding="base64">IC8ge28uYXZhaWwKICAgICAgICAgICsgZS5hdmFpbH0g</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">LyB7by5pbmZsCiAgICAgICAgICArIGUuaW5mbH0g</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">LyB7by5yZXNjCiAgICAgICAgICArIGUucmVzY30g</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlID0ge2luZmw6IDAsIHJlc2M6IDAsIGF2YWlsOiAwLCB0dDogdGVjaHRyYWl0c2VtcHR5KCl9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
