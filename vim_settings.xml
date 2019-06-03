@@ -69,6 +69,11 @@
       <file name="/dummy.sql" timestamp="1556540316843">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1559573182516">
+        <mark key="'" line="35" column="3" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="71" column="1" />
+      </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" timestamp="1559548147166">
         <mark key="'" line="116" column="11" />
         <mark key="[" line="117" column="24" />
@@ -82,6 +87,13 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="17" column="1" />
         <mark key="^" line="17" column="1" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" timestamp="1559573312518">
+        <mark key="'" line="75" column="6" />
+        <mark key="[" line="215" column="24" />
+        <mark key="]" line="216" column="20" />
+        <mark key="^" line="216" column="20" />
+        <mark key="." line="216" column="20" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1559548775304">
         <mark key="[" line="0" column="0" />
@@ -118,8 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="48" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
-      <jump line="35" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="120" column="34" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="61" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="328" column="22" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -218,10 +228,12 @@
       <jump line="216" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
       <jump line="230" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
       <jump line="205" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="35" column="3" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
+      <jump line="75" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text>i</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7620,16 +7632,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>img</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4OiAtMSAqIG1lY1BpeGVsLngsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y29uc3QgaW1hZ2VVcmwgPSBpID0+ICgKICAgIGBodHRwczovL3NhaW50LWdvYmFpbi1yZXMuY2xvdWRpbmFyeS5jb20vaW1hZ2VzL2NfZml0LGhfMzUwLHdfMTAwLHFfOTAsZl9hdXRvLyR7aX0vJHtpfS1qcGdgCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7659,40 +7671,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
         x: axialToPixel(MECATOL),
         y: -2308
       }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50TW9kZSkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IC8ge28uYXZhaWwKICAgICAgICAgICsgZS5hdmFpbH0g</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyB7by5pbmZsCiAgICAgICAgICArIGUuaW5mbH0g</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">LyB7by5yZXNjCiAgICAgICAgICArIGUucmVzY30g</text>
+        <text encoding="base64">LyB7by5pbmZsCiAgICAgICAgICArIGUuaW5mbH0g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7700,9 +7712,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
-        <entry>filter</entry>
-        <entry>filterSli</entry>
         <entry>dele</entry>
         <entry>remove</entry>
         <entry encoding="base64">XDxUcmFpdEljb25cPg==</entry>
@@ -7720,6 +7729,9 @@
         <entry>CATEGORY</entry>
         <entry encoding="base64">XDxkcmF3ZXJXaWR0aFw+</entry>
         <entry>console</entry>
+        <entry>imgae</entry>
+        <entry>image</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>
