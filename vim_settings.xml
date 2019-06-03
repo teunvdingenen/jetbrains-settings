@@ -59,12 +59,12 @@
       <file name="/a.sql" timestamp="1556183935264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559566639785">
-        <mark key="'" line="209" column="8" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559569399379">
+        <mark key="'" line="205" column="4" />
+        <mark key="[" line="230" column="29" />
+        <mark key="]" line="230" column="31" />
+        <mark key="." line="230" column="31" />
+        <mark key="^" line="230" column="31" />
       </file>
       <file name="/dummy.sql" timestamp="1556540316843">
         <mark key="[" line="0" column="0" />
@@ -118,10 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
-      <jump line="146" column="48" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
-      <jump line="11" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
-      <jump line="66" column="32" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="125" column="48" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="35" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="120" column="34" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
@@ -218,10 +214,14 @@
       <jump line="64" column="65" filename="$USER_HOME$/development/sillyleague/client/src/app/App.jsx" />
       <jump line="10" column="6" filename="$USER_HOME$/development/sillyleague/client/src/app/App.jsx" />
       <jump line="19" column="13" filename="$USER_HOME$/development/sillyleague/client/src/app/App.jsx" />
+      <jump line="11" column="46" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="216" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="230" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="205" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>log</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7620,16 +7620,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcmF3ZXJXaWR0aFw+</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4OiAtMSAqIG1lY1BpeGVsLngsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7659,40 +7659,40 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
         x: axialToPixel(MECATOL),
         y: -2308
       }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50TW9kZSkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IC8ge28uYXZhaWwKICAgICAgICAgICsgZS5hdmFpbH0g</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyB7by5pbmZsCiAgICAgICAgICArIGUuaW5mbH0g</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LyB7by5yZXNjCiAgICAgICAgICArIGUucmVzY30g</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlID0ge2luZmw6IDAsIHJlc2M6IDAsIGF2YWlsOiAwLCB0dDogdGVjaHRyYWl0c2VtcHR5KCl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkcmF3ZXJXaWR0aFw+</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcmF3ZXJXaWR0aFw+</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7700,7 +7700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fitler</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry>filter</entry>
         <entry>filterSli</entry>
@@ -7720,6 +7719,7 @@
         <entry encoding="base64">XDxjYXRlZ29yeUJhY2tcPg==</entry>
         <entry>CATEGORY</entry>
         <entry encoding="base64">XDxkcmF3ZXJXaWR0aFw+</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>
