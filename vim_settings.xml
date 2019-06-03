@@ -74,12 +74,12 @@
       <file name="/a.sql" timestamp="1556183935264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559551456678">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559566639785">
         <mark key="'" line="209" column="8" />
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="25" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="/dummy.sql" timestamp="1556540316843">
         <mark key="[" line="0" column="0" />
@@ -127,9 +127,6 @@
         <mark key="]" line="49" column="25" />
         <mark key="." line="49" column="25" />
         <mark key="^" line="49" column="25" />
-      </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1559551544152">
-        <mark key="'" line="131" column="4" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" timestamp="1557480994917">
         <mark key="[" line="13" column="0" />
@@ -251,7 +248,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>r</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7650,7 +7647,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>CATEGORY</text>
