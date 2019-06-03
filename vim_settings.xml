@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/sillyleague/.gitignore" timestamp="1558351536798">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/App.jsx" timestamp="1559567700423">
+        <mark key="'" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" timestamp="1559548113521">
         <mark key="'" line="2" column="15" />
@@ -42,24 +39,12 @@
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/BuildArea.jsx" timestamp="1559127804299">
         <mark key="'" line="128" column="36" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/reducers/config.jsx" timestamp="1557402272855">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-      </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" timestamp="1559548493040">
         <mark key="'" line="311" column="8" />
         <mark key="[" line="327" column="54" />
         <mark key="]" line="327" column="80" />
         <mark key="." line="327" column="80" />
         <mark key="^" line="327" column="80" />
-      </file>
-      <file name="$USER_HOME$/development/codility/src/com/company/Main.java" timestamp="1557679187404">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
       </file>
       <file name="/sparque-management.public.account [sparque-management@localhost]" timestamp="1556540316503">
         <mark key="[" line="0" column="0" />
@@ -105,12 +90,6 @@
         <mark key="[" line="26" column="13" />
         <mark key="]" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/development/sparque/management/.gitignore" timestamp="1558351569547">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
-      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/reducers/shop.jsx" timestamp="1559551576509">
         <mark key="'" line="62" column="39" />
         <mark key="[" line="21" column="8" />
@@ -128,12 +107,6 @@
         <mark key="." line="49" column="25" />
         <mark key="^" line="49" column="25" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" timestamp="1557480994917">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-      </file>
       <file name="/GraphQL.variables.json" timestamp="1557390801698">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,9 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="54" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
-      <jump line="12" column="21" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
-      <jump line="45" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="37" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="146" column="48" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
       <jump line="11" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/Tile.jsx" />
@@ -245,6 +215,9 @@
       <jump line="62" column="39" filename="$USER_HOME$/development/sparque/sparque-demo/src/reducers/shop.jsx" />
       <jump line="96" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/reducers/facet.jsx" />
       <jump line="40" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/src/reducers/facet.jsx" />
+      <jump line="64" column="65" filename="$USER_HOME$/development/sillyleague/client/src/app/App.jsx" />
+      <jump line="10" column="6" filename="$USER_HOME$/development/sillyleague/client/src/app/App.jsx" />
+      <jump line="19" column="13" filename="$USER_HOME$/development/sillyleague/client/src/app/App.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -7650,7 +7623,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>CATEGORY</text>
+        <text encoding="base64">XDxkcmF3ZXJXaWR0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4OiAtMSAqIG1lY1BpeGVsLngsCg==</text>
@@ -7717,9 +7690,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CATEGORY</last-search>
+      <last-search encoding="base64">XDxkcmF3ZXJXaWR0aFw+</last-search>
       <last-offset />
-      <last-pattern>CATEGORY</last-pattern>
+      <last-pattern encoding="base64">XDxkcmF3ZXJXaWR0aFw+</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7727,7 +7700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>removeTile</entry>
         <entry>fitler</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry>filter</entry>
@@ -7747,6 +7719,7 @@
         <entry encoding="base64">XDxzdGF0aXN0aWNzVXJsXD4=</entry>
         <entry encoding="base64">XDxjYXRlZ29yeUJhY2tcPg==</entry>
         <entry>CATEGORY</entry>
+        <entry encoding="base64">XDxkcmF3ZXJXaWR0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>
