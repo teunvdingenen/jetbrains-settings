@@ -67,7 +67,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559639279459">
-        <mark key="'" line="205" column="4" />
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -126,8 +125,12 @@
         <mark key="." line="49" column="25" />
         <mark key="^" line="49" column="25" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1559638493292">
-        <mark key="'" line="446" column="24" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1559641121842">
+        <mark key="'" line="418" column="32" />
+        <mark key="[" line="97" column="5" />
+        <mark key="]" line="97" column="5" />
+        <mark key="." line="97" column="5" />
+        <mark key="^" line="97" column="5" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1557390801698">
         <mark key="[" line="0" column="0" />
@@ -140,10 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="18" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="14" column="17" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="370" column="24" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="128" column="36" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="264" column="23" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="282" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="373" column="58" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -240,10 +239,14 @@
       <jump line="299" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="410" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="446" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="337" column="31" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="409" column="60" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="85" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="418" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>devel</text>
+        <text>/</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7642,16 +7645,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>devel</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Mini</text>
+        <text>brands</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgaW1hZ2VVcmwgPSBpID0+ICgKICAgIGBodHRwczovL3NhaW50LWdvYmFpbi1yZXMuY2xvdWRpbmFyeS5jb20vaW1hZ2VzL2NfZml0LGhfMzUwLHdfMTAwLHFfOTAsZl9hdXRvLyR7aX0vJHtpfS1qcGdgCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7680,38 +7683,38 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y29uc3QgaW1hZ2VVcmwgPSBpID0+ICgKICAgIGBodHRwczovL3NhaW50LWdvYmFpbi1yZXMuY2xvdWRpbmFyeS5jb20vaW1hZ2VzL2NfZml0LGhfMzUwLHdfMTAwLHFfOTAsZl9hdXRvLyR7aX0vJHtpfS1qcGdgCikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc3QgaW1hZ2VVcmwgPSBpID0+ICgKICAgIGBodHRwczovL3NhaW50LWdvYmFpbi1yZXMuY2xvdWRpbmFyeS5jb20vaW1hZ2VzL2NfZml0LGhfMzUwLHdfMTAwLHFfOTAsZl9hdXRvLyR7aX0vJHtpfS1qcGdgCikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Mini</last-search>
+      <last-search>brands</last-search>
       <last-offset />
-      <last-pattern>Mini</last-pattern>
+      <last-pattern>brands</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7719,7 +7722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTrait</entry>
         <entry>cart</entry>
         <entry>color</entry>
         <entry>o</entry>
@@ -7736,9 +7738,10 @@
         <entry>getPrice</entry>
         <entry encoding="base64">XDxjYXJ0VG90YWxcPg==</entry>
         <entry>image</entry>
-        <entry>Brand</entry>
         <entry>Price</entry>
         <entry>Mini</entry>
+        <entry>Brand</entry>
+        <entry>brands</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>
