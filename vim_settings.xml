@@ -88,12 +88,12 @@
         <mark key="." line="17" column="1" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" timestamp="1559573312518">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" timestamp="1559636205022">
         <mark key="'" line="75" column="6" />
-        <mark key="[" line="215" column="24" />
-        <mark key="]" line="216" column="20" />
-        <mark key="^" line="216" column="20" />
-        <mark key="." line="216" column="20" />
+        <mark key="[" line="209" column="33" />
+        <mark key="]" line="211" column="20" />
+        <mark key="^" line="211" column="20" />
+        <mark key="." line="211" column="20" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1559548775304">
         <mark key="[" line="0" column="0" />
@@ -232,8 +232,8 @@
       <jump line="75" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7632,7 +7632,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -7641,7 +7641,7 @@
         <text encoding="base64">Y29uc3QgaW1hZ2VVcmwgPSBpID0+ICgKICAgIGBodHRwczovL3NhaW50LWdvYmFpbi1yZXMuY2xvdWRpbmFyeS5jb20vaW1hZ2VzL2NfZml0LGhfMzUwLHdfMTAwLHFfOTAsZl9hdXRvLyR7aX0vJHtpfS1qcGdgCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7671,31 +7671,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
         x: axialToPixel(MECATOL),
         y: -2308
       }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2Nyb3NzLWZldGNoJwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50TW9kZSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8ge28uYXZhaWwKICAgICAgICAgICsgZS5hdmFpbH0g</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">LyB7by5pbmZsCiAgICAgICAgICArIGUuaW5mbH0g</text>
+        <text encoding="base64">IC8ge28uYXZhaWwKICAgICAgICAgICsgZS5hdmFpbH0g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
