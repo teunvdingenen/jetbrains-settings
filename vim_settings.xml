@@ -143,8 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="23" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="282" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="373" column="58" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="147" column="13" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="273" column="6" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -243,6 +241,8 @@
       <jump line="409" column="60" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="85" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="418" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="12" column="28" filename="$USER_HOME$/development/sillyleague/client/package.json" />
+      <jump line="22" column="5" filename="$USER_HOME$/development/sillyleague/client/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -7648,7 +7648,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>brands</text>
+        <text>material</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgaW1hZ2VVcmwgPSBpID0+ICgKICAgIGBodHRwczovL3NhaW50LWdvYmFpbi1yZXMuY2xvdWRpbmFyeS5jb20vaW1hZ2VzL2NfZml0LGhfMzUwLHdfMTAwLHFfOTAsZl9hdXRvLyR7aX0vJHtpfS1qcGdgCikK</text>
@@ -7708,13 +7708,13 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>brands</last-search>
+      <last-search>material</last-search>
       <last-offset />
-      <last-pattern>brands</last-pattern>
+      <last-pattern>material</last-pattern>
       <last-replace>this.props.classes</last-replace>
       <last-substitute>this.classes</last-substitute>
       <last-dir>1</last-dir>
@@ -7722,7 +7722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cart</entry>
         <entry>color</entry>
         <entry>o</entry>
         <entry encoding="base64">XDxvXD4=</entry>
@@ -7742,6 +7741,7 @@
         <entry>Mini</entry>
         <entry>Brand</entry>
         <entry>brands</entry>
+        <entry>material</entry>
       </history-search>
       <history-cmd>
         <entry>%s/History/Leaderboards/g</entry>
@@ -7759,11 +7759,11 @@
         <entry>%s/LeagueSchema/League/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ew</entry>
-        <entry>q</entry>
         <entry>%s/this.classes/this.props.classes/g</entry>
         <entry>we</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
