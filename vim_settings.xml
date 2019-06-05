@@ -108,12 +108,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/queries.js" timestamp="1559747430212">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/queries.js" timestamp="1559748278144">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1559744123926">
         <mark key="'" line="60" column="0" />
@@ -299,7 +299,7 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559746947550">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559747549648">
         <mark key="'" line="31" column="30" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="41" />
@@ -363,11 +363,11 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1559747436756">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="35" />
-        <mark key="^" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1559748139337">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1559746357450">
         <mark key="'" line="36" column="8" />
@@ -432,12 +432,11 @@
         <mark key="." line="200" column="50" />
         <mark key="^" line="200" column="50" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" timestamp="1559747455286">
-        <mark key="'" line="6" column="23" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-        <mark key="^" line="11" column="55" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" timestamp="1559749066905">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -543,8 +542,8 @@
       <jump line="31" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cosnt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7943,16 +7942,27 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cosnt</text>
+        <text>&quot;maxprice&quot;</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldEZhY2V0OiAoX3Jvb3QsIHtmYWNldH0sIHtjYWNoZSwgZ2V0Q2FjaGV9KSA9PiB7Cg==</text>
+      <register name="0" type="4">
+        <text>switch (facet) {
+    case &quot;minprice&quot;:
+      return url.minPriceFilter(value)
+    case &quot;maxprice&quot;:
+      return url.maxPriceFilter(value)
+    case &quot;preferprice&quot;:
+      return url.preferPrice(value)
+    case &quot;brand&quot;:
+      return url.brandFilter(value)
+    case &quot;category&quot;:
+      return url.categoryFilter(value)
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldEtleXdvcmQ6ICgpXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7982,28 +7992,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1pbnByaWNlID0gKCkgPT4gewogIHJldHVybiBnZXQoCiAgICAgIHNlYXJjaFVybCgpICsgZmFjZXRGaWx0ZXJzKCJtaW5wcmljZSIpICsgdXJsLnJlc3VsdHMgKyB1cmwucGFyYW1ldGVycygKICAgICAge2NvbmZpZzogY29uZmlnfSkpCn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNldENvbmZpZzogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpZyBmcm9tICcuL3BhZ2VzL0NvbmZpZycK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvUHJvdmlkZXI+Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gZmFjZXRPcGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9UaGVtZVByb3ZpZGVyPgo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1heHByaWNlID0gKCkgPT4gewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L1BlcnNpc3RHYXRlPgo=</text>
+      <register name="8" type="4">
+        <text>return get(
+      searchUrl() + facetFilters(&quot;maxprice&quot;) +  url.results + url.parameters(
+      {config: config}))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcGVyc2lzdG9yPXtwZXJzaXN0b3J9Pgo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVybC5jYXRlZ29yeUZpbHRlcih2YWx1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
