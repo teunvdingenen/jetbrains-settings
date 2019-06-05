@@ -7,12 +7,12 @@
         <mark key="'" line="42" column="76" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" timestamp="1559680920695">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="6" />
-        <mark key="." line="36" column="6" />
-        <mark key="^" line="36" column="6" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" timestamp="1559726983161">
+        <mark key="'" line="36" column="11" />
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="57" />
+        <mark key="." line="58" column="57" />
+        <mark key="^" line="58" column="57" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/src/db/model/index.js" timestamp="1559127043385">
         <mark key="'" line="33" column="0" />
@@ -53,12 +53,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" timestamp="1559689201390">
-        <mark key="'" line="419" column="10" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="419" column="11" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" timestamp="1559727614260">
+        <mark key="'" line="280" column="12" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="413" column="11" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/reducers/cart.jsx" timestamp="1559638338444">
         <mark key="'" line="63" column="18" />
@@ -101,12 +101,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" timestamp="1559662721845">
-        <mark key="'" line="21" column="29" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="21" column="29" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" timestamp="1559727557266">
+        <mark key="'" line="119" column="48" />
+        <mark key="[" line="77" column="29" />
+        <mark key="]" line="78" column="24" />
+        <mark key="^" line="78" column="24" />
+        <mark key="." line="78" column="24" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/home/HomeHighlight.jsx" timestamp="1559677678280">
         <mark key="'" line="12" column="20" />
@@ -115,11 +115,12 @@
         <mark key="." line="82" column="35" />
         <mark key="^" line="82" column="35" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" timestamp="1559680832516">
-        <mark key="'" line="161" column="2" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" timestamp="1559727548841">
+        <mark key="'" line="126" column="30" />
+        <mark key="[" line="127" column="50" />
+        <mark key="]" line="127" column="50" />
+        <mark key="^" line="47" column="53" />
+        <mark key="." line="127" column="50" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/Error.jsx" timestamp="1559658513196">
         <mark key="'" line="2" column="18" />
@@ -141,11 +142,12 @@
         <mark key="^" line="104" column="28" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/theme.jsx" timestamp="1559685093637">
-        <mark key="[" line="74" column="6" />
-        <mark key="]" line="74" column="12" />
-        <mark key="." line="74" column="12" />
-        <mark key="^" line="74" column="12" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/theme.jsx" timestamp="1559726702344">
+        <mark key="a" line="32" column="6" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/local/resolvers.jsx" timestamp="1559682189306">
         <mark key="[" line="6" column="53" />
@@ -335,12 +337,12 @@
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
-      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" timestamp="1559662018471">
-        <mark key="'" line="60" column="13" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="6" />
-        <mark key="." line="52" column="6" />
-        <mark key="^" line="52" column="6" />
+      <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" timestamp="1559727344504">
+        <mark key="'" line="846" column="15" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="895" column="18" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1559641121842">
         <mark key="'" line="417" column="32" />
@@ -357,43 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="34" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="153" column="33" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="156" column="36" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="157" column="41" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="169" column="26" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="175" column="40" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="176" column="43" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="183" column="40" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="184" column="43" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="191" column="40" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="192" column="43" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="198" column="40" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="200" column="43" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="213" column="43" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="214" column="46" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="226" column="36" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="233" column="43" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="234" column="46" filename="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" />
-      <jump line="40" column="20" filename="$USER_HOME$/development/sillyleague/client/src/app/components/calendar/CreateEvent.jsx" />
-      <jump line="433" column="36" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="434" column="23" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="53" column="3" filename="$USER_HOME$/development/sillyleague/client/src/app/Results.jsx" />
-      <jump line="151" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/Results.jsx" />
-      <jump line="150" column="17" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="139" column="4" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="58" column="16" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="162" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="46" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
-      <jump line="42" column="76" filename="$USER_HOME$/development/sillyleague/client/src/app/App.jsx" />
-      <jump line="29" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="133" column="26" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="143" column="9" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="181" column="9" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="240" column="13" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="276" column="9" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="295" column="17" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="403" column="30" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="135" column="60" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="179" column="11" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="238" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -442,9 +407,7 @@
       <jump line="166" column="9" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="363" column="4" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="167" column="16" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="199" column="4" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="206" column="4" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="219" column="4" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="229" column="4" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="263" column="8" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="455" column="28" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
@@ -457,10 +420,49 @@
       <jump line="376" column="34" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="360" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="421" column="10" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="36" column="11" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" />
+      <jump line="60" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="199" column="6" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="278" column="10" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="300" column="31" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="318" column="18" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" />
+      <jump line="856" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" />
+      <jump line="866" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" />
+      <jump line="876" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" />
+      <jump line="886" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" />
+      <jump line="896" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" />
+      <jump line="846" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tiles.js" />
+      <jump line="301" column="14" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="381" column="0" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="70" column="53" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="71" column="42" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="76" column="35" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="80" column="48" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="90" column="14" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="157" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="181" column="46" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="191" column="21" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="47" column="53" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="127" column="50" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="153" column="2" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="76" column="42" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="125" column="9" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="126" column="30" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/AddMenu.jsx" />
+      <jump line="68" column="12" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
+      <jump line="80" column="15" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
+      <jump line="82" column="26" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
+      <jump line="119" column="48" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" />
+      <jump line="198" column="14" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="66" column="6" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="183" column="8" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="219" column="8" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="221" column="8" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="280" column="12" filename="$USER_HOME$/development/sillyleague/client/src/app/components/maps/CreateMap.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBbc2V0dXAsIHNldFNldHVwXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7862,16 +7864,22 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>setEle</text>
+        <text encoding="base64">XDxfdXBkYXRlU2xpY2VzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>{
-          x: (state.pan.x + ref.getBoundingClientRect().width / 2),
-          y: state.pan.y + ref.getBoundingClientRect().height / 2,
-        }</text>
+      &quot;number&quot;: &quot;home&quot;,
+      &quot;name&quot;: &quot;Generic Home&quot;,
+      &quot;race&quot;: &quot;Any&quot;,
+      &quot;wormhole&quot;: &quot;NO_WORMHOLE&quot;,
+      &quot;anomaly&quot;: &quot;NO_ANOMALY&quot;,
+      &quot;planets&quot;: [
+
+      ]
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBbc2V0dXAsIHNldFNldHVwXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7901,37 +7909,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBtZWNQaXhlbCA9IGF4aWFsVG9QaXhlbChNRUNBVE9MKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc3QgaG9tZVRpbGUgPSAoCiAgICAgICAgPE1lbnVJdGVtIG9uQ2xpY2s9e19vblRpbGVTZWxlY3QoZmluZFRpbGUoJ2hvbWUnKSl9PgogICAgICAgICAgPExpc3RJdGVtSWNvbj4KICAgICAgICAgICAgPEhvbWVJY29uIGNsYXNzTmFtZT17Y2xhc3Nlcy5tZW51SWNvbn0vPgogICAgICAgICAgPC9MaXN0SXRlbUljb24+CiAgICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSJpbmhlcml0Ij5HZW5lcmljIEhvbWU8L1R5cG9ncmFwaHk+CiAgICAgICAgPC9NZW51SXRlbT4KICAgICk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBjb25zdCBfc2V0RWxlbWVudCA9IHJlZiA9PiB7CiAgICBpZiAoc2V0dXAgfHwgcmVmID09PSBudWxsKSB7CiAgICAgIHJldHVybgogICAgfQogICAgY29uc3QgbmV3UGFuID0gewogICAgICB4OiBzdGF0ZS5wYW4ueCAtIHJlZi5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS53aWR0aCwKICAgICAgeTogc3RhdGUucGFuLnkgLSByZWYuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCkuaGVpZ2h0LAogICAgfQogICAgdXNlRWZmZWN0KCgpID0+IHsKICAgICAgc2V0U3RhdGUoc3RhdGUgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBwYW46IG5ld1BhbgogICAgICB9KSkKICAgIH0pCiAgICBzZXRTZXR1cCh0cnVlKQog</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5wYW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGlsZS5udW1iZXIgIT09ICdob21lJykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsK</text>
+      <register name="8" type="4">
+        <text>if (tile.number === 'home') {
+      tile.number = 90 + state.slices.length
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUucGFuKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setEle</last-search>
+      <last-search encoding="base64">XDxfdXBkYXRlU2xpY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>setEle</last-pattern>
+      <last-pattern encoding="base64">XDxfdXBkYXRlU2xpY2VzXD4=</last-pattern>
       <last-replace />
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -7939,14 +7949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry encoding="base64">XDxnZXRUVFNTdHJpbmdcPg==</entry>
-        <entry>log</entry>
-        <entry>withStyles</entry>
-        <entry>spacing</entry>
-        <entry>this.</entry>
-        <entry>profile</entry>
-        <entry>nul</entry>
         <entry>ref</entry>
         <entry encoding="base64">XDxwYW5XcmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxwYW5Db250YWluZXJcPg==</entry>
@@ -7959,6 +7961,14 @@
         <entry encoding="base64">XDxwYW5cPg==</entry>
         <entry>useEle</entry>
         <entry>setEle</entry>
+        <entry>unit</entry>
+        <entry>getSlice</entry>
+        <entry>updateSli</entry>
+        <entry encoding="base64">XDxzbGljZXNcPg==</entry>
+        <entry>Generic</entry>
+        <entry>home</entry>
+        <entry encoding="base64">XDxhZGRTbGljZVBvc2l0aW9uc1w+</entry>
+        <entry encoding="base64">XDxfdXBkYXRlU2xpY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.props.product/product/g</entry>
