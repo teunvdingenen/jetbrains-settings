@@ -253,6 +253,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/App.jsx" timestamp="1559739246304">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="40" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" timestamp="1559738319437">
         <mark key="'" line="204" column="48" />
         <mark key="[" line="204" column="48" />
@@ -442,7 +446,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAbWF0ZXJpYWwtdWkvY29kZW1vZCI6ICJeNC4wLjIiLAo=</text>
+        <text encoding="base64">Y29uc3QgdXNlU3R5bGVzID0gbWFrZVN0eWxlcyh0aGVtZSA9PiAoewo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7847,7 +7851,7 @@
         <text>spacing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJAbWF0ZXJpYWwtdWkvY29yZSI6ICJeNC4wLjAiLAo=</text>
+        <text encoding="base64">Y29uc3QgdXNlU3R5bGVzID0gbWFrZVN0eWxlcyh0aGVtZSA9PiAoewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJAbWF0ZXJpYWwtdWkvY29kZW1vZCI6ICJeNC4wLjIiLAo=</text>
