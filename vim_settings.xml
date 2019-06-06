@@ -108,12 +108,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/queries.js" timestamp="1559807982375">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/queries.js" timestamp="1559809721398">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="36" column="19" />
-        <mark key="^" line="36" column="19" />
-        <mark key="." line="36" column="19" />
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="44" column="4" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="44" column="4" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1559744123926">
         <mark key="'" line="60" column="0" />
@@ -363,10 +363,11 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1559808842643">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1559809686333">
+        <mark key="[" line="24" column="73" />
+        <mark key="]" line="24" column="80" />
+        <mark key="." line="24" column="80" />
+        <mark key="^" line="24" column="80" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1559746357450">
         <mark key="'" line="36" column="8" />
@@ -431,18 +432,15 @@
         <mark key="." line="200" column="50" />
         <mark key="^" line="200" column="50" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" timestamp="1559808806420">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" timestamp="1559810809446">
+        <mark key="'" line="131" column="70" />
+        <mark key="[" line="139" column="2" />
+        <mark key="]" line="135" column="101" />
+        <mark key="^" line="135" column="101" />
+        <mark key="." line="135" column="101" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
-      <jump line="134" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
-      <jump line="339" column="58" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
-      <jump line="116" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Login.jsx" />
       <jump line="46" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
       <jump line="119" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
       <jump line="142" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
@@ -539,10 +537,14 @@
       <jump line="36" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="4" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="31" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
+      <jump line="47" column="69" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
+      <jump line="37" column="56" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
+      <jump line="123" column="70" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHMK</text>
+      <register name="&quot;" type="4">
+        <text>(productId !== undefined ? url.pageid(productId) : &quot;&quot;)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7941,27 +7943,17 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>await client.query({query: SORT_QUERY})</text>
+        <text>(productId !== undefined ? url.pageid(productId) : &quot;&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>demouser</text>
       </register>
       <register name="0" type="4">
-        <text>switch (facet) {
-    case &quot;minprice&quot;:
-      return url.minPriceFilter(value)
-    case &quot;maxprice&quot;:
-      return url.maxPriceFilter(value)
-    case &quot;preferprice&quot;:
-      return url.preferPrice(value)
-    case &quot;brand&quot;:
-      return url.brandFilter(value)
-    case &quot;category&quot;:
-      return url.categoryFilter(value)
-  }</text>
+        <text>const userid = demouser()
+  const cartids = cartids()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHMK</text>
+        <text encoding="base64">ICBjb25zdCBjYXJ0aWRzID0gY2FydGlkcygpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7991,37 +7983,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gdW5kZWZpbmVkCg==</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyaWQgPSBkZW1vdXNlcigpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY291bnQgPSA1MAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KGNhcnRpZHMubGVuZ3RoID4gMCA/IHVybC5jYXJ0SWQoCiAgICAgIGNhcnRpZHMpIDogIiIp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjYXJ0aWRzID0gY2FydGlkcygpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>(userid
+  !== undefined ? url.userid(userid) : &quot;&quot;)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyaWQgPSBkZW1vdXNlcigpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhc2UgIiI6Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">KGNhcnRpZHMubGVuZ3RoID4gMCA/IHVybC5jYXJ0SWQoCiAgICAgIGNhcnRpZHMpIDogIiIp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UgdW5kZWZpbmVkOgo=</text>
+        <text encoding="base64">ICBjb25zdCBjYXJ0ID0gYXdhaXQgY2xpZW50LnF1ZXJ5KHtxdWVyeTogQ0FSVF9RVUVSWX0pLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICJkZWZhdWx0IjoK</text>
+        <text encoding="base64">ICAgIHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>demouser</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>demouser</last-pattern>
       <last-replace />
       <last-substitute>props.</last-substitute>
       <last-dir>1</last-dir>
@@ -8029,7 +8022,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Header</entry>
         <entry>header</entry>
         <entry>price</entry>
         <entry encoding="base64">XDxzZXRTdGF0ZVw+</entry>
@@ -8049,6 +8041,7 @@
         <entry encoding="base64">XDwvXD4=</entry>
         <entry>props</entry>
         <entry>client</entry>
+        <entry>demouser</entry>
       </history-search>
       <history-cmd>
         <entry>%s/element/component/g</entry>
