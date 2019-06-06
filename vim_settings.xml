@@ -108,12 +108,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/queries.js" timestamp="1559748278144">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/queries.js" timestamp="1559807982375">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="36" column="19" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1559744123926">
         <mark key="'" line="60" column="0" />
@@ -363,11 +363,10 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1559748139337">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1559808842643">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1559746357450">
         <mark key="'" line="36" column="8" />
@@ -432,11 +431,11 @@
         <mark key="." line="200" column="50" />
         <mark key="^" line="200" column="50" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" timestamp="1559749066905">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" timestamp="1559808806420">
+        <mark key="'" line="15" column="23" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -543,7 +542,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7942,7 +7941,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;maxprice&quot;</text>
+        <text>await client.query({query: SORT_QUERY})</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
@@ -7962,7 +7961,7 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7992,30 +7991,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gdW5kZWZpbmVkCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1pbnByaWNlID0gKCkgPT4gewogIHJldHVybiBnZXQoCiAgICAgIHNlYXJjaFVybCgpICsgZmFjZXRGaWx0ZXJzKCJtaW5wcmljZSIpICsgdXJsLnJlc3VsdHMgKyB1cmwucGFyYW1ldGVycygKICAgICAge2NvbmZpZzogY29uZmlnfSkpCn0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY291bnQgPSA1MAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmFjZXRPcGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IG1heHByaWNlID0gKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIGNhc2UgIiI6Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>return get(
-      searchUrl() + facetFilters(&quot;maxprice&quot;) +  url.results + url.parameters(
-      {config: config}))</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNhc2UgdW5kZWZpbmVkOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHVybC5jYXRlZ29yeUZpbHRlcih2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICJkZWZhdWx0IjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
