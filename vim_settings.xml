@@ -115,12 +115,12 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1559744123926">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="53" column="18" />
-        <mark key="]" line="53" column="25" />
-        <mark key="^" line="53" column="25" />
-        <mark key="." line="53" column="25" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1559811897746">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="47" column="25" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/home/HomeHighlight.jsx" timestamp="1559677678280">
         <mark key="'" line="12" column="20" />
@@ -432,12 +432,12 @@
         <mark key="." line="200" column="50" />
         <mark key="^" line="200" column="50" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" timestamp="1559810809446">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" timestamp="1559811748407">
         <mark key="'" line="131" column="70" />
-        <mark key="[" line="139" column="2" />
-        <mark key="]" line="135" column="101" />
-        <mark key="^" line="135" column="101" />
-        <mark key="." line="135" column="101" />
+        <mark key="[" line="168" column="1" />
+        <mark key="]" line="171" column="48" />
+        <mark key="^" line="171" column="48" />
+        <mark key="." line="171" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -543,8 +543,8 @@
       <jump line="123" column="70" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(productId !== undefined ? url.pageid(productId) : &quot;&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHt3aXRoU3R5bGVzfSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9zdHlsZXMnCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7943,7 +7943,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(productId !== undefined ? url.pageid(productId) : &quot;&quot;)</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>demouser</text>
@@ -7953,7 +7953,7 @@
   const cartids = cartids()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBjYXJ0aWRzID0gY2FydGlkcygpCg==</text>
+        <text encoding="base64">aW1wb3J0IHt3aXRoU3R5bGVzfSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9zdHlsZXMnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7983,29 +7983,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VyaWQgPSBkZW1vdXNlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KGNhcnRpZHMubGVuZ3RoID4gMCA/IHVybC5jYXJ0SWQoCiAgICAgIGNhcnRpZHMpIDogIiIp</text>
+        <text>import {connect} from 'react-redux'
+import {
+  fetchFreeShippingRecommend,
+  fetchProductRecommendations,
+} from '../../actions/index'</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBjb25zdCBjYXJ0aWRzID0gY2FydGlkcygpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCB1c2VyaWQgPSBkZW1vdXNlcigpCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">KGNhcnRpZHMubGVuZ3RoID4gMCA/IHVybC5jYXJ0SWQoCiAgICAgIGNhcnRpZHMpIDogIiIp</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zdCBjYXJ0aWRzID0gY2FydGlkcygpCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>(userid
   !== undefined ? url.userid(userid) : &quot;&quot;)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VyaWQgPSBkZW1vdXNlcigpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">KGNhcnRpZHMubGVuZ3RoID4gMCA/IHVybC5jYXJ0SWQoCiAgICAgIGNhcnRpZHMpIDogIiIp</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjYXJ0ID0gYXdhaXQgY2xpZW50LnF1ZXJ5KHtxdWVyeTogQ0FSVF9RVUVSWX0pLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHMK</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyaWQgPSBkZW1vdXNlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
