@@ -461,10 +461,10 @@
         <mark key="^" line="895" column="18" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1559897112972">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1559898575272">
         <mark key="'" line="98" column="16" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="40" />
+        <mark key="[" line="247" column="14" />
+        <mark key="]" line="257" column="15" />
         <mark key="^" line="71" column="23" />
         <mark key="." line="105" column="0" />
       </file>
@@ -606,7 +606,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isRequried</text>
+        <text encoding="base64">PFR5cG9ncmFwaHkgaWQ9J21pbi1sYWJlbCc+TWluaW11bQogICAgICAgICAgICAgICAgUHJpY2U6IHtzdGF0ZS5wcmljZS5taW59PC9UeXBvZ3JhcGh5PgogICAgICAgICAgICAgIDxTbGlkZXIKICAgICAgICAgICAgICAgICAgaWQ9Im1pbi1zbGlkZXIiCiAgICAgICAgICAgICAgICAgIG1pbj17cHJvcHMucHJpY2UucXVlcnkubWlufQogICAgICAgICAgICAgICAgICBtYXg9e3Byb3BzLnByaWNlLnF1ZXJ5Lm1heH0KICAgICAgICAgICAgICAgICAgY2xhc3Nlcz17e2NvbnRhaW5lcjogY2xhc3Nlcy5zbGlkZXJ9fQogICAgICAgICAgICAgICAgICB2YWx1ZT17c3RhdGUucHJpY2UubWlufQogICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsbGVkYnk9Im1heC1sYWJlbCIKICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e2hhbmRsZVNsaWRlckNoYW5nZSgibWluIil9CiAgICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -8011,7 +8011,7 @@
         <text>Cart</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29uc3QgX2Vycm9yID0gZXJyID0+IHsKICAgIAogIH0=</text>
+        <text encoding="base64">PFR5cG9ncmFwaHkgaWQ9J21pbi1sYWJlbCc+TWluaW11bQogICAgICAgICAgICAgICAgUHJpY2U6IHtzdGF0ZS5wcmljZS5taW59PC9UeXBvZ3JhcGh5PgogICAgICAgICAgICAgIDxTbGlkZXIKICAgICAgICAgICAgICAgICAgaWQ9Im1pbi1zbGlkZXIiCiAgICAgICAgICAgICAgICAgIG1pbj17cHJvcHMucHJpY2UucXVlcnkubWlufQogICAgICAgICAgICAgICAgICBtYXg9e3Byb3BzLnByaWNlLnF1ZXJ5Lm1heH0KICAgICAgICAgICAgICAgICAgY2xhc3Nlcz17e2NvbnRhaW5lcjogY2xhc3Nlcy5zbGlkZXJ9fQogICAgICAgICAgICAgICAgICB2YWx1ZT17c3RhdGUucHJpY2UubWlufQogICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsbGVkYnk9Im1heC1sYWJlbCIKICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e2hhbmRsZVNsaWRlckNoYW5nZSgibWluIil9CiAgICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">PEJ1dHRvbiBvbkNsaWNrPXtfb25DbGljayhwcm9kdWN0KX0gdmFyaWFudD0iZmFiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9ImluaGVyaXQiIGFyaWEtbGFiZWw9IkFkZCB0byBjYXJ0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLmJ1dHRvbn0+CiAgICAgICAgICAgICAgICAgICAgICA8Q2FydEljb24vPgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPg==</text>
