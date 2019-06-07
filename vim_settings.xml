@@ -10,6 +10,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/AddToCartButton.jsx" timestamp="1559897572723">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="37" />
+      </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" timestamp="1559726983161">
         <mark key="'" line="36" column="11" />
         <mark key="[" line="58" column="39" />
@@ -48,11 +54,6 @@
         <mark key="]" line="39" column="19" />
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="14" />
-      </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/styles/colors.jsx" timestamp="1559740100027">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/package.json" timestamp="1559744887354">
         <mark key="[" line="4" column="21" />
@@ -127,10 +128,12 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1559813257883">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1559897821048">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="134" column="30" />
+        <mark key="]" line="134" column="46" />
+        <mark key="." line="134" column="46" />
+        <mark key="^" line="134" column="46" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/SliceInfo.jsx" timestamp="1559729889045">
         <mark key="'" line="118" column="48" />
@@ -201,11 +204,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/resolvers.js" timestamp="1559819301701">
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="43" column="81" />
-        <mark key="^" line="43" column="81" />
-        <mark key="." line="43" column="81" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/resolvers.js" timestamp="1559896654256">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="40" column="81" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/styles/theme.js" timestamp="1559740263918">
         <mark key="[" line="9" column="1" />
@@ -273,9 +276,10 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Login.jsx" timestamp="1559812980700">
-        <mark key="[" line="120" column="20" />
-        <mark key="]" line="129" column="45" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Login.jsx" timestamp="1559897339058">
+        <mark key="'" line="17" column="36" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/hex_utils.js" timestamp="1558449029595">
         <mark key="'" line="134" column="12" />
@@ -307,11 +311,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/reducers/config.jsx" timestamp="1559736282846">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/Calendar.jsx" timestamp="1559685313310">
         <mark key="'" line="142" column="19" />
@@ -397,12 +396,12 @@
         <mark key="." line="103" column="174" />
         <mark key="^" line="103" column="174" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" timestamp="1559819893749">
-        <mark key="'" line="122" column="15" />
-        <mark key="[" line="140" column="55" />
-        <mark key="]" line="140" column="74" />
-        <mark key="^" line="140" column="74" />
-        <mark key="." line="140" column="74" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" timestamp="1559897808255">
+        <mark key="'" line="134" column="40" />
+        <mark key="[" line="185" column="36" />
+        <mark key="]" line="185" column="52" />
+        <mark key="^" line="185" column="52" />
+        <mark key="." line="185" column="52" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/Unknown.jsx" timestamp="1559659213742">
         <mark key="[" line="2" column="18" />
@@ -410,11 +409,11 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1559814436577">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1559897029603">
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="44" column="50" />
+        <mark key="." line="44" column="50" />
+        <mark key="^" line="44" column="50" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/home/discord-logo.svg" timestamp="1559676812513">
         <mark key="[" line="2" column="2" />
@@ -462,10 +461,10 @@
         <mark key="^" line="895" column="18" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1559820466331">
-        <mark key="'" line="99" column="4" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1559897112972">
+        <mark key="'" line="98" column="16" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="40" />
         <mark key="^" line="71" column="23" />
         <mark key="." line="105" column="0" />
       </file>
@@ -504,14 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="422" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="69" column="40" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="421" column="85" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="70" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="423" column="85" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="184" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="3" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" />
       <jump line="99" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" />
       <jump line="24" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" />
       <jump line="76" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
@@ -604,10 +595,18 @@
       <jump line="92" column="25" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
       <jump line="93" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
       <jump line="26" column="18" filename="$USER_HOME$/development/playti4/client/src/index.js" />
+      <jump line="98" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="2" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/AddToCartButton.jsx" />
+      <jump line="129" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
+      <jump line="25" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
+      <jump line="119" column="11" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
+      <jump line="177" column="12" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
+      <jump line="17" column="36" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
+      <jump line="133" column="40" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRQcmljZSwgZ2V0UHJpY2VWQVR9IGZyb20gIi4uLy4uLy4uL3JlZHVjZXJzL2NhcnRIZWxwZXIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>isRequried</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -8006,16 +8005,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isRequried</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbk1lbW9yeUNhY2hlXD4=</text>
+        <text>Cart</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPEFwb2xsb1Byb3ZpZGVyIGNsaWVudD17Y2xpZW50fT4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y29uc3QgX2Vycm9yID0gZXJyID0+IHsKICAgIAogIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRQcmljZSwgZ2V0UHJpY2VWQVR9IGZyb20gIi4uLy4uLy4uL3JlZHVjZXJzL2NhcnRIZWxwZXIiCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PEJ1dHRvbiBvbkNsaWNrPXtfb25DbGljayhwcm9kdWN0KX0gdmFyaWFudD0iZmFiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9ImluaGVyaXQiIGFyaWEtbGFiZWw9IkFkZCB0byBjYXJ0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLmJ1dHRvbn0+CiAgICAgICAgICAgICAgICAgICAgICA8Q2FydEljb24vPgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8045,45 +8044,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBjb25zdCByZXNldFByaWNlcyA9ICgpID0+IHsKICAgIHNldFN0YXRlKHN0YXRlID0+ICh7CiAgICAgIC4uLnN0YXRlLAogICAgICBwcmljZTogcHJvcHMucHJpY2UuYWJzb2x1dGUsCiAgICB9KSkKICAgIHByb3BzLnNldFByaWNlcyhwcm9wcy5wcmljZS5hYnNvbHV0ZS5taW4sCiAgICAgICAgcHJvcHMucHJpY2UuYWJzb2x1dGUubWF4KQogICAgcHJvcHMucmVzZXRRdWVyeVByaWNlKHByb3BzLnByaWNlLmFic29sdXRlLm1pbiwKICAgICAgICBwcm9wcy5wcmljZS5hYnNvbHV0ZS5tYXgpCiAgfQ==</text>
+        <text>import Button from '@material-ui/core/Button'
+import CartIcon from '@material-ui/icons/ShoppingCart'</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICJAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24iCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PE11dGF0aW9uIG11dGF0aW9uPXtBRERUT0NBUlRfTVVUQVRJT059CiAgICAgICAgICAgICAgICAgICAgICAgIHZhcmlhYmxlcz17ewogICAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3Q6IHByb2R1Y3QKICAgICAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgICAgICAgb25FcnJvcj17ZXJyID0+IF9lcnJvcihlcnIpfQogICAgICAgICAgICAgICAgICAgICAgICBvbkNvbXBsZXRlZD17ZGF0YSA9PiBfY29uZmlybShkYXRhKX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICB7KG11dGF0aW9uLCB7bG9hZGluZywgZXJyb3J9KSA9PiB7CiAgICAgICAgICAgICAgICAgIHJldHVybiAoPEJ1dHRvbiBvbkNsaWNrPXttdXRhdGlvbn0gdmFyaWFudD0iZmFiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9ImluaGVyaXQiIGFyaWEtbGFiZWw9IkFkZCB0byBjYXJ0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLmJ1dHRvbn0+CiAgICAgICAgICAgICAgICAgICAgPENhcnRJY29uLz4KICAgICAgICAgICAgICAgICAgPC9CdXR0b24+KQogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICA8L011dGF0aW9uPg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgdXNlU3R5bGVzID0gdGhlbWUgUAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>import {connect} from 'react-redux'
-import {
-  fetchShopSearch,
-  fetchAbsolutePrices,
-  fetchBrands,
-  fetchCategories,
-  fetchMinPrice,
-  fetchMaxPrice
-} from '../../../actions/index'</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt3aXRoU3R5bGVzfSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9zdHlsZXMnCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBtdXRhICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbk1lbW9yeUNhY2hlXD4=</last-search>
+      <last-search>Cart</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbk1lbW9yeUNhY2hlXD4=</last-pattern>
+      <last-pattern>Cart</last-pattern>
       <last-replace />
       <last-substitute>props.</last-substitute>
       <last-dir>1</last-dir>
@@ -8091,10 +8083,6 @@ import {
     </search>
     <history>
       <history-search>
-        <entry>setState</entry>
-        <entry>this</entry>
-        <entry>this.</entry>
-        <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry>props.</entry>
         <entry encoding="base64">XDxjbGVhckF1dG9jb21wbGV0ZVw+</entry>
         <entry encoding="base64">XDwvXD4=</entry>
@@ -8111,6 +8099,10 @@ import {
         <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
         <entry>props</entry>
         <entry encoding="base64">XDxJbk1lbW9yeUNhY2hlXD4=</entry>
+        <entry>Mutation</entry>
+        <entry encoding="base64">XDxNdXRhdGlvblw+</entry>
+        <entry>AddTo</entry>
+        <entry>Cart</entry>
       </history-search>
       <history-cmd>
         <entry>%s/element/component/g</entry>
