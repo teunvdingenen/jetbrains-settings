@@ -222,10 +222,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/queries/index.jsx" timestamp="1559745979490">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/resolvers.js" timestamp="1559896654256">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -364,8 +360,8 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1559814035876">
-        <mark key="'" line="0" column="1" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" timestamp="1560242112636">
+        <mark key="'" line="362" column="13" />
         <mark key="[" line="544" column="1" />
         <mark key="]" line="545" column="0" />
         <mark key="^" line="545" column="0" />
@@ -377,10 +373,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="31" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/App.jsx" timestamp="1559739246304">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" timestamp="1559820907914">
         <mark key="'" line="45" column="14" />
@@ -439,6 +431,9 @@
         <mark key="." line="46" column="50" />
         <mark key="^" line="46" column="50" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1560241981173">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/SelectSort.jsx" timestamp="1559916809247">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="1" column="32" />
@@ -471,10 +466,6 @@
         <mark key="]" line="21" column="7" />
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Results.jsx" timestamp="1559898916597">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="42" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/home/HomeAppBar.jsx" timestamp="1559677770147">
         <mark key="'" line="22" column="3" />
@@ -537,7 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
       <jump line="89" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
       <jump line="104" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
       <jump line="60" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" />
@@ -637,6 +627,7 @@
       <jump line="21" column="48" filename="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" />
       <jump line="22" column="12" filename="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" />
       <jump line="16" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" />
+      <jump line="362" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
