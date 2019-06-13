@@ -55,8 +55,11 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/package.json" timestamp="1559919135395">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/package.json" timestamp="1560412149286">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="5" column="17" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/Media.jsx" timestamp="1559685140703">
         <mark key="'" line="23" column="23" />
@@ -293,11 +296,11 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/.eslintrc.js" timestamp="1560354690831">
-        <mark key="[" line="23" column="45" />
-        <mark key="]" line="24" column="43" />
-        <mark key="^" line="24" column="43" />
-        <mark key="." line="24" column="43" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/.eslintrc.js" timestamp="1560412104742">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/hex_utils.js" timestamp="1558449029595">
         <mark key="'" line="134" column="12" />
@@ -491,7 +494,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1560352522585">
-        <mark key="'" line="114" column="17" />
+        <mark key="'" line="116" column="17" />
         <mark key="[" line="97" column="27" />
         <mark key="]" line="97" column="90" />
         <mark key="^" line="97" column="90" />
@@ -634,8 +637,8 @@
       <jump line="19" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/CategoryList.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLWltcG9ydCI6ICJeMi4xNy4zIiwK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -8034,7 +8037,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>standard</text>
       </register>
       <register name="/" type="4">
         <text>classes</text>
@@ -8043,7 +8046,7 @@
         <text encoding="base64">ZmFjZXRPcHRpb25zKCJjYXRlZ29yeSIsIHNlbGVjdGVkKS50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgc2V0Q2F0ZWdvcmllcyhyZXNwb25zZS5kYXRhLml0ZW1zKQogICAgfSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLWltcG9ydCI6ICJeMi4xNy4zIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8072,33 +8075,33 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLW5vZGUiOiAiXjkuMS4wIiwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLXByb21pc2UiOiAiXjQuMS4xIiwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLXN0YW5kYXJkIjogIl40LjAuMCIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJlc2xpbnQtY29uZmlnLXN0YW5kYXJkIjogIl4xMi4wLjAiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>import FormControl from &quot;@material-ui/core/FormControl&quot;
 import InputLabel from &quot;@material-ui/core/InputLabel&quot;
 import Select from &quot;@material-ui/core/Select&quot;
 import MenuItem from &quot;@material-ui/core/MenuItem&quot;
 import Input from &quot;@material-ui/core/Input&quot;</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBjb25zdCB0aGVtZSA9IHVzZVRoZW1lKCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50LnRhcmdldC52YWx1ZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2V0U2VsZWN0ZWQoWy4uLnNlbGVjdGVkLCBldmVudC50YXJnZXQudmFsdWVdKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKCBzZWxlY3RlZC5pbmRleE9mKGV2ZW50LnRhcmdldC52YWx1ZSkgIT09IC0xICkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBvcHRpb25WYWx1ZSA9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50LnRhcmdldC52YWx1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
