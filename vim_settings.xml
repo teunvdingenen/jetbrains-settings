@@ -16,13 +16,13 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Campaign.jsx" timestamp="1560422112545">
-        <mark key="b" line="136" column="32" />
-        <mark key="'" line="134" column="16" />
-        <mark key="[" line="150" column="50" />
-        <mark key="]" line="150" column="50" />
-        <mark key="." line="150" column="50" />
-        <mark key="^" line="150" column="53" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Campaign.jsx" timestamp="1560424090873">
+        <mark key="b" line="153" column="32" />
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="25" />
+        <mark key="^" line="68" column="25" />
+        <mark key="." line="68" column="25" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/components/maps/tileIcons.jsx" timestamp="1559726983161">
         <mark key="'" line="36" column="11" />
@@ -518,10 +518,10 @@
         <mark key="^" line="895" column="18" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1560421757816">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="76" column="2" />
-        <mark key="]" line="79" column="3" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1560423106684">
+        <mark key="'" line="273" column="2" />
+        <mark key="[" line="560" column="0" />
+        <mark key="]" line="560" column="60" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/Profile.jsx" timestamp="1559678960848">
         <mark key="[" line="27" column="2" />
@@ -564,12 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
-      <jump line="110" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
-      <jump line="79" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
-      <jump line="47" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="34" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="37" column="57" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="38" column="64" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
@@ -664,10 +658,16 @@
       <jump line="671" column="43" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="82" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="130" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Campaign.jsx" />
+      <jump line="560" column="31" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="273" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="121" column="7" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Campaign.jsx" />
+      <jump line="67" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Campaign.jsx" />
+      <jump line="68" column="54" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Campaign.jsx" />
+      <jump line="127" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Campaign.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ShoppingCartIcon</text>
+        <text>containerRef</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -8066,19 +8066,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ShoppingCartIcon</text>
+        <text>containerRef</text>
       </register>
       <register name="/" type="4">
-        <text>Slider</text>
+        <text encoding="base64">XDxzY3JvbGxFdmVudFw+</text>
       </register>
       <register name="0" type="4">
-        <text>listItemText: {
-    whiteSpace: 'normal',
-    fontSize: '0.8em',
-  },</text>
+        <text encoding="base64">dXNlRWZmZWN0KCgpID0+IHsKICAgIHNldE1pbihwcm9wcy5pdGVtc01pbikKICB9LCBbcHJvcHMuaXRlbXNNaW5dKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEZpbHRlckxpc3RJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9GaWx0ZXJMaXN0Jwo=</text>
+        <text encoding="base64">ICBjb25zdCBbZmV0Y2hpbmcsIHNldEZldGNoaW5nXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8108,37 +8105,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5pdGVtc01heCkK</text>
+        <text encoding="base64">ICAgICAgPC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgPD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblNjcm9sbD17c2Nyb2xsRXZlbnR9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmZXRjaFByaWNlczogKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKGV2ZW50LnRhcmdldC5zY3JvbGxUb3AgKyBldmVudC50YXJnZXQuY2xpZW50SGVpZ2h0CiAgICAgICAgPj0gZXZlbnQudGFyZ2V0LnNjcm9sbEhlaWdodCAmJiAhZmV0Y2hpbmcpIHsKICAgICAgc2V0Q291bnQoY291bnQgKyAxNSkKICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldE1heChwcm9wcy5pdGVtc01heCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmZXRjaENhdGVnb3JpZXM6ICgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZldGNoKGAke2Jhc2V9JHtjYXRlZ29yeU9wdGlvbnN9cmVzdWx0cz9jb25maWc9ZGV2ZWxgLCB7Y3JlZGVudGlhbHM6ICdpbmNsdWRlJ30pCg==</text>
+        <text encoding="base64">ICAgICAgICAhdGhpcy5wcm9wcy5pc0ZldGNoaW5nKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Slider</last-search>
+      <last-search encoding="base64">XDxzY3JvbGxFdmVudFw+</last-search>
       <last-offset />
-      <last-pattern>Slider</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JvbGxFdmVudFw+</last-pattern>
       <last-replace />
       <last-substitute>props.</last-substitute>
       <last-dir>1</last-dir>
@@ -8146,8 +8143,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prefer</entry>
-        <entry encoding="base64">XDxwcmljZVw+</entry>
         <entry>this</entry>
         <entry>addCate</entry>
         <entry>Step</entry>
@@ -8166,6 +8161,8 @@
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxzZXRDYXRlZ29yeVw+</entry>
         <entry>Slider</entry>
+        <entry encoding="base64">XDxsaXN0ZW5TY3JvbGxFdmVudFw+</entry>
+        <entry encoding="base64">XDxzY3JvbGxFdmVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserSchema/User/g</entry>
