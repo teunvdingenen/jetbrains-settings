@@ -135,11 +135,11 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/PriceSlider.jsx" timestamp="1560868069069">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="12" column="50" />
-        <mark key="^" line="12" column="50" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/PriceSlider.jsx" timestamp="1560871125438">
+        <mark key="[" line="28" column="45" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1560438269618">
         <mark key="'" line="23" column="4" />
@@ -499,11 +499,11 @@
         <mark key="^" line="895" column="18" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1560867527092">
-        <mark key="[" line="91" column="34" />
-        <mark key="]" line="91" column="34" />
-        <mark key="^" line="91" column="34" />
-        <mark key="." line="91" column="34" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1560870655801">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="89" column="34" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/Profile.jsx" timestamp="1559678960848">
         <mark key="[" line="27" column="2" />
@@ -642,7 +642,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max</text>
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -8041,7 +8041,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRGYWNldFw+</text>
@@ -8050,7 +8050,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxQcmljZVNsaWRlciBzZXRGYWNldD17KHZhbHVlKSA9PiBzZXRGYWNldCgibWlucHJpY2UiLCB2YWx1ZSl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWx1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IFNsaWRlciBmcm9tICJAbWF0ZXJpYWwtdWkvbGFiL1NsaWRlciIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8080,28 +8080,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtaW4sIG1heCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICBjb25zdCBjbGFzc2VzID0gdXNlU3R5bGVzKCkK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLnNsaWRlcn0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2U9e3NldFZhbHVlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4PXttYXh9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWx1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluPXttaW59Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3Nlcz17e2NvbnRhaW5lcjogY2xhc3Nlcy5zbGlkZXJ9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0QXJlYVZhbHVlVGV4dD17fQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNldExvY2FsKHZhbHVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -8147,7 +8147,6 @@
         <entry>%s/MapSchema/Map/g</entry>
         <entry>%s/LeagueSchema/League/g</entry>
         <entry>%s/this.classes/this.props.classes/g</entry>
-        <entry>we</entry>
         <entry>q</entry>
         <entry>ew</entry>
         <entry>wq</entry>
@@ -8158,6 +8157,7 @@
         <entry>_decoee</entry>
         <entry>isFetching</entry>
         <entry>Lw</entry>
+        <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
