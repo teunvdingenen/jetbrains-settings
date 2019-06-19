@@ -135,10 +135,11 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/PriceSlider.jsx" timestamp="1560933512132">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/PriceSlider.jsx" timestamp="1560934413416">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+        <mark key="." line="28" column="52" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1560438269618">
         <mark key="'" line="23" column="4" />
@@ -232,7 +233,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1560865751251">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1560934392416">
         <mark key="'" line="84" column="9" />
         <mark key="[" line="206" column="7" />
         <mark key="]" line="206" column="7" />
@@ -608,7 +609,6 @@
       <jump line="59" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="60" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="193" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
-      <jump line="84" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
       <jump line="13" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="48" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="69" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
@@ -641,10 +641,11 @@
       <jump line="166" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" />
       <jump line="169" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" />
       <jump line="174" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" />
+      <jump line="84" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHt1c2VUaGVtZX0gZnJvbSAiQG1hdGVyaWFsLXVpL3N0eWxlcyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -8043,16 +8044,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>React.useTimer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc2VzXD4=</text>
+        <text encoding="base64">XDxzZXRUaW1lclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxQcmljZVNsaWRlciBzZXRGYWNldD17KHZhbHVlKSA9PiBzZXRGYWNldCgibWlucHJpY2UiLCB2YWx1ZSl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt1c2VUaGVtZX0gZnJvbSAiQG1hdGVyaWFsLXVpL3N0eWxlcyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8081,38 +8082,38 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">b25DaGFuZ2VDb21taXR0ZWQ9eyhldmVudCwgdmFsdWUpID0+IHsKICAgICAgICAgICAgICBzZXRGYWNldCh2YWx1ZSkKICAgICAgICAgICAgICBjb25zb2xlLmxvZygnY29tbWl0dGVkJykKICAgICAgICAgICAgfX0=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PFR5cG9ncmFwaHkKICAgICAgICAgICAgICAgICAgdmFyaWFudD0iaDYiCiAgICAgICAgICAgICAgICAgIGNvbG9yPSJpbmhlcml0IgogICAgICAgICAgICAgICAgICBub1dyYXA+CiAgICAgICAgICAgICAgICA8RGFzaEJvYXJkSWNvbi8+CiAgICAgICAgICAgICAgPC9UeXBvZ3JhcGh5Pg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHt1c2VUaGVtZX0gZnJvbSAiQG1hdGVyaWFsLXVpL3N0eWxlcyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0QXJlYVZhbHVlVGV4dD17KHYpID0+IChg4oKsJHt2fWApfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGFzc2VzID0gdXNlU3R5bGVzKCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PFR5cG9ncmFwaHkKICAgICAgICAgICAgICAgICAgdmFyaWFudD0iaDYiCiAgICAgICAgICAgICAgICAgIGNvbG9yPSJpbmhlcml0IgogICAgICAgICAgICAgICAgICBub1dyYXA+CiAgICAgICAgICAgICAgICA8RGFzaEJvYXJkSWNvbi8+CiAgICAgICAgICAgICAgPC9UeXBvZ3JhcGh5Pg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGFzc2VzID0gdXNlU3R5bGVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0QXJlYVZhbHVlVGV4dD17KHYpID0+IChg4oKsJHt2fWApfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjbGFzc2VzID0gdXNlU3R5bGVzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdGhlbWUgPSB7fQo=</text>
+        <text encoding="base64">ICBjb25zdCBjbGFzc2VzID0gdXNlU3R5bGVzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEZpbHRlckxpc3RJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9GaWx0ZXJMaXN0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc2VzXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRUaW1lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc2VzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRUaW1lclw+</last-pattern>
       <last-replace />
       <last-substitute>props.</last-substitute>
       <last-dir>1</last-dir>
@@ -8127,7 +8128,6 @@
         <entry>console</entry>
         <entry encoding="base64">XDxnZXRGaWx0ZXJFbmRwb2ludFw+</entry>
         <entry>setTimer</entry>
-        <entry encoding="base64">XDxzZXRUaW1lclw+</entry>
         <entry>brand</entry>
         <entry encoding="base64">XDxzZXRGYWNldFw+</entry>
         <entry>div</entry>
@@ -8140,6 +8140,7 @@
         <entry encoding="base64">XDx1c2VTdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxjYXJ0YnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxjbGFzc2VzXD4=</entry>
+        <entry encoding="base64">XDxzZXRUaW1lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserSchema/User/g</entry>
