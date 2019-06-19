@@ -99,12 +99,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/shopUtils.js" timestamp="1560946019161">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="54" column="37" />
-        <mark key="]" line="54" column="39" />
-        <mark key="." line="54" column="39" />
-        <mark key="^" line="54" column="39" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/shopUtils.js" timestamp="1560947357972">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="23" />
+        <mark key="^" line="42" column="23" />
+        <mark key="." line="42" column="23" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/local/resolvers.jsx" timestamp="1559682189306">
         <mark key="[" line="6" column="53" />
@@ -205,12 +205,12 @@
         <mark key="." line="886" column="64" />
         <mark key="^" line="886" column="64" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" timestamp="1560945831478">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" timestamp="1560947019785">
         <mark key="b" line="85" column="35" />
-        <mark key="'" line="133" column="27" />
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="29" />
-        <mark key="." line="49" column="29" />
+        <mark key="'" line="132" column="27" />
+        <mark key="[" line="114" column="42" />
+        <mark key="]" line="114" column="42" />
+        <mark key="." line="114" column="42" />
         <mark key="^" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/package.json" timestamp="1559733519862">
@@ -399,8 +399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>old.total = old.total + price(item)
-      old.totalVAT = old.totalVAT + priceVAT(item)</text>
+        <text>offer</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7799,17 +7798,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>offer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQcmljZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>old.total = old.total + price(item)
-      old.totalVAT = old.totalVAT + priceVAT(item)</text>
+        <text encoding="base64">Y29uc3Qgb2ZmZXIgPSBvZmZlcihwcm9kdWN0KQogIGlmKCBvZmZlciA9PT0gdW5kZWZpbmVkICkgcmV0dXJuIHVuZGVmaW5lZAogIHJldHVybiBvZmZlci5wcmljZSAhPT0gdW5kZWZpbmVkICYmIG9mZmVyLnByaWNlLnRvRml4ZWQoMik=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvbGQudG90YWxWQVQgPSBvbGQudG90YWxWQVQgKyBwcmljZVZBVChpdGVtKQo=</text>
+        <text encoding="base64">ICByZXR1cm4gcHJpY2UgIT09IHVuZGVmaW5lZCA/IHByaWNlLnRvRml4ZWQoMikgOiBwcmljZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7839,28 +7837,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbGQudG90YWwgPSBvbGQudG90YWwgKyBwcmljZShpdGVtKQo=</text>
+        <text encoding="base64">ICBjb25zdCBwcmljZSA9IG9mZmVyKHByb2R1Y3QpLnByaWNlVkFUCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2xkCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKHByb2R1Y3Qub2ZmZXJzID09PSB1bmRlZmluZWQpIHsKICAgIHJldHVybiAiIgogIH0KICBsZXQgcHJpY2UgPSAiIgogIGlmIChwcm9kdWN0LmluUHJvbW8gPT09IDApIHsKICAgIHByaWNlID0gcHJvZHVjdC5vZmZlcnNbMF0ucHJpY2VWQVQKICB9IGVsc2UgewogICAgaWYgKHByb2R1Y3Qub2ZmZXJzWzBdLnByaWNlVmFsaWRVbnRpbCAhPT0gdW5kZWZpbmVkKSB7CiAgICAgIHByaWNlID0gcHJvZHVjdC5vZmZlcnNbMV0ucHJpY2VWQVQKICAgIH0gZWxzZSB7CiAgICAgIHByaWNlID0gcHJvZHVjdC5vZmZlcnNbMF0ucHJpY2VWQVQKICAgIH0KICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLm9sZCwK</text>
+      <register name="6" type="4">
+        <text>if (product.offers === undefined) {
+    return &quot;&quot;
+  }
+  let price = &quot;&quot;
+  if (product.inPromo === 0) {
+    price = product.offers[0].price
+  } else {
+    if (product.offers[0].priceValidUntil !== undefined) {
+      price = product.offers[1].price
+    } else {
+      price = product.offers[0].price
+    }
+  }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJ0Lml0ZW1zKQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>.toFixed(
+                    2)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gLTEK</text>
+        <text encoding="base64">ICAgICAgICBvbGQudG90YWxWQVQgPSBvbGQudG90YWxWQVQgKyBwcmljZVZBVChpdGVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
