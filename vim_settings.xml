@@ -99,11 +99,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/shopUtils.js" timestamp="1559913494339">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="6" />
-        <mark key="^" line="25" column="6" />
-        <mark key="." line="25" column="6" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/shopUtils.js" timestamp="1560946019161">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="39" />
+        <mark key="." line="54" column="39" />
+        <mark key="^" line="54" column="39" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/local/resolvers.jsx" timestamp="1559682189306">
         <mark key="[" line="6" column="53" />
@@ -129,12 +130,12 @@
         <mark key="^" line="206" column="7" />
         <mark key="." line="206" column="7" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" timestamp="1560942246438">
-        <mark key="'" line="101" column="36" />
-        <mark key="[" line="81" column="33" />
-        <mark key="]" line="81" column="39" />
-        <mark key="." line="81" column="39" />
-        <mark key="^" line="81" column="39" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" timestamp="1560946156849">
+        <mark key="'" line="10" column="63" />
+        <mark key="[" line="82" column="50" />
+        <mark key="]" line="83" column="20" />
+        <mark key="^" line="83" column="20" />
+        <mark key="." line="83" column="20" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" timestamp="1560933406270">
         <mark key="[" line="14" column="19" />
@@ -204,13 +205,13 @@
         <mark key="." line="886" column="64" />
         <mark key="^" line="886" column="64" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" timestamp="1560942304736">
-        <mark key="b" line="86" column="35" />
-        <mark key="'" line="75" column="32" />
-        <mark key="[" line="86" column="44" />
-        <mark key="]" line="86" column="48" />
-        <mark key="." line="86" column="48" />
-        <mark key="^" line="86" column="48" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" timestamp="1560945831478">
+        <mark key="b" line="85" column="35" />
+        <mark key="'" line="133" column="27" />
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="49" column="29" />
+        <mark key="." line="49" column="29" />
+        <mark key="^" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/package.json" timestamp="1559733519862">
         <mark key="[" line="2" column="18" />
@@ -262,10 +263,10 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1560942106194">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1560945714805">
         <mark key="'" line="47" column="50" />
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="23" />
+        <mark key="[" line="124" column="54" />
+        <mark key="]" line="124" column="74" />
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
@@ -295,10 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
-      <jump line="61" column="47" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
-      <jump line="137" column="64" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
-      <jump line="41" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="103" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="186" column="31" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
       <jump line="51" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/index.js" />
@@ -380,13 +377,11 @@
       <jump line="104" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="119" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
-      <jump line="2" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="3" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="58" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="59" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="64" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="65" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
-      <jump line="75" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="77" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="81" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="84" column="34" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
@@ -395,10 +390,17 @@
       <jump line="98" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="99" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
       <jump line="101" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
+      <jump line="75" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
+      <jump line="93" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
+      <jump line="134" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Cart.jsx" />
+      <jump line="2" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
+      <jump line="9" column="63" filename="$USER_HOME$/development/sparque/sparque-demo/src/actions/hooks.jsx" />
+      <jump line="25" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/shopUtils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getPrice</text>
+        <text>old.total = old.total + price(item)
+      old.totalVAT = old.totalVAT + priceVAT(item)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7797,16 +7799,17 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getPrice</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>getPrice</text>
+        <text encoding="base64">XDxnZXRQcmljZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxQcm9kdWN0IHsuLi5wcm9wc30gYWRkVG9DYXJ0PXthZGRUb0NhcnR9IC8+Cg==</text>
+      <register name="0" type="4">
+        <text>old.total = old.total + price(item)
+      old.totalVAT = old.totalVAT + priceVAT(item)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNhcnQuaXRlbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBvbGQudG90YWxWQVQgPSBvbGQudG90YWxWQVQgKyBwcmljZVZBVChpdGVtKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7836,37 +7839,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtDQVJUX1FVRVJZfSBmcm9tICIuLi8uLi8uLi9sb2NhbC9xdWVyaWVzIgo=</text>
+        <text encoding="base64">ICAgICAgICBvbGQudG90YWwgPSBvbGQudG90YWwgKyBwcmljZShpdGVtKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2xkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QWRkVG9DYXJ0QnV0dG9uIHByb2R1Y3Q9e3Byb2R1Y3R9Lz4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEFkZFRvQ2FydEJ1dHRvbiBmcm9tICIuLi8uLi8uLi9jb21wb25lbnRzL3Nob3AvQWRkVG9DYXJ0QnV0dG9uIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEFkZFRvQ2FydEJ1dHRvbiBmcm9tICIuL0FkZFRvQ2FydEJ1dHRvbiIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENhcnRJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9TaG9wcGluZ0NhcnQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLm9sZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QWRkVG9DYXJ0QnV0dG9uIHByb2R1Y3Q9e3Byb2R1Y3R9Lz4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJ0Lml0ZW1zKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PEJ1dHRvbiBvbkNsaWNrPXttdXRhdGlvbn0gdmFyaWFudD0iY29udGFpbmVkIgogICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yPSJpbmhlcml0IiBhcmlhLWxhYmVsPSJBZGQgdG8gY2FydCIKICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMuYnV0dG9ufT4KICAgICAgICAgICAgPENhcnRJY29uLz4KICAgICAgICAgIDwvQnV0dG9uPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICByZXR1cm4gLTEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getPrice</last-search>
+      <last-search encoding="base64">XDxnZXRQcmljZVw+</last-search>
       <last-offset />
-      <last-pattern>getPrice</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRQcmljZVw+</last-pattern>
       <last-replace />
       <last-substitute>props.</last-substitute>
       <last-dir>1</last-dir>
@@ -7874,8 +7877,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
-        <entry>styles</entry>
         <entry encoding="base64">XDx1c2VTdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxjYXJ0YnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxjbGFzc2VzXD4=</entry>
@@ -7894,6 +7895,8 @@
         <entry>identifier</entry>
         <entry>item</entry>
         <entry>getPrice</entry>
+        <entry>console</entry>
+        <entry encoding="base64">XDxnZXRQcmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserSchema/User/g</entry>
