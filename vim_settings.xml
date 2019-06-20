@@ -280,12 +280,12 @@
         <mark key="." line="24" column="34" />
         <mark key="^" line="24" column="34" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" timestamp="1561039020157">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" timestamp="1561040195290">
         <mark key="'" line="161" column="26" />
-        <mark key="[" line="248" column="59" />
-        <mark key="]" line="249" column="46" />
-        <mark key="^" line="249" column="46" />
-        <mark key="." line="249" column="46" />
+        <mark key="[" line="252" column="28" />
+        <mark key="]" line="252" column="35" />
+        <mark key="^" line="252" column="35" />
+        <mark key="." line="252" column="35" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/public/manifest.json" timestamp="1559733500222">
         <mark key="[" line="2" column="11" />
@@ -476,6 +476,12 @@
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Demo.jsx" timestamp="1561040300097">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
       </file>
       <file name="$USER_HOME$/development/sillyleague/client/src/app/Signup.jsx" timestamp="1559679384609">
         <mark key="'" line="235" column="46" />
