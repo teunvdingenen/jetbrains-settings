@@ -43,11 +43,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1561110849679">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="36" />
-        <mark key="^" line="51" column="36" />
-        <mark key="." line="51" column="36" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1561112405667">
+        <mark key="[" line="78" column="40" />
+        <mark key="]" line="78" column="40" />
+        <mark key="^" line="78" column="58" />
+        <mark key="." line="78" column="40" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/SelectFacet.jsx" timestamp="1561037658789">
         <mark key="'" line="34" column="29" />
@@ -63,11 +63,11 @@
         <mark key="." line="56" column="70" />
         <mark key="^" line="56" column="70" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/shopUtils.js" timestamp="1561108005274">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="34" column="13" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/shopUtils.js" timestamp="1561112371780">
+        <mark key="[" line="45" column="126" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="25" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/resolvers.js" timestamp="1561106743487">
         <mark key="[" line="5" column="66" />
@@ -129,12 +129,12 @@
         <mark key="^" line="87" column="71" />
         <mark key="." line="87" column="71" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" timestamp="1561111425892">
-        <mark key="'" line="188" column="28" />
-        <mark key="[" line="105" column="43" />
-        <mark key="]" line="105" column="43" />
-        <mark key="^" line="105" column="43" />
-        <mark key="." line="105" column="43" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" timestamp="1561112458007">
+        <mark key="'" line="85" column="42" />
+        <mark key="[" line="117" column="44" />
+        <mark key="]" line="117" column="63" />
+        <mark key="^" line="117" column="63" />
+        <mark key="." line="117" column="63" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1561106717221">
         <mark key="[" line="4" column="54" />
@@ -191,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="72" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="114" column="45" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="116" column="47" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
@@ -291,10 +290,11 @@
       <jump line="167" column="25" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
       <jump line="166" column="25" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
       <jump line="185" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
+      <jump line="85" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log(&quot;TODO click category&quot;)</text>
+        <text>configname</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7693,10 +7693,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>console.log(&quot;TODO click category&quot;)</text>
+        <text>configname</text>
       </register>
       <register name="/" type="4">
-        <text>ShopItem</text>
+        <text>img</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZpZ25hbWU9e21hdGNoLnBhcmFtcy5jb25maWd9Cg==</text>
@@ -7760,9 +7760,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ShopItem</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern>ShopItem</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-replace />
       <last-substitute>props.</last-substitute>
       <last-dir>1</last-dir>
@@ -7770,7 +7770,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWFyY2hVcmxcPg==</entry>
         <entry>SEARCH</entry>
         <entry>setDemo</entry>
         <entry encoding="base64">XDxzZXRVc2VySURcPg==</entry>
@@ -7790,6 +7789,7 @@
         <entry encoding="base64">XDxtYXRjaFw+</entry>
         <entry>Dangour</entry>
         <entry>ShopItem</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserSchema/User/g</entry>
