@@ -11,6 +11,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="variables" type="Less" />
       <mapping pattern="*.4_Add_TableView_for_professionaloverview.sql" type="PLAIN_TEXT" />
       <mapping pattern="*.5__Add_municipality_column_professionaloverview.sql" type="PLAIN_TEXT" />
       <mapping pattern="*.1__Added_SpinqueUser_and_Shop.sql" type="PLAIN_TEXT" />
