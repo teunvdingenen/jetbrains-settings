@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/webpack.config.js" timestamp="1561714948277">
-        <mark key="[" line="49" column="7" />
-        <mark key="]" line="49" column="7" />
-        <mark key="^" line="48" column="27" />
-        <mark key="." line="49" column="7" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/webpack.config.js" timestamp="1561720590891">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="9" />
+        <mark key="^" line="51" column="9" />
+        <mark key="." line="51" column="9" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/AddToCartButton.jsx" timestamp="1560941727015">
         <mark key="'" line="12" column="0" />
@@ -22,6 +22,13 @@
         <mark key="]" line="150" column="26" />
         <mark key="^" line="150" column="24" />
         <mark key="." line="150" column="26" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/theme/theme.config" timestamp="1561720900190">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="90" column="21" />
+        <mark key="]" line="90" column="49" />
+        <mark key="^" line="90" column="49" />
+        <mark key="." line="90" column="49" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1561640053004">
         <mark key="[" line="13" column="0" />
@@ -109,11 +116,11 @@
         <mark key="." line="47" column="25" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/styles/style.scss" timestamp="1561714481773">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="41" />
-        <mark key="." line="0" column="41" />
-        <mark key="^" line="0" column="41" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/styles/style.scss" timestamp="1561719875821">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/demo/CategoryList.jsx" timestamp="1561648126353">
         <mark key="]" line="6" column="8" />
@@ -146,11 +153,11 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" timestamp="1561714428772">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="26" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" timestamp="1561720697127">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/Dashboard.jsx" timestamp="1561105611796">
         <mark key="[" line="158" column="42" />
@@ -311,6 +318,12 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="30" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/styles/theme.less" timestamp="1561720474972">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/demo.js" timestamp="1561641060458">
         <mark key="'" line="163" column="23" />
         <mark key="[" line="137" column="21" />
@@ -325,8 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="48" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="106" column="50" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/dashboard/pages/Product.jsx" />
       <jump line="80" column="65" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
       <jump line="222" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
       <jump line="178" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" />
@@ -425,10 +436,12 @@
       <jump line="20" column="79" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/demo/Product.jsx" />
       <jump line="75" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/demo/Product.jsx" />
       <jump line="4" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/demo/SelectFacet.jsx" />
+      <jump line="84" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/theme/theme.config" />
+      <jump line="81" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/theme/theme.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>semtheme.less&quot;;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7827,16 +7840,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>event.target.</text>
+        <text>semtheme.less&quot;;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNZW51UHJvcHNcPg==</text>
+        <text>themes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEdyaWQuUm93Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL3N0eWxlcy9zdHlsZS5zY3NzJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7866,51 +7879,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL3N0eWxlcy90aGVtZS5sZXNzJwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IE1lbnVQcm9wcyA9IHsKICBQYXBlclByb3BzOiB7CiAgICBzdHlsZTogewogICAgICBtYXhIZWlnaHQ6IDQ4ICogNC41ICsgOCwKICAgICAgd2lkdGg6IDI1MCwKICAgIH0sCiAgfSwKfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">QGltcG9ydCAnfnNlbWFudGljLXVpLWxlc3MvdGhlbWVzL2RlZmF1bHQvJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
         <text>{
-        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
-        use: [{
-          loader: 'file-loader',
-          options: {
-            name: '[name].[ext]',
-            outputPath: 'fonts/'
-          }
-        }]
-      }</text>
+        test: /\.scss$/,
+        loader: 'style-loader!css-loader!sass-loader'
+      },</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL3N0eWxlcy9zdHlsZS5zY3NzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>{
-        test: /\.(ttf|eot|svg|gif|png)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-        use: [{
-          loader: 'file-loader'
-        }]
-      },</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IE1lbnVQcm9wcyA9IHsKICBQYXBlclByb3BzOiB7CiAgICBzdHlsZTogewogICAgICBtYXhIZWlnaHQ6IDQ4ICogNC41ICsgOCwKICAgICAgd2lkdGg6IDI1MCwKICAgIH0sCiAgfSwKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNZW51UHJvcHNcPg==</last-search>
+      <last-search>themes</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNZW51UHJvcHNcPg==</last-pattern>
+      <last-pattern>themes</last-pattern>
       <last-replace>Table.Cell</last-replace>
       <last-substitute>TableCell</last-substitute>
       <last-dir>1</last-dir>
@@ -7918,8 +7920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
-        <entry>classes</entry>
         <entry>map</entry>
         <entry>Menu</entry>
         <entry>InputProps</entry>
@@ -7938,6 +7938,8 @@
         <entry encoding="base64">XDxjYXJ0XD4=</entry>
         <entry>loaded</entry>
         <entry encoding="base64">XDxNZW51UHJvcHNcPg==</entry>
+        <entry>siteFolder</entry>
+        <entry>themes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LeagueSchema/League/g</entry>
@@ -7952,13 +7954,13 @@
         <entry>_decoee</entry>
         <entry>isFetching</entry>
         <entry>Lw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>%s/SparqueConfig/SparqueWorkspace/g</entry>
         <entry>%s/SparqueApi/ApiConfig/g</entry>
         <entry>%s/CONFIG_QUERY/WORKSPACE_QUERY/g</entry>
         <entry>%s/getConfig/getWorkspace/g</entry>
         <entry>%s/TableCell/Table.Cell/g</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
