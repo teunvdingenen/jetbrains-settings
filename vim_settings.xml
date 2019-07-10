@@ -137,12 +137,12 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" timestamp="1562769926043">
-        <mark key="'" line="182" column="10" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="^" line="314" column="14" />
-        <mark key="." line="204" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" timestamp="1562771019374">
+        <mark key="'" line="248" column="22" />
+        <mark key="[" line="252" column="28" />
+        <mark key="]" line="252" column="61" />
+        <mark key="^" line="252" column="61" />
+        <mark key="." line="252" column="61" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1561470468413">
         <mark key="'" line="139" column="43" />
@@ -394,10 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="293" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="297" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="193" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="292" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="0" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -494,6 +490,10 @@
       <jump line="57" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="127" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="182" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="253" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="252" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="248" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7899,7 +7899,7 @@
         <text>red</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</text>
+        <text>width</text>
       </register>
       <register name="0" type="4">
         <text>value: PropTypes.oneOfType([PropTypes.number, PropTypes.array]),
@@ -7950,43 +7950,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">Y29uc3QgaXNEaWZmZXJlbnRBcnJheXMgPSAoYSwgYikgPT4gewogIGxldCBkaWZmZXJlbnQgPSBmYWxzZQogIGEuc29tZSgodmFsLCBpKSA9PiB7CiAgICBpZiAodmFsICE9PSBiW2ldKSB7CiAgICAgIGRpZmZlcmVudCA9IHRydWUKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICB9KQogIHJldHVybiBkaWZmZXJlbnQKfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>if (typeof triggeredByUser === &quot;undefined&quot;) {
       triggeredByUser = true
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLm9uZU9mVHlwZShbUHJvcFR5cGVzLm51bWJlciwgUHJvcFR5cGVzLmFycmF5XSksCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">dXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICh2YWx1ZSAmJiB2YWx1ZSAhPT0gc3RhdGVWYWx1ZSkgewogICAgICBpZiAobXVsdGlwbGUpIHsKICAgICAgICBpZiAoaXNEaWZmZXJlbnRBcnJheXModmFsdWUsIHN0YXRlVmFsdWUpKSB7CiAgICAgICAgICBzZXRWYWx1ZXNBbmRQb3NpdGlvbnModmFsdWUsIHRydWUpOwogICAgICAgIH0KICAgICAgfSBlbHNlIHsKICAgICAgICBzZXRWYWx1ZXNBbmRQb3NpdGlvbnModmFsdWUsIHRydWUpOwogICAgICB9CiAgICB9CiAgfSwgW3ZhbHVlXSk=</text>
-      </register>
-      <register name="8" type="4">
-        <text>value
-      ? value
-      : multiple
-          ? [...start]
-          : start</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBbdmFsdWUsIHNldFZhbHVlXSA9IFJlYWN0LnVzZVN0YXRlKFswLCAxMDBdKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</last-search>
+      <last-search>width</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</last-pattern>
+      <last-pattern>width</last-pattern>
       <last-replace>Table.Cell</last-replace>
       <last-substitute>TableCell</last-substitute>
       <last-dir>1</last-dir>
@@ -7997,7 +7993,6 @@
         <entry>determinePosition</entry>
         <entry>disabled</entry>
         <entry encoding="base64">XDxkZXRlcm1pbmVWYWx1ZVw+</entry>
-        <entry>width</entry>
         <entry>position</entry>
         <entry encoding="base64">XDxkZXRlcm1pbmVQb3NpdGlvblw+</entry>
         <entry>console</entry>
@@ -8014,6 +8009,7 @@
         <entry encoding="base64">XDxzZXRWYWx1ZVw+</entry>
         <entry>user</entry>
         <entry encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</entry>
+        <entry>width</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LeagueSchema/League/g</entry>
