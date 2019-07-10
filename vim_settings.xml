@@ -42,7 +42,7 @@
         <mark key="." line="41" column="7" />
         <mark key="^" line="41" column="7" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" timestamp="1562752721760">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" timestamp="1562769899403">
         <mark key="'" line="60" column="22" />
         <mark key="[" line="66" column="34" />
         <mark key="]" line="66" column="34" />
@@ -137,12 +137,12 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" timestamp="1562768938232">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="212" column="7" />
-        <mark key="]" line="212" column="14" />
-        <mark key="^" line="212" column="14" />
-        <mark key="." line="212" column="14" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" timestamp="1562769926043">
+        <mark key="'" line="182" column="10" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="^" line="314" column="14" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1561470468413">
         <mark key="'" line="139" column="43" />
@@ -394,12 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="175" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="352" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="176" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="287" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="98" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="247" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="293" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="297" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -419,9 +413,6 @@
       <jump line="37" column="44" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="218" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="230" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="53" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="57" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="62" column="18" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="115" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="116" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="321" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -447,7 +438,6 @@
       <jump line="93" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="97" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="120" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="131" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="143" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="154" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="177" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -494,10 +484,20 @@
       <jump line="49" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="16" column="61" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="18" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="53" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="62" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="113" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="131" column="18" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="134" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="185" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="57" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="127" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="182" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>div</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7896,10 +7896,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>value: PropTypes.oneOfType([PropTypes.number, PropTypes.array]),
@@ -7920,7 +7920,7 @@
   style: PropTypes.object</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLm9uZU9mVHlwZShbUHJvcFR5cGVzLm51bWJlciwgUHJvcFR5cGVzLmFycmF5XSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7950,41 +7950,43 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>if (typeof triggeredByUser === &quot;undefined&quot;) {
+      triggeredByUser = true
+    }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLm9uZU9mVHlwZShbUHJvcFR5cGVzLm51bWJlciwgUHJvcFR5cGVzLmFycmF5XSksCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">dXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICh2YWx1ZSAmJiB2YWx1ZSAhPT0gc3RhdGVWYWx1ZSkgewogICAgICBpZiAobXVsdGlwbGUpIHsKICAgICAgICBpZiAoaXNEaWZmZXJlbnRBcnJheXModmFsdWUsIHN0YXRlVmFsdWUpKSB7CiAgICAgICAgICBzZXRWYWx1ZXNBbmRQb3NpdGlvbnModmFsdWUsIHRydWUpOwogICAgICAgIH0KICAgICAgfSBlbHNlIHsKICAgICAgICBzZXRWYWx1ZXNBbmRQb3NpdGlvbnModmFsdWUsIHRydWUpOwogICAgICB9CiAgICB9CiAgfSwgW3ZhbHVlXSk=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>value
       ? value
       : multiple
           ? [...start]
           : start</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBjb25zdCBbdmFsdWUsIHNldFZhbHVlXSA9IFJlYWN0LnVzZVN0YXRlKFswLCAxMDBdKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldFZhbHVlKFttaW4sIG1heF0pCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">b25DaGFuZ2U6ICh2YWx1ZSkgPT4gewogICAgICBzZXRWYWx1ZSh2YWx1ZSkKICAgIH0s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</last-pattern>
       <last-replace>Table.Cell</last-replace>
       <last-substitute>TableCell</last-substitute>
       <last-dir>1</last-dir>
@@ -7992,10 +7994,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DomNOde</entry>
-        <entry>DOm</entry>
-        <entry>Node</entry>
-        <entry>ReactDOM</entry>
         <entry>determinePosition</entry>
         <entry>disabled</entry>
         <entry encoding="base64">XDxkZXRlcm1pbmVWYWx1ZVw+</entry>
@@ -8012,6 +8010,10 @@
         <entry>props</entry>
         <entry>value</entry>
         <entry>start</entry>
+        <entry encoding="base64">XDxzZXRWYWx1ZXNBbmRQb3NpdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxzZXRWYWx1ZVw+</entry>
+        <entry>user</entry>
+        <entry encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LeagueSchema/League/g</entry>
