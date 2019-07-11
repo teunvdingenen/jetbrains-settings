@@ -16,12 +16,12 @@
         <mark key="^" line="90" column="18" />
         <mark key="." line="83" column="15" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1562849471538">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1562850457635">
         <mark key="'" line="55" column="36" />
-        <mark key="[" line="79" column="22" />
-        <mark key="]" line="79" column="72" />
-        <mark key="." line="79" column="72" />
-        <mark key="^" line="79" column="72" />
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+        <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" timestamp="1562841004660">
         <mark key="'" line="67" column="32" />
@@ -358,7 +358,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>color=&quot;primary&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7757,7 +7757,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>color=&quot;primary&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>strategy</text>
