@@ -16,12 +16,12 @@
         <mark key="^" line="90" column="18" />
         <mark key="." line="83" column="15" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1562851605346">
-        <mark key="'" line="67" column="36" />
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="56" column="31" />
-        <mark key="^" line="56" column="31" />
-        <mark key="." line="56" column="31" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1562855434026">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="106" column="32" />
+        <mark key="]" line="106" column="32" />
+        <mark key="^" line="106" column="32" />
+        <mark key="." line="106" column="32" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" timestamp="1562841004660">
         <mark key="'" line="67" column="32" />
@@ -139,12 +139,12 @@
         <mark key="^" line="278" column="58" />
         <mark key="." line="278" column="58" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/tune.js" timestamp="1562851272221">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/tune.js" timestamp="1562853497537">
         <mark key="'" line="22" column="65" />
-        <mark key="[" line="29" column="125" />
-        <mark key="]" line="29" column="147" />
-        <mark key="^" line="29" column="147" />
-        <mark key="." line="29" column="147" />
+        <mark key="[" line="35" column="129" />
+        <mark key="]" line="35" column="151" />
+        <mark key="^" line="35" column="151" />
+        <mark key="." line="35" column="151" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/reduceLink.jsx" timestamp="1561456605025">
         <mark key="'" line="36" column="38" />
@@ -247,15 +247,14 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Tuner.jsx" timestamp="1562847980979">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Tuner.jsx" timestamp="1562853773376">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+        <mark key="^" line="12" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="48" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="54" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="73" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -355,10 +354,11 @@
       <jump line="22" column="65" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/tune.js" />
       <jump line="38" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" />
       <jump line="52" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" />
+      <jump line="111" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7760,13 +7760,13 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>strategy</text>
+        <text>console</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PEJ1dHRvbiBkaXNhYmxlZD17cHJvZHVjdCA9PT0gdW5kZWZpbmVkfQogICAgICAgICAgICAgICAgICBmbHVpZAogICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBhZGRUb0NhcnQocHJvZHVjdCl9PgogICAgICAgICAgICA8SWNvbiBuYW1lPSJjYXJ0Ii8+CiAgICAgICAgICA8L0J1dHRvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3b3Jrc3BhY2U6IFByb3BUeXBlcy5vYmplY3QK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7795,39 +7795,40 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBtYXRjaDogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkLAo=</text>
+      <register name="2" type="4">
+        <text>if (session !== undefined) {
+    return
+  }</text>
       </register>
-      <register name="3" type="4">
-        <text>as={Link}
-                          to={`${match.url}/tuner/${commit.handle.id}`}</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlc3Npb24pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PFRhYmxlLkNlbGw+CiAgICAgICAgICAgICAgICAgIHtjb21taXQuaGFuZGxlLmlkfQogICAgICAgICAgICAgICAgPC9UYWJsZS5DZWxsPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGFibGUuSGVhZGVyQ2VsbD5Db21taXQ8L1RhYmxlLkhlYWRlckNlbGw+Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPXtgLzp3b3Jrc3BhY2UvdHVuZS90dW5lci86aWRgfSBjb21wb25lbnQ9e1R1bmVyfS8+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy99KQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ly90aGVuKCh7ZGF0YX0pID0+IHsKICAgICAgICAvL3Nlc3Npb24gPSBkYXRhLmhhbmRsZS5pZA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBbcmVkaXJlY3QsIHNldFJlZGlyZWN0XSA9IFJlYWN0LnVzZVN0YXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICB7c2Vzc2lvbiAhPT0gdW5kZWZpbmVkICYmIHNlc3Npb24udG9TdHJpbmcoKX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>strategy</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>strategy</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>commit</last-replace>
       <last-substitute>strategy</last-substitute>
       <last-dir>1</last-dir>
@@ -7835,7 +7836,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0RpZmZlcmVudEFycmF5c1w+</entry>
         <entry>settings</entry>
         <entry>props</entry>
         <entry>value</entry>
@@ -7855,6 +7855,7 @@
         <entry>redirect</entry>
         <entry>Redirect</entry>
         <entry>strategy</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4=</entry>
