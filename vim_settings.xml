@@ -9,6 +9,12 @@
         <mark key="^" line="61" column="51" />
         <mark key="." line="61" column="51" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" timestamp="1562833273944">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/theme/theme.config" timestamp="1561726469762">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="83" column="15" />
@@ -277,9 +283,6 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1562673480046">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/theme/site/globals/site.overrides" timestamp="1561726881987">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -497,7 +500,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>checkobx</text>
+        <text>export default</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7896,7 +7899,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>checkobx</text>
+        <text>export default</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
