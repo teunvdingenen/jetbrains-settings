@@ -22,11 +22,11 @@
         <mark key="^" line="90" column="18" />
         <mark key="." line="83" column="15" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1562680502564">
-        <mark key="[" line="41" column="31" />
-        <mark key="]" line="41" column="31" />
-        <mark key="^" line="45" column="28" />
-        <mark key="." line="41" column="31" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1562840041150">
+        <mark key="[" line="98" column="12" />
+        <mark key="]" line="98" column="13" />
+        <mark key="^" line="98" column="13" />
+        <mark key="." line="98" column="13" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" timestamp="1562746271090">
         <mark key="'" line="67" column="32" />
@@ -48,10 +48,10 @@
         <mark key="." line="41" column="7" />
         <mark key="^" line="41" column="7" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" timestamp="1562769899403">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" timestamp="1562839204310">
         <mark key="'" line="60" column="22" />
-        <mark key="[" line="66" column="34" />
-        <mark key="]" line="66" column="34" />
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="58" column="13" />
         <mark key="." line="66" column="34" />
         <mark key="^" line="66" column="84" />
       </file>
@@ -396,6 +396,12 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Tuner.jsx" timestamp="1562838631714">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/dashboard/menuItems.jsx" timestamp="1561630568964">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
@@ -505,8 +511,8 @@
       <jump line="258" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aGlkZGVuPXshbW91c2VEb3dufSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7905,16 +7911,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aGlkZGVuPXshbW91c2VEb3dufSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>thumb</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17InRyYWNrIi5jb25jYXQoaW52ZXJ0ZWQgPyAiIGludmVydGVkVHJhY2siIDogIiIpfQogICAgICAgICAgICAvPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PFJvdXRlIHBhdGg9e2AvOndvcmtzcGFjZS9kZW1vL3Nob3BgfSByZW5kZXI9eyhwcm9wcykgPT4gKAogICAgICAgICAgICAgIDxTaG9wCiAgICAgICAgICAgICAgICAgIGFkZFRvQ2FydD17YWRkVG9DYXJ0fQogICAgICAgICAgICAgICAgICBkZW1vdXNlcj17ZGVtb3VzZXJ9CiAgICAgICAgICAgICAgICAgIHdvcmtzcGFjZT17d29ya3NwYWNlfQogICAgICAgICAgICAgICAgICBjYXRlZ29yeUhvb2s9e2NhdGVnb3J5SG9va30KICAgICAgICAgICAgICAgICAgey4uLnByb3BzfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICApfS8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsYWJlbDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7943,33 +7949,29 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1heC13aWR0aAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PFRhYmxlPgogICAgICAgICAgPFRhYmxlLkhlYWRlcj4KICAgICAgICAgICAgPFRhYmxlLlJvdz4KICAgICAgICAgICAgICA8VGFibGUuSGVhZGVyQ2VsbC8+CiAgICAgICAgICAgICAgPFRhYmxlLkhlYWRlckNlbGw+VGl0bGU8L1RhYmxlLkhlYWRlckNlbGw+CiAgICAgICAgICAgICAgPFRhYmxlLkhlYWRlckNlbGw+UGFyYW1ldGVyczwvVGFibGUuSGVhZGVyQ2VsbD4KICAgICAgICAgICAgICA8VGFibGUuSGVhZGVyQ2VsbD5PdXRwdXQ8L1RhYmxlLkhlYWRlckNlbGw+CiAgICAgICAgICAgICAgPFRhYmxlLkhlYWRlckNlbGw+VGFnczwvVGFibGUuSGVhZGVyQ2VsbD4KICAgICAgICAgICAgPC9UYWJsZS5Sb3c+CiAgICAgICAgICA8L1RhYmxlLkhlYWRlcj4KICAgICAgICAgIHsKICAgICAgICAgICAgc3RyYXRlZ2llcyA9PT0gdW5kZWZpbmVkID8gZW1wdHlCb2R5KCkgOiBzdHJhdGVnaWVzQm9keShzdHJhdGVnaWVzKQogICAgICAgICAgfQogICAgICAgIDwvVGFibGU+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBocmVmPXt9Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogQHNsaWRlckxhYmVsRGlzdGFuY2U7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZjExNTYwOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>label {
-    padding-left: @sliderLabelDistance;
-    line-height: @sliderLabelLineHeight;
-    color: @sliderOffLabelColor;
-  }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBzdHlsZTogUHJvcFR5cGVzLm9iamVjdCwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uc3QgX19fU2xpZGVyQnV0dG9uID0gKHtzdHlsZSwgcG9zLCBjaGlsZHJlbn0pID0+ICgKICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgLi4uc3R5bGVzLnRodW1iLAogICAgICAgICAgLi4uKHN0eWxlCiAgICAgICAgICAgICAgPyBzdHlsZS50aHVtYgogICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgIDoge30KICAgICAgICAgICAgICA6IHt9KSwKICAgICAgICAgIC4uLntsZWZ0OiBwb3MgKyAicHgifQogICAgICAgIH19CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvZGl2PgopCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBpZiggcmVkaXJlY3QgIT09IHVuZGVmaW5lZCApIHsKICAgIHJldHVybiA8UmVkaXJlY3QgdG89e30vPgogIH0=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cmVuZGVyPXsocHJvcHMpID0+ICgKICAgICAgICAgICAgICA8</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PFNob3AKICAgICAgICAgICAgICAgICAgYWRkVG9DYXJ0PXthZGRUb0NhcnR9CiAgICAgICAgICAgICAgICAgIGRlbW91c2VyPXtkZW1vdXNlcn0KICAgICAgICAgICAgICAgICAgd29ya3NwYWNlPXt3b3Jrc3BhY2V9CiAgICAgICAgICAgICAgICAgIGNhdGVnb3J5SG9vaz17Y2F0ZWdvcnlIb29rfQogICAgICAgICAgICAgICAgICB7Li4ucHJvcHN9CiAgICAgICAgICAgICAgLz4=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8Um91dGUK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
