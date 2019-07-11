@@ -9,11 +9,11 @@
         <mark key="^" line="61" column="51" />
         <mark key="." line="61" column="51" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" timestamp="1562833273944">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" timestamp="1562834578726">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/theme/theme.config" timestamp="1561726469762">
         <mark key="'" line="81" column="0" />
@@ -143,12 +143,12 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" timestamp="1562832398305">
-        <mark key="'" line="295" column="17" />
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="24" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" timestamp="1562835947542">
+        <mark key="'" line="258" column="0" />
+        <mark key="[" line="240" column="83" />
+        <mark key="]" line="240" column="83" />
+        <mark key="^" line="240" column="83" />
+        <mark key="." line="240" column="83" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1561470468413">
         <mark key="'" line="139" column="43" />
@@ -283,6 +283,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/theme/range.less" timestamp="1562835560079">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/theme/site/globals/site.overrides" timestamp="1561726881987">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -384,11 +390,11 @@
         <mark key="^" line="137" column="22" />
         <mark key="." line="137" column="22" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/PriceSlider.jsx" timestamp="1562830919559">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="36" />
-        <mark key="^" line="23" column="36" />
-        <mark key="." line="23" column="36" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/PriceSlider.jsx" timestamp="1562835822477">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/dashboard/menuItems.jsx" timestamp="1561630568964">
         <mark key="[" line="12" column="10" />
@@ -397,26 +403,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="110" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="195" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="198" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="197" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="35" column="39" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="37" column="44" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="218" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="230" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="115" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="116" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="321" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="344" column="35" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="19" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="95" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="179" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="180" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="328" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="20" column="12" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="21" column="54" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="42" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="48" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -439,7 +427,6 @@
       <jump line="184" column="12" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="222" column="18" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="223" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="231" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="232" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="233" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="242" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -449,7 +436,6 @@
       <jump line="254" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="256" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="257" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="258" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="260" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="262" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="265" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -472,7 +458,6 @@
       <jump line="117" column="70" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="121" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="326" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="15" column="102" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="49" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="16" column="61" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="18" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -497,10 +482,31 @@
       <jump line="261" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="25" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="284" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="15" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="28" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="27" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="172" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="1" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="171" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="3" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="169" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="2" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="167" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="11" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/range.less" />
+      <jump line="231" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="293" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="20" column="129" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="229" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="228" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="8" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="9" column="1" filename="$USER_HOME$/development/sparque/sparque-demo/theme/range.less" />
+      <jump line="258" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>export default</text>
+        <text encoding="base64">aGlkZGVuPXshbW91c2VEb3dufSA=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7899,24 +7905,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>export default</text>
+        <text encoding="base64">aGlkZGVuPXshbW91c2VEb3dufSA=</text>
       </register>
       <register name="/" type="4">
-        <text>width</text>
+        <text>thumb</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29uc3QgU2xpZGVyQnV0dG9uID0gKHtzdHlsZSwgcG9zLCBjaGlsZHJlbn0pID0+ICgKICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgLi4uc3R5bGVzLnRodW1iLAogICAgICAgICAgLi4uKHN0eWxlCiAgICAgICAgICAgICAgPyBzdHlsZS50aHVtYgogICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgIDoge30KICAgICAgICAgICAgICA6IHt9KSwKICAgICAgICAgIC4uLntsZWZ0OiBwb3MgKyAicHgifQogICAgICAgIH19CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvZGl2Pgop</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17InRyYWNrIi5jb25jYXQoaW52ZXJ0ZWQgPyAiIGludmVydGVkVHJhY2siIDogIiIpfQogICAgICAgICAgICAvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>style={{
-          ...styles.thumb,
-          ...(style
-              ? style.thumb
-                  ? style.thumb
-                  : {}
-              : {}),
-          ...{left: pos + &quot;px&quot;}
-        }}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBsYWJlbDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7946,50 +7944,48 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Lz4K</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L1NsaWRlckJ1dHRvbj4K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogQHNsaWRlckxhYmVsRGlzdGFuY2U7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRpdgogICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAuLi5zdHlsZXMudGh1bWIsCiAgICAgICAgICAgICAgICAgICAgICAuLi4oc3R5bGUKICAgICAgICAgICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gc3R5bGUudGh1bWIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiB7fQogICAgICAgICAgICAgICAgICAgICAgICAgIDoge30pLAogICAgICAgICAgICAgICAgICAgICAgLi4ue2xlZnQ6IHBvc2l0aW9uICsgInB4In0KICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgLz4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiAjZjExNTYwOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>label {
+    padding-left: @sliderLabelDistance;
+    line-height: @sliderLabelLineHeight;
+    color: @sliderOffLabelColor;
+  }</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRpdgogICAgICAgICAgICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgLi4uc3R5bGVzLnRodW1iLAogICAgICAgICAgICAgICAgICAgICAgICAgIC4uLihzdHlsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHt9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDoge30pLAogICAgICAgICAgICAgICAgICAgICAgICAgIC4uLntsZWZ0OiBwb3MgKyAicHgifQogICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgIC8+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzdHlsZTogUHJvcFR5cGVzLm9iamVjdCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBpOiBQcm9wVHlwZXMuYW55LAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29uc3QgX19fU2xpZGVyQnV0dG9uID0gKHtzdHlsZSwgcG9zLCBjaGlsZHJlbn0pID0+ICgKICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgLi4uc3R5bGVzLnRodW1iLAogICAgICAgICAgLi4uKHN0eWxlCiAgICAgICAgICAgICAgPyBzdHlsZS50aHVtYgogICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgIDoge30KICAgICAgICAgICAgICA6IHt9KSwKICAgICAgICAgIC4uLntsZWZ0OiBwb3MgKyAicHgifQogICAgICAgIH19CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvZGl2PgopCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>width</last-search>
+      <last-search>thumb</last-search>
       <last-offset />
-      <last-pattern>width</last-pattern>
-      <last-replace>Table.Cell</last-replace>
-      <last-substitute>TableCell</last-substitute>
+      <last-pattern>thumb</last-pattern>
+      <last-replace>;</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>determinePosition</entry>
-        <entry>disabled</entry>
-        <entry encoding="base64">XDxkZXRlcm1pbmVWYWx1ZVw+</entry>
-        <entry>position</entry>
-        <entry encoding="base64">XDxkZXRlcm1pbmVQb3NpdGlvblw+</entry>
-        <entry>console</entry>
         <entry encoding="base64">XDxwXD4=</entry>
         <entry encoding="base64">XDxkZXRlcm1pbmVUaHVtYlw+</entry>
         <entry encoding="base64">XDxyYW5nZU1vdXNlVXBcPg==</entry>
@@ -8004,10 +8000,14 @@
         <entry>user</entry>
         <entry encoding="base64">XDxzZXRWYWx1ZVBvc2l0aW9uXD4=</entry>
         <entry>width</entry>
+        <entry>&quot;</entry>
+        <entry>,</entry>
+        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
+        <entry>styles</entry>
+        <entry>style</entry>
+        <entry>thumb</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/LeagueSchema/League/g</entry>
-        <entry>%s/this.classes/this.props.classes/g</entry>
         <entry>q</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz4=</entry>
@@ -8025,6 +8025,8 @@
         <entry>%s/TableCell/Table.Cell/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
+        <entry>%s/&quot;//g</entry>
+        <entry>%s/,/;/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
