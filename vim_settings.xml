@@ -137,12 +137,12 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" timestamp="1562771019374">
-        <mark key="'" line="248" column="22" />
-        <mark key="[" line="252" column="28" />
-        <mark key="]" line="252" column="61" />
-        <mark key="^" line="252" column="61" />
-        <mark key="." line="252" column="61" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" timestamp="1562832398305">
+        <mark key="'" line="295" column="17" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1561470468413">
         <mark key="'" line="139" column="43" />
@@ -381,11 +381,11 @@
         <mark key="^" line="137" column="22" />
         <mark key="." line="137" column="22" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/PriceSlider.jsx" timestamp="1562768867450">
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="47" />
-        <mark key="^" line="23" column="85" />
-        <mark key="." line="23" column="47" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/PriceSlider.jsx" timestamp="1562830919559">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/dashboard/menuItems.jsx" timestamp="1561630568964">
         <mark key="[" line="12" column="10" />
@@ -394,12 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="292" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="70" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="75" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="203" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="196" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="110" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="195" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -454,7 +448,6 @@
       <jump line="257" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="258" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="260" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="261" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="262" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="265" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="266" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
@@ -494,10 +487,17 @@
       <jump line="253" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="252" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
       <jump line="248" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="189" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="190" column="12" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="191" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="5" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="261" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
+      <jump line="284" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>checkobx</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7896,31 +7896,24 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>checkobx</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
       </register>
       <register name="0" type="4">
-        <text>value: PropTypes.oneOfType([PropTypes.number, PropTypes.array]),
-  color: PropTypes.string,
-  disabled: PropTypes.bool,
-  discrete: PropTypes.bool,
-  inverted: PropTypes.bool,
-  multiple: PropTypes.bool,
-  min: PropTypes.number,
-  max: PropTypes.number,
-  step: PropTypes.number,
-  start: PropTypes.oneOfType([
-    PropTypes.number,
-    PropTypes.arrayOf(PropTypes.number)
-  ]),
-  onChange: PropTypes.func,
-  onChangeCommitted: PropTypes.func,
-  style: PropTypes.object</text>
+        <text encoding="base64">Y29uc3QgU2xpZGVyQnV0dG9uID0gKHtzdHlsZSwgcG9zLCBjaGlsZHJlbn0pID0+ICgKICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgLi4uc3R5bGVzLnRodW1iLAogICAgICAgICAgLi4uKHN0eWxlCiAgICAgICAgICAgICAgPyBzdHlsZS50aHVtYgogICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgIDoge30KICAgICAgICAgICAgICA6IHt9KSwKICAgICAgICAgIC4uLntsZWZ0OiBwb3MgKyAicHgifQogICAgICAgIH19CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvZGl2Pgop</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>style={{
+          ...styles.thumb,
+          ...(style
+              ? style.thumb
+                  ? style.thumb
+                  : {}
+              : {}),
+          ...{left: pos + &quot;px&quot;}
+        }}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7950,30 +7943,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Lz4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29uc3QgaXNEaWZmZXJlbnRBcnJheXMgPSAoYSwgYikgPT4gewogIGxldCBkaWZmZXJlbnQgPSBmYWxzZQogIGEuc29tZSgodmFsLCBpKSA9PiB7CiAgICBpZiAodmFsICE9PSBiW2ldKSB7CiAgICAgIGRpZmZlcmVudCA9IHRydWUKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICB9KQogIHJldHVybiBkaWZmZXJlbnQKfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L1NsaWRlckJ1dHRvbj4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdgogICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAuLi5zdHlsZXMudGh1bWIsCiAgICAgICAgICAgICAgICAgICAgICAuLi4oc3R5bGUKICAgICAgICAgICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gc3R5bGUudGh1bWIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiB7fQogICAgICAgICAgICAgICAgICAgICAgICAgIDoge30pLAogICAgICAgICAgICAgICAgICAgICAgLi4ue2xlZnQ6IHBvc2l0aW9uICsgInB4In0KICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgLz4=</text>
       </register>
-      <register name="6" type="4">
-        <text>if (typeof triggeredByUser === &quot;undefined&quot;) {
-      triggeredByUser = true
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLm9uZU9mVHlwZShbUHJvcFR5cGVzLm51bWJlciwgUHJvcFR5cGVzLmFycmF5XSksCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGRpdgogICAgICAgICAgICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgLi4uc3R5bGVzLnRodW1iLAogICAgICAgICAgICAgICAgICAgICAgICAgIC4uLihzdHlsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IHN0eWxlLnRodW1iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHt9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDoge30pLAogICAgICAgICAgICAgICAgICAgICAgICAgIC4uLntsZWZ0OiBwb3MgKyAicHgifQogICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgIC8+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpOiBQcm9wVHlwZXMuYW55LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
