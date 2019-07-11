@@ -16,12 +16,12 @@
         <mark key="^" line="90" column="18" />
         <mark key="." line="83" column="15" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1562850457635">
-        <mark key="'" line="55" column="36" />
-        <mark key="[" line="78" column="32" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
-        <mark key="^" line="78" column="32" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" timestamp="1562851605346">
+        <mark key="'" line="67" column="36" />
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="31" />
+        <mark key="^" line="56" column="31" />
+        <mark key="." line="56" column="31" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" timestamp="1562841004660">
         <mark key="'" line="67" column="32" />
@@ -139,12 +139,12 @@
         <mark key="^" line="278" column="58" />
         <mark key="." line="278" column="58" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/tune.js" timestamp="1562848383031">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/tune.js" timestamp="1562851272221">
         <mark key="'" line="22" column="65" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="19" />
+        <mark key="[" line="29" column="125" />
+        <mark key="]" line="29" column="147" />
+        <mark key="^" line="29" column="147" />
+        <mark key="." line="29" column="147" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/reduceLink.jsx" timestamp="1561456605025">
         <mark key="'" line="36" column="38" />
@@ -358,7 +358,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7757,7 +7757,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>strategy</text>
@@ -7766,7 +7766,7 @@
         <text encoding="base64">PEJ1dHRvbiBkaXNhYmxlZD17cHJvZHVjdCA9PT0gdW5kZWZpbmVkfQogICAgICAgICAgICAgICAgICBmbHVpZAogICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBhZGRUb0NhcnQocHJvZHVjdCl9PgogICAgICAgICAgICA8SWNvbiBuYW1lPSJjYXJ0Ii8+CiAgICAgICAgICA8L0J1dHRvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlc3Npb24pCg==</text>
+        <text encoding="base64">ICB3b3Jrc3BhY2U6IFByb3BUeXBlcy5vYmplY3QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7796,28 +7796,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICBtYXRjaDogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>as={Link}
+                          to={`${match.url}/tuner/${commit.handle.id}`}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PFRhYmxlLkNlbGw+CiAgICAgICAgICAgICAgICAgIHtjb21taXQuaGFuZGxlLmlkfQogICAgICAgICAgICAgICAgPC9UYWJsZS5DZWxsPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlc3Npb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGFibGUuSGVhZGVyQ2VsbD5Db21taXQ8L1RhYmxlLkhlYWRlckNlbGw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBbcmVkaXJlY3QsIHNldFJlZGlyZWN0XSA9IFJlYWN0LnVzZVN0YXRlKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly9odHRwczovL3Jlc3Quc3BpbnF1ZS5jb20vMi41L2JvdXdtYWF0L21hbmFnZS9zdHJhdGVnaWVzL2NvbW1pdHMvaGVhZHM/Y29uZmlnPWRldmVsJmNvdW50PTMwCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">PFRhYmxlLkNlbGw+CiAgICAgICAgICAgICAgICAgIHtjb21taXQuaGFuZGxlLmlkfQogICAgICAgICAgICAgICAgPC9UYWJsZS5DZWxsPg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGFibGUuSGVhZGVyQ2VsbD5Db21taXQ8L1RhYmxlLkhlYWRlckNlbGw+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpY29uCg==</text>
+        <text encoding="base64">ICBjb25zdCBbcmVkaXJlY3QsIHNldFJlZGlyZWN0XSA9IFJlYWN0LnVzZVN0YXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
