@@ -215,12 +215,12 @@
         <mark key="^" line="278" column="58" />
         <mark key="." line="278" column="58" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/tune.js" timestamp="1562853497537">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/tune.js" timestamp="1562933690548">
         <mark key="'" line="22" column="65" />
-        <mark key="[" line="35" column="129" />
-        <mark key="]" line="35" column="151" />
-        <mark key="^" line="35" column="151" />
-        <mark key="." line="35" column="151" />
+        <mark key="[" line="41" column="90" />
+        <mark key="]" line="41" column="91" />
+        <mark key="^" line="41" column="91" />
+        <mark key="." line="41" column="91" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/theme/site/collections/menu.variables" timestamp="1562682893233">
         <mark key="[" line="5" column="0" />
@@ -396,11 +396,11 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Tuner.jsx" timestamp="1562928221655">
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="39" column="60" />
-        <mark key="^" line="39" column="60" />
-        <mark key="." line="39" column="60" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Tuner.jsx" timestamp="1562934431149">
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="60" />
+        <mark key="." line="79" column="56" />
+        <mark key="^" line="78" column="30" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Overview.jsx" timestamp="1562926855293">
         <mark key="'" line="31" column="29" />
@@ -519,7 +519,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Cell</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7918,16 +7918,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>size=&quot;tiny&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8U2xpZGVyIGxhYmVsPSJQcmljZSBmaWx0ZXIiIGRpc2NyZXRlIG11bHRpcGxlIHsuLi5zZXR0aW5nc30vPgo=</text>
+      <register name="0" type="4">
+        <text>Cell</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Y29ufQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7957,28 +7957,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9UYWJsZS5IZWFkZXI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2LCBwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlLkhlYWRlcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNlZ21lbnQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Lwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2LCBwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
