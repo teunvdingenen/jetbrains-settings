@@ -49,12 +49,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" timestamp="1563202897082">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="51" column="48" />
-        <mark key="]" line="51" column="49" />
-        <mark key="." line="51" column="49" />
-        <mark key="^" line="51" column="47" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" timestamp="1563206087107">
+        <mark key="'" line="160" column="55" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/theme/site/globals/site.variables" timestamp="1561726631317">
         <mark key="[" line="3" column="0" />
@@ -307,11 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/elements/slider/slider.js" />
-      <jump line="22" column="65" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/tune.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" />
-      <jump line="52" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" />
-      <jump line="111" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Tune.jsx" />
       <jump line="55" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Overview.jsx" />
       <jump line="61" column="46" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Overview.jsx" />
       <jump line="66" column="44" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/tune/Overview.jsx" />
@@ -407,10 +401,15 @@
       <jump line="174" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
       <jump line="80" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
       <jump line="48" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
+      <jump line="49" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
+      <jump line="90" column="67" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
+      <jump line="95" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
+      <jump line="176" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
+      <jump line="160" column="55" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBba2V5d29yZCwgc2V0S2V5d29yZF0gPSBSZWFjdC51c2VTdGF0ZSgiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7809,16 +7808,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZVw+</text>
+        <text encoding="base64">XDxzZXRWYWx1ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8T3B0R3JvdXAga2V5PXtoZWFkZXJ9IGxhYmVsPXtzZWN0aW9uUmVuZGVyZXIoaGVhZGVyKX0+Cg==</text>
+      <register name="0" type="4">
+        <text>{title: &quot;Keyword&quot;, results:[]}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBba2V5d29yZCwgc2V0S2V5d29yZF0gPSBSZWFjdC51c2VTdGF0ZSgiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7848,37 +7847,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBsCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2FkaW5nLCByZXN1bHRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvYWRpbmc9e2xvYWRpbmd9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAge2NvbnNvbGUubG9nKCJyZW5kZXIiKX0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcHRpb25zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRyb3Bkb3duTWF0Y2hTZWxlY3RXaWR0aD17ZmFsc2V9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZXIoKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRyb3Bkb3duU3R5bGU9e3t3aWR0aDogMzAwfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBbc2V0VGltZXJdID0gdXNlVGltZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRyb3Bkb3duU3R5bGU9e3t3aWR0aDogMzAwfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRyb3Bkb3duQ2xhc3NOYW1lPSJjZXJ0YWluLWNhdGVnb3J5LXNlYXJjaC1kcm9wZG93biIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
+      <last-search encoding="base64">XDxzZXRWYWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRWYWx1ZVw+</last-pattern>
       <last-replace>Col</last-replace>
       <last-substitute>Grid.Column</last-substitute>
       <last-dir>1</last-dir>
@@ -7886,7 +7885,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Grid.Row</entry>
         <entry>Slider</entry>
         <entry>resolve</entry>
         <entry>theme</entry>
@@ -7906,6 +7904,7 @@
         <entry encoding="base64">XDxzZXRTdWdnZXN0aW9uc1w+</entry>
         <entry encoding="base64">XDxyZXN1bHRSZW5kZXJlclw+</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxzZXRWYWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.//g</entry>
