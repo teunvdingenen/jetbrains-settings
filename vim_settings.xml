@@ -50,12 +50,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/SiteContainer.jsx" timestamp="1563359876039">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="60" column="63" />
-        <mark key="]" line="60" column="63" />
-        <mark key="^" line="60" column="62" />
-        <mark key="." line="60" column="63" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/SiteContainer.jsx" timestamp="1563361121296">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="91" column="10" />
+        <mark key="]" line="91" column="10" />
+        <mark key="^" line="88" column="9" />
+        <mark key="." line="91" column="10" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/queries.js" timestamp="1562848198696">
         <mark key="'" line="4" column="8" />
@@ -295,12 +295,12 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/ShopItem.jsx" timestamp="1563360080250">
-        <mark key="'" line="28" column="18" />
-        <mark key="[" line="61" column="14" />
-        <mark key="]" line="61" column="14" />
-        <mark key="^" line="61" column="14" />
-        <mark key="." line="61" column="14" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/ShopItem.jsx" timestamp="1563360943298">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="59" column="14" />
+        <mark key="." line="4" column="41" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/mutations.js" timestamp="1562918345825">
         <mark key="[" line="13" column="0" />
@@ -561,8 +561,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/style/styles.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0NhcmQuTWV0YT4K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7961,7 +7961,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>decodeText(product.name)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMb2FkaW5nXD4=</text>
@@ -7970,7 +7970,7 @@
         <text encoding="base64">PE1lbnUuSXRlbSBrZXk9e3N1Yml0ZW0ubGFiZWx9PgogICAgICAgICAgICAgICAgICAgICAgICAgIHtzdWJpdGVtLmxhYmVsfQogICAgICAgICAgICAgICAgICAgICAgICAgIDxOYXZMaW5rIHRvPXtgJHttYXRjaC51cmx9JHtzdWJpdGVtLnVybH1gfS8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvTWVudS5JdGVtPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0NhcmQuTWV0YT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8000,28 +8000,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtwcmljZWRpdn0K</text>
+        <text encoding="base64">Y29uc3Qge0hlYWRlciwgUGFyYWdyYXBofSA9IFR5cG9ncmFwaHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L0NhcmQuTWV0YT4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PEhlYWRlciBsZXZlbD17NH0+e2RlY29kZVRleHQoCiAgICAgICAgICAgICAgICAgICAgcHJvZHVjdC5icmFuZCl9PC9IZWFkZXI+CiAgICAgICAgICAgICAgICA8UGFyYWdyYXBoPgogICAgICAgICAgICAgICAgICB7cHJvZHVjdC5pZGVudGlmaWVyfQogICAgICAgICAgICAgICAgPC9QYXJhZ3JhcGg+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtwcmljZWRpdn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvSGVhZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAge30K</text>
+      <register name="6" type="4">
+        <text encoding="base64">PEhlYWRlciBsZXZlbD17NH0+e2RlY29kZVRleHQoCiAgICAgICAgICAgICAgICAgICAgcHJvZHVjdC5icmFuZCl9PC9IZWFkZXI+CiAgICAgICAgICAgICAgICA8UGFyYWdyYXBoPgogICAgICAgICAgICAgICAgICB7cHJvZHVjdC5pZGVudGlmaWVyfQogICAgICAgICAgICAgICAgPC9QYXJhZ3JhcGg+</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvSGVhZGVyPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAge30K</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxIZWFkZXIgbGV2ZWw9ezN9Pgo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PD4KICAgICAgICAgICAgICAgIDxIZWFkZXIgbGV2ZWw9ezN9PgogICAgICAgICAgICAgICAgICB7ZGVjb2RlVGV4dChwcm9kdWN0Lm5hbWUpfQogICAgICAgICAgICAgICAgPC9IZWFkZXI+CiAgICAgICAgICAgICAgICA8SGVhZGVyIGxldmVsPXs0fT57ZGVjb2RlVGV4dCgKICAgICAgICAgICAgICAgICAgICBwcm9kdWN0LmJyYW5kKX08L0hlYWRlcj4KICAgICAgICAgICAgICAgIDxQYXJhZ3JhcGg+CiAgICAgICAgICAgICAgICAgIHtwcm9kdWN0LmlkZW50aWZpZXJ9CiAgICAgICAgICAgICAgICA8L1BhcmFncmFwaD4KICAgICAgICAgICAgICAgIHtwcmljZWRpdn0KICAgICAgICAgICAgICA8Lz4=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PEhlYWRlciBsZXZlbD17NH0+e2RlY29kZVRleHQoCiAgICAgICAgICAgICAgICAgICAgcHJvZHVjdC5icmFuZCl9PC9IZWFkZXI+CiAgICAgICAgICAgICAgICA8UGFyYWdyYXBoPgogICAgICAgICAgICAgICAgICB7cHJvZHVjdC5pZGVudGlmaWVyfQogICAgICAgICAgICAgICAgPC9QYXJhZ3JhcGg+CiAgICAgICAgICAgICAgICB7cHJpY2VkaXZ9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
