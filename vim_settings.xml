@@ -45,12 +45,11 @@
         <mark key="." line="72" column="25" />
         <mark key="^" line="72" column="25" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/package.json" timestamp="1563378342391">
-        <mark key="'" line="12" column="3" />
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="6" column="25" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/package.json" timestamp="1563520627273">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/SiteContainer.jsx" timestamp="1563374184689">
         <mark key="[" line="99" column="0" />
@@ -133,7 +132,6 @@
         <mark key="^" line="265" column="40" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1563378911152" />
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" timestamp="1563372885208">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="71" column="45" />
@@ -480,8 +478,8 @@
       <jump line="3" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/client/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7889,7 +7887,7 @@
         <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7919,28 +7917,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyAsIHJlc29sdmVycyB9ID0gcmVxdWlyZSgnLi9zY2hlbWEnKTsK</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGJpbi93d3ciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiCg==</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyAsIHJlc29sdmVycyB9ID0gcmVxdWlyZSgnLi9zY2hlbWEnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNTZWxlY3RlZD17c2VsZWN0ZWQuaW5kZXhPZihpZCkgIT09IC0xfT4K</text>
+        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtYmVyPXtjYXRlZ29yeS5wcm9iYWJpbGl0eX0K</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PEJ1dHRvbiBvbkNsaWNrPXtiYWNrfSBjbGFzc05hbWU9ImNhdGVnb3J5QmFjayI+CiAgICAgICAgICAgIDxJY29uIHR5cGU9ImFycm93LWxlZnQiLz4KICAgICAgICAgICAgQmFjawogICAgICAgICAgPC9CdXR0b24+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNTZWxlY3RlZD17c2VsZWN0ZWQuaW5kZXhPZihpZCkgIT09IC0xfT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
