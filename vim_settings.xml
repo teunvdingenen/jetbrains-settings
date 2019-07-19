@@ -52,6 +52,13 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1563548354926">
+        <mark key="'" line="480" column="40" />
+        <mark key="[" line="480" column="60" />
+        <mark key="]" line="480" column="60" />
+        <mark key="." line="480" column="60" />
+        <mark key="^" line="481" column="78" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/SiteContainer.jsx" timestamp="1563374184689">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -70,12 +77,25 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/reducers/facet.jsx" timestamp="1563549004814">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/demo/Suggest.jsx" timestamp="1561708743459">
         <mark key="'" line="50" column="9" />
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
         <mark key="^" line="132" column="21" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" timestamp="1563549059171">
+        <mark key="'" line="35" column="13" />
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="41" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="25" column="41" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1561465623082">
         <mark key="'" line="112" column="2" />
@@ -101,6 +121,13 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" timestamp="1563549172583">
+        <mark key="'" line="243" column="10" />
+        <mark key="[" line="890" column="80" />
+        <mark key="]" line="890" column="81" />
+        <mark key="." line="890" column="81" />
+        <mark key="^" line="890" column="79" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/resolvers.js" timestamp="1563374265243">
         <mark key="[" line="1" column="0" />
@@ -178,6 +205,9 @@
         <mark key="^" line="39" column="28" />
         <mark key="." line="39" column="28" />
       </file>
+      <file name="vim_settings.xml" timestamp="1563545468450">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/development/react-semantic-ui-range/lib/elements/slider.js" timestamp="1562673976309">
         <mark key="'" line="257" column="52" />
         <mark key="[" line="278" column="54" />
@@ -208,6 +238,9 @@
         <mark key="]" line="4" column="1" />
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
+      </file>
+      <file name="filetypes.xml" timestamp="1563545429194">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/rest/reduceLink.jsx" timestamp="1561456605025">
         <mark key="'" line="36" column="38" />
@@ -257,7 +290,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1563545359200">
+      <file name="/GraphQL.result.json" timestamp="1563545501292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/theme/site/globals/site.overrides" timestamp="1561726881987">
@@ -381,110 +414,110 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="40" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="35" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="30" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="111" column="25" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="126" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="11" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="14" column="33" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="31" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="68" column="41" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="120" column="44" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="32" column="40" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/ShopItem.jsx" />
-      <jump line="77" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="13" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="136" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="25" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="30" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="67" column="72" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="27" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="1" column="33" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="29" column="18" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="6" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/CategoryList.jsx" />
-      <jump line="81" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="88" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="91" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="96" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="63" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="113" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Product.jsx" />
-      <jump line="100" column="67" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="69" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="99" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="82" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="85" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="88" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="91" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="94" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="163" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="174" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="80" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="48" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="49" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="90" column="67" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="95" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="176" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="70" column="50" filename="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/SiteContainer.jsx" />
-      <jump line="42" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/ShopItem.jsx" />
-      <jump line="63" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/ShopItem.jsx" />
-      <jump line="46" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/ShopItem.jsx" />
-      <jump line="45" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/ShopItem.jsx" />
-      <jump line="28" column="18" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/ShopItem.jsx" />
-      <jump line="20" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/style/styles.less" />
-      <jump line="45" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/SiteContainer.jsx" />
-      <jump line="51" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/SiteContainer.jsx" />
-      <jump line="7" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/style/styles.less" />
-      <jump line="16" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/style/styles.less" />
-      <jump line="52" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="73" column="53" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="22" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="152" column="25" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="160" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="6" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="29" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="51" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="62" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="93" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="109" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="129" column="12" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="28" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/node_modules/antd/lib/auto-complete/index.d.ts" />
-      <jump line="96" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/demo.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/demo.js" />
-      <jump line="84" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/demo.js" />
-      <jump line="22" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="28" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="32" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="37" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="44" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="45" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="53" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="65" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="10" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
-      <jump line="127" column="64" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="146" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="15" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="26" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="27" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="32" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="82" column="63" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="4" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" />
-      <jump line="64" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" />
-      <jump line="94" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Product.jsx" />
-      <jump line="23" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/style/styles.less" />
-      <jump line="19" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/style/styles.less" />
-      <jump line="12" column="35" filename="$USER_HOME$/development/sparque/sparque-demo/client/webpack.config.js" />
-      <jump line="47" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/client/webpack.config.js" />
-      <jump line="56" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/client/webpack.config.js" />
-      <jump line="3" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/client/webpack.config.js" />
+      <jump line="877" column="50" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="886" column="60" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="893" column="72" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="900" column="72" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="501" column="23" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="511" column="33" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="904" column="22" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="150" column="12" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="129" column="22" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="7" column="6" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="198" column="38" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="224" column="25" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="313" column="22" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="404" column="29" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="503" column="43" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="468" column="50" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="500" column="22" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="505" column="21" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="499" column="36" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="533" column="36" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="591" column="47" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="344" column="14" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="12" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="149" column="13" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="6" column="46" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="149" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="12" column="45" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="17" column="35" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="5" column="68" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="7" column="67" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="8" column="67" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="11" column="28" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="16" column="52" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="4" column="81" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="643" column="59" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="705" column="12" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="217" column="36" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="644" column="59" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="410" column="12" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="876" column="75" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="199" column="42" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="638" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="263" column="14" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="626" column="58" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="103" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="165" column="17" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="166" column="48" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="332" column="22" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="362" column="24" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="589" column="31" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="398" column="33" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="173" column="4" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="349" column="14" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="360" column="14" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="372" column="14" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="393" column="55" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="45" column="6" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="694" column="45" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="115" column="4" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="8" column="10" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="156" column="42" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="209" column="27" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="210" column="62" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="419" column="39" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="423" column="26" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="733" column="54" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="197" column="46" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="594" column="20" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="116" column="31" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="150" column="17" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="151" column="48" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="153" column="20" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="154" column="51" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="156" column="17" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="157" column="48" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="177" column="18" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="178" column="49" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="180" column="18" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="390" column="15" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="397" column="43" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="402" column="16" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="731" column="9" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="34" column="6" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="164" column="26" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="383" column="14" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="403" column="40" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="13" column="32" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="401" column="2" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="480" column="40" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="142" column="11" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="20" column="7" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="33" column="13" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="913" column="0" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="229" column="8" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="242" column="7" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="243" column="10" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgbG9naW4gPSBhc3luYyAocGFyZW50LCBhcmdzLCBjb250ZXh0LCBpbmZvKSA9PiB7CiAgY29uc3QgdXNlciA9IGF3YWl0IG1vZGVsLlVzZXIuZmluZE9uZSh7ZW1haWw6IGFyZ3MuZW1haWx9KQogIGlmICghdXNlcikgewogICAgdGhyb3cgbmV3IEVycm9yKCJJbnZhbGlkIGNyZWRlbnRpYWxzIikKICB9CiAgY29uc3QgdmFsaWQgPSBhd2FpdCBiY3J5cHQuY29tcGFyZShhcmdzLnBhc3N3b3JkLCB1c2VyLnBhc3N3b3JkKQogIGlmICghdmFsaWQpIHsKICAgIHJldHVybiBuZXcgRXJyb3IoIkludmFsaWQgY3JlZGVudGlhbHMiKQogIH0KICBjb25zdCB0b2tlbiA9IGp3dC5zaWduKHt1c2VyaWQ6IHVzZXIuX2lkfSwgQVBQX1NFQ1JFVCkKCiAgcmV0dXJuIHsKICAgIHRva2VuLAogICAgdXNlcgogIH0KfQo=</text>
+        <text>p</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7883,16 +7916,17 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>findById</text>
+        <text encoding="base64">XDxjYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29uc3QgbG9naW4gPSBhc3luYyAocGFyZW50LCBhcmdzLCBjb250ZXh0LCBpbmZvKSA9PiB7CiAgY29uc3QgdXNlciA9IGF3YWl0IG1vZGVsLlVzZXIuZmluZE9uZSh7ZW1haWw6IGFyZ3MuZW1haWx9KQogIGlmICghdXNlcikgewogICAgdGhyb3cgbmV3IEVycm9yKCJJbnZhbGlkIGNyZWRlbnRpYWxzIikKICB9CiAgY29uc3QgdmFsaWQgPSBhd2FpdCBiY3J5cHQuY29tcGFyZShhcmdzLnBhc3N3b3JkLCB1c2VyLnBhc3N3b3JkKQogIGlmICghdmFsaWQpIHsKICAgIHJldHVybiBuZXcgRXJyb3IoIkludmFsaWQgY3JlZGVudGlhbHMiKQogIH0KICBjb25zdCB0b2tlbiA9IGp3dC5zaWduKHt1c2VyaWQ6IHVzZXIuX2lkfSwgQVBQX1NFQ1JFVCkKCiAgcmV0dXJuIHsKICAgIHRva2VuLAogICAgdXNlcgogIH0KfQo=</text>
+        <text>export const category = 'q/category/'
+export const categoryFilter = 'q/category:FILTER/'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdWN0aW9uKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7922,68 +7956,68 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyAsIHJlc29sdmVycyB9ID0gcmVxdWlyZSgnLi9zY2hlbWEnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhdGVnb3J5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhdGVnb3J5KQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+      <register name="4" type="4">
+        <text>(getState().facets.selectedLanguage,
+        getState().facets.selectedChannel)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      <register name="5" type="4">
+        <text>(
+        getState().facets.selectedLanguage, getState().facets.selectedChannel)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNTZWxlY3RlZD17c2VsZWN0ZWQuaW5kZXhPZihpZCkgIT09IC0xfT4K</text>
+        <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAndXVpZC92NCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtYmVyPXtjYXRlZ29yeS5wcm9iYWJpbGl0eX0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhdGVnb3J5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PEJ1dHRvbiBvbkNsaWNrPXtiYWNrfSBjbGFzc05hbWU9ImNhdGVnb3J5QmFjayI+CiAgICAgICAgICAgIDxJY29uIHR5cGU9ImFycm93LWxlZnQiLz4KICAgICAgICAgICAgQmFjawogICAgICAgICAgPC9CdXR0b24+</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>findById</last-search>
+      <last-search encoding="base64">XDxjYXRlZ29yaWVzXD4=</last-search>
       <last-offset />
-      <last-pattern>findById</last-pattern>
-      <last-replace>Col</last-replace>
-      <last-substitute>Grid.Column</last-substitute>
+      <last-pattern encoding="base64">XDxjYXRlZ29yaWVzXD4=</last-pattern>
+      <last-replace>config: config</last-replace>
+      <last-substitute encoding="base64">XDxzZXRDYXRlZ29yeVw+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZVw+</entry>
-        <entry encoding="base64">XDxzZXRWYWx1ZVw+</entry>
-        <entry>div</entry>
-        <entry>className</entry>
-        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
-        <entry encoding="base64">XDxzZXRMb2FkaW5nXD4=</entry>
-        <entry encoding="base64">XDxNZW51SXRlbVw+</entry>
-        <entry>style</entry>
-        <entry>flex</entry>
-        <entry encoding="base64">XDxmZXRjaGluZ1w+</entry>
-        <entry>key</entry>
-        <entry>Option</entry>
-        <entry encoding="base64">XDxzZWFyY2hVcmxcPg==</entry>
-        <entry encoding="base64">XDx3b3Jrc3BhY2VcPg==</entry>
-        <entry encoding="base64">XDxjYWNoZVw+</entry>
-        <entry encoding="base64">XDxwcmljZXNcPg==</entry>
-        <entry>back</entry>
-        <entry>Name</entry>
-        <entry>less</entry>
-        <entry>findById</entry>
+        <entry>c</entry>
+        <entry>interseting</entry>
+        <entry>channel</entry>
+        <entry>all</entry>
+        <entry>interesting</entry>
+        <entry encoding="base64">XDxkZWxpdmVyeVw+</entry>
+        <entry>decodeSimple</entry>
+        <entry>delivery</entry>
+        <entry>upsell</entry>
+        <entry>language</entry>
+        <entry>category</entry>
+        <entry encoding="base64">XDxkZWNvZGVOYW1lXD4=</entry>
+        <entry>demo</entry>
+        <entry encoding="base64">XDxzZXRDYXRlZ29yeVw+</entry>
+        <entry>categoryFilter</entry>
+        <entry>console</entry>
+        <entry>auction</entry>
+        <entry>categories</entry>
+        <entry>rootcategor</entry>
+        <entry encoding="base64">XDxjYXRlZ29yaWVzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/this.//g</entry>
-        <entry>%s/props.//g</entry>
         <entry>_decoee</entry>
         <entry>isFetching</entry>
         <entry>we</entry>
@@ -8001,6 +8035,8 @@
         <entry>%s/Grid.Column/Col/g</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>%s/config: 'default'/config: config/g</entry>
+        <entry>%s/config: &quot;devel&quot;/config: config/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
