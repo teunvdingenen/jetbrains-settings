@@ -126,7 +126,6 @@
         <mark key="." line="56" column="4" />
         <mark key="^" line="56" column="4" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1563542481579" />
       <file name="$USER_HOME$/development/playti4/src/auth/utils.js" timestamp="1563542979516">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="52" column="1" />
@@ -145,7 +144,7 @@
         <mark key="." line="71" column="44" />
         <mark key="^" line="71" column="44" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1563542233918">
+      <file name="/GraphQL.variables.json" timestamp="1563545356845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Cart.jsx" timestamp="1563352685307">
@@ -258,7 +257,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1563542237652">
+      <file name="/GraphQL.result.json" timestamp="1563545359200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/theme/site/globals/site.overrides" timestamp="1561726881987">
