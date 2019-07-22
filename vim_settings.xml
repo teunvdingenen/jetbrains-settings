@@ -164,6 +164,9 @@
         <mark key="^" line="265" column="40" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1563802706173">
+        <mark key="'" line="102" column="5" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/entry.js" timestamp="1563372885208">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="71" column="45" />
@@ -171,7 +174,7 @@
         <mark key="." line="71" column="44" />
         <mark key="^" line="71" column="44" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1563789648707">
+      <file name="/GraphQL.variables.json" timestamp="1563802700306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Cart.jsx" timestamp="1563352685307">
@@ -420,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="594" column="20" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="116" column="31" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="150" column="17" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="151" column="48" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
@@ -520,6 +522,7 @@
       <jump line="232" column="43" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
       <jump line="12" column="6" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
       <jump line="396" column="35" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="102" column="5" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -7925,7 +7928,7 @@
         <text>count</text>
       </register>
       <register name="/" type="4">
-        <text>users</text>
+        <text encoding="base64">XDxTdWdnZXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>userid !== 0</text>
@@ -8000,9 +8003,9 @@
       </register>
     </registers>
     <search>
-      <last-search>users</last-search>
+      <last-search encoding="base64">XDxTdWdnZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>users</last-pattern>
+      <last-pattern encoding="base64">XDxTdWdnZXN0XD4=</last-pattern>
       <last-replace>config: config</last-replace>
       <last-substitute encoding="base64">XDxzZXRDYXRlZ29yeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -8010,7 +8013,6 @@
     </search>
     <history>
       <history-search>
-        <entry>categorytree</entry>
         <entry>tree</entry>
         <entry>category</entry>
         <entry>attributes</entry>
@@ -8030,6 +8032,7 @@
         <entry>getUser</entry>
         <entry>fetchuser</entry>
         <entry>users</entry>
+        <entry encoding="base64">XDxTdWdnZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>_decoee</entry>
