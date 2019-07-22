@@ -101,11 +101,11 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1563798189775">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="3" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1563798959673">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/db.js" timestamp="1563541644631">
         <mark key="[" line="7" column="4" />
@@ -243,11 +243,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" timestamp="1563797533069">
-        <mark key="[" line="106" column="20" />
-        <mark key="]" line="106" column="20" />
-        <mark key="^" line="120" column="22" />
-        <mark key="." line="106" column="20" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" timestamp="1563800823838">
+        <mark key="'" line="110" column="8" />
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/Tune.jsx" timestamp="1563791931568">
         <mark key="[" line="10" column="0" />
@@ -398,20 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="53" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="22" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Shop.jsx" />
-      <jump line="152" column="25" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="160" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="6" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="29" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="51" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="62" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="93" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="109" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="129" column="12" filename="$USER_HOME$/development/sparque/sparque-demo/src/components/demo/Suggest.jsx" />
-      <jump line="28" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/node_modules/antd/lib/auto-complete/index.d.ts" />
-      <jump line="96" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/demo.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/demo.js" />
       <jump line="84" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/rest/demo.js" />
       <jump line="22" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
       <jump line="28" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/pages/Demo.jsx" />
@@ -497,11 +484,25 @@
       <jump line="80" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
       <jump line="81" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
       <jump line="83" column="40" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="87" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="51" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="47" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="120" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="62" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="39" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="8" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="17" column="60" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="164" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="18" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="24" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="111" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="28" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="110" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="109" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9MYXlvdXQ+</text>
+        <text>h</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7900,22 +7901,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9MYXlvdXQ+</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudFw+</text>
+        <text encoding="base64">XDxjb21wb25lbnRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>editable,
-      dataIndex,
-      title,
-      record,
-      index,
-      handleSave,
-      children,</text>
+        <text encoding="base64">ewogICAgICAgIHRpdGxlOiAnb3BlcmF0aW9uJywKICAgICAgICBkYXRhSW5kZXg6ICdvcGVyYXRpb24nLAogICAgICAgIHJlbmRlcjogKHRleHQsIHJlY29yZCkgPT4KICAgICAgICAgIHRoaXMuc3RhdGUuZGF0YVNvdXJjZS5sZW5ndGggPj0gMSA/ICgKICAgICAgICAgICAgPFBvcGNvbmZpcm0gdGl0bGU9IlN1cmUgdG8gZGVsZXRlPyIgb25Db25maXJtPXsoKSA9PiB0aGlzLmhhbmRsZURlbGV0ZShyZWNvcmQua2V5KX0+CiAgICAgICAgICAgICAgPGEgaHJlZj0iamF2YXNjcmlwdDo7Ij5EZWxldGU8L2E+CiAgICAgICAgICAgIDwvUG9wY29uZmlybT4KICAgICAgICAgICkgOiBudWxsLAogICAgICB9LA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGRhdGFTb3VyY2UgfSA9IHRoaXMuc3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgIG5hbWU6IFByb3BUeXBlcy5TdHJpbmcsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7945,47 +7940,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">ICBpbmRleCwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29uc3QgbmV3RGF0YSA9IFsuLi50aGlzLnN0YXRlLmRhdGFTb3VyY2VdOwogICAgY29uc3QgaW5kZXggPSBuZXdEYXRhLmZpbmRJbmRleChpdGVtID0+IHJvdy5rZXkgPT09IGl0ZW0ua2V5KTsKICAgIGNvbnN0IGl0ZW0gPSBuZXdEYXRhW2luZGV4XTsKICAgIG5ld0RhdGEuc3BsaWNlKGluZGV4LCAxLCB7CiAgICAgIC4uLml0ZW0sCiAgICAgIC4uLnJvdywKICAgIH0pOwogICAgdGhpcy5zZXRTdGF0ZSh7IGRhdGFTb3VyY2U6IG5ld0RhdGEgfSk7</text>
-      </register>
-      <register name="5" type="4">
-        <text>const { count, dataSource } = this.state;
-    const newData = {
-      key: count,
-      name: `Edward King ${count}`,
-      age: 32,
-      address: `London, Park Lane no. ${count}`,
-    };
-    this.setState({
-      dataSource: [...dataSource, newData],
-      count: count + 1,
-    });</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBkYXRhU291cmNlOiBkYXRhU291cmNlLmZpbHRlcihpdGVtID0+IGl0ZW0ua2V5ICE9PSBrZXkpIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGFTb3VyY2UgPSBbLi4udGhpcy5zdGF0ZS5kYXRhU291cmNlXTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAncmVhY3QnOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgaGFuZGxlRGVsZXRlID0gKGtleSkgPT4gewogICAgLy8gVE9ETwogIH07CgogIGNvbnN0IGhhbmRsZUFkZCA9ICgpID0+IHsKCiAgfTsKCiAgY29uc3QgaGFuZGxlU2F2ZSA9IChyb3cpID0+IHsKCiAgfTs=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudFw+</last-search>
+      <last-search encoding="base64">XDxjb21wb25lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wb25lbnRzXD4=</last-pattern>
       <last-replace>getApiUrl</last-replace>
       <last-substitute>getUrl</last-substitute>
       <last-dir>1</last-dir>
@@ -7993,15 +7978,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shopUtils</entry>
-        <entry encoding="base64">XDxsb2FkTW9yZVw+</entry>
-        <entry>isFetching</entry>
-        <entry>products</entry>
-        <entry>assign</entry>
-        <entry>work</entry>
-        <entry>console</entry>
-        <entry>rootUrl</entry>
-        <entry>data.workspace.rootUrl</entry>
         <entry encoding="base64">XDxzZWFyY2hVcmxcPg==</entry>
         <entry>getUrl</entry>
         <entry>key</entry>
@@ -8013,11 +7989,19 @@
         <entry encoding="base64">XDxmb3JtXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJDZWxsXD4=</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry>focus</entry>
+        <entry>form</entry>
+        <entry encoding="base64">XDxlZGl0YWJsZVw+</entry>
+        <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
+        <entry encoding="base64">XDxpbmRleFw+</entry>
+        <entry encoding="base64">XDxFZGl0YWJsZVJvd1w+</entry>
+        <entry encoding="base64">XDxFZGl0YWJsZUZvcm1Sb3dcPg==</entry>
+        <entry encoding="base64">XDxib2R5XD4=</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>_decoee</entry>
         <entry>isFetching</entry>
-        <entry>we</entry>
         <entry>%s/SparqueConfig/SparqueWorkspace/g</entry>
         <entry>%s/SparqueApi/ApiConfig/g</entry>
         <entry>%s/CONFIG_QUERY/WORKSPACE_QUERY/g</entry>
@@ -8034,6 +8018,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/data.workspace.rootUrl/getUrl(data.workspace)/g</entry>
         <entry>%s/getUrl/getApiUrl/g</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
