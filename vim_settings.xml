@@ -47,11 +47,12 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1563784666210">
-        <mark key="'" line="420" column="19" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" timestamp="1563870509894">
+        <mark key="'" line="661" column="52" />
+        <mark key="[" line="639" column="39" />
+        <mark key="]" line="639" column="39" />
+        <mark key="." line="639" column="39" />
+        <mark key="^" line="661" column="52" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/SiteContainer.jsx" timestamp="1563374184689">
         <mark key="[" line="99" column="0" />
@@ -122,12 +123,12 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" timestamp="1563793543715">
-        <mark key="'" line="397" column="35" />
-        <mark key="[" line="515" column="17" />
-        <mark key="]" line="515" column="19" />
-        <mark key="^" line="515" column="19" />
-        <mark key="." line="515" column="19" />
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" timestamp="1563870461038">
+        <mark key="'" line="382" column="26" />
+        <mark key="[" line="393" column="26" />
+        <mark key="]" line="393" column="26" />
+        <mark key="^" line="393" column="26" />
+        <mark key="." line="393" column="26" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/local/resolvers.js" timestamp="1563374265243">
         <mark key="[" line="1" column="0" />
@@ -423,19 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="31" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="150" column="17" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="151" column="48" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="153" column="20" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="154" column="51" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="156" column="17" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="157" column="48" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="177" column="18" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="178" column="49" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="180" column="18" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="390" column="15" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="397" column="43" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
-      <jump line="402" column="16" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
       <jump line="731" column="9" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
       <jump line="164" column="26" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
       <jump line="383" column="14" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
@@ -523,10 +511,23 @@
       <jump line="12" column="6" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
       <jump line="396" column="35" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
       <jump line="102" column="5" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
+      <jump line="361" column="5" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="655" column="19" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="656" column="32" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="327" column="22" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="381" column="24" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="520" column="21" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="55" column="6" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="379" column="39" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="45" column="6" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="413" column="38" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="382" column="26" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" />
+      <jump line="555" column="55" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
+      <jump line="661" column="52" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>count</text>
+        <text>[this.props.selectedLanguage]</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7925,16 +7926,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>[this.props.selectedLanguage]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdWdnZXN0XD4=</text>
+        <text>Country</text>
       </register>
       <register name="0" type="4">
         <text>userid !== 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb25zKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7964,48 +7965,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>} else {
           dispatch({
             type: 'FETCH_USER_FAILURE'
           })
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZmV0Y2goCiAgICAgIGdldFN0YXRlKCkuY29uZmlnLnJvb3RVcmwgKyB1cmwudXNlcnMgKyB1cmwuc3RhdGlzdGljcyArIHVybC5wYXJhbWV0ZXJzKAogICAgICB7CiAgICAgICAgY29uZmlnOiBjb25maWcKICAgICAgfSksIHsgY3JlZGVudGlhbHM6ICdpbmNsdWRlJyB9KQogICAgICAudGhlbihyZXNwb25zZSA9PiB7CiAgICAgICAgaWYgKHJlc3BvbnNlLm9rKSB7CiAgICAgICAgICByZXNwb25zZS5qc29uKCkudGhlbihib2R5ID0+IHsKICAgICAgICAgICAgbGV0IHVzZXJPZmZzZXQgPSBNYXRoLmZsb29yKChNYXRoLnJhbmRvbSgpICogYm9keS50b3RhbCkpCiAgICAgICAgICAgIGxldCBjb3VudCA9IDUw</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
       <register name="9" type="4">
-        <text>id: attributes.id,
-                    name: attributes.name,
-                    brand: attributes.brand,
-                    auctionNumber: attributes.auctionNumber,
-                    lotnumber: attributes.lotnumber,
-                    startamount: attributes.startamount,
-                    enddate: attributes.enddate,
-                    description: attributes.description</text>
+        <text encoding="base64">ZmV0Y2goCiAgICAgIGdldFN0YXRlKCkuY29uZmlnLnJvb3RVcmwgKyB1cmwudXNlcnMgKyB1cmwuc3RhdGlzdGljcyArIHVybC5wYXJhbWV0ZXJzKAogICAgICB7CiAgICAgICAgY29uZmlnOiBjb25maWcKICAgICAgfSksIHsgY3JlZGVudGlhbHM6ICdpbmNsdWRlJyB9KQogICAgICAudGhlbihyZXNwb25zZSA9PiB7CiAgICAgICAgaWYgKHJlc3BvbnNlLm9rKSB7CiAgICAgICAgICByZXNwb25zZS5qc29uKCkudGhlbihib2R5ID0+IHsKICAgICAgICAgICAgbGV0IHVzZXJPZmZzZXQgPSBNYXRoLmZsb29yKChNYXRoLnJhbmRvbSgpICogYm9keS50b3RhbCkpCiAgICAgICAgICAgIGxldCBjb3VudCA9IDUw</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdWdnZXN0XD4=</last-search>
+      <last-search>Country</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdWdnZXN0XD4=</last-pattern>
+      <last-pattern>Country</last-pattern>
       <last-replace>config: config</last-replace>
       <last-substitute encoding="base64">XDxzZXRDYXRlZ29yeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -8013,14 +8007,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tree</entry>
-        <entry>category</entry>
-        <entry>attributes</entry>
-        <entry encoding="base64">XDxjYXRlZ29yaWVzXD4=</entry>
-        <entry>langu</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZEF1Y3Rpb25zXD4=</entry>
-        <entry>auction</entry>
-        <entry encoding="base64">XDxhdWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxGRVRDSF9BVUNUSU9OU19TVUNDRVNTXD4=</entry>
         <entry>newAuc</entry>
         <entry>interesting</entry>
@@ -8033,9 +8019,16 @@
         <entry>fetchuser</entry>
         <entry>users</entry>
         <entry encoding="base64">XDxTdWdnZXN0XD4=</entry>
+        <entry>LOCATIONS</entry>
+        <entry encoding="base64">XDxkZWNvZGVCdmFBcnJheVw+</entry>
+        <entry>Locatoins</entry>
+        <entry>LOCA</entry>
+        <entry>COUNTR</entry>
+        <entry>locations</entry>
+        <entry>country</entry>
+        <entry>Country</entry>
       </history-search>
       <history-cmd>
-        <entry>_decoee</entry>
         <entry>isFetching</entry>
         <entry>we</entry>
         <entry>%s/SparqueConfig/SparqueWorkspace/g</entry>
@@ -8054,6 +8047,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/config: 'default'/config: config/g</entry>
         <entry>%s/config: &quot;devel&quot;/config: config/g</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
