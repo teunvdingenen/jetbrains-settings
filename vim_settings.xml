@@ -78,11 +78,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1563787193054">
-        <mark key="[" line="348" column="56" />
-        <mark key="]" line="348" column="66" />
-        <mark key="^" line="348" column="66" />
-        <mark key="." line="348" column="66" />
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1563896751662">
+        <mark key="[" line="356" column="0" />
+        <mark key="]" line="356" column="0" />
+        <mark key="." line="356" column="0" />
+        <mark key="^" line="352" column="13" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/demo/Suggest.jsx" timestamp="1561708743459">
         <mark key="'" line="50" column="9" />
@@ -91,12 +91,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="132" column="21" />
       </file>
-      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" timestamp="1563790192821">
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/rest/reduceLink.jsx" timestamp="1563896564550">
         <mark key="'" line="7" column="100" />
-        <mark key="[" line="46" column="61" />
-        <mark key="]" line="47" column="33" />
-        <mark key="^" line="47" column="33" />
-        <mark key="." line="47" column="33" />
+        <mark key="[" line="7" column="80" />
+        <mark key="]" line="7" column="93" />
+        <mark key="^" line="7" column="93" />
+        <mark key="." line="7" column="93" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/components/shop/ShopItem.jsx" timestamp="1561465623082">
         <mark key="'" line="112" column="2" />
@@ -123,7 +123,7 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" timestamp="1563870461038">
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/actions/index.jsx" timestamp="1563896580115">
         <mark key="'" line="382" column="26" />
         <mark key="[" line="393" column="26" />
         <mark key="]" line="393" column="26" />
@@ -526,8 +526,8 @@
       <jump line="661" column="52" filename="$USER_HOME$/development/sparque/bva/sparque-demo/src/pages/dashboard/pages/Shop.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[this.props.selectedLanguage]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7926,7 +7926,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[this.props.selectedLanguage]</text>
+        <text>autocompleteByChannel</text>
       </register>
       <register name="/" type="4">
         <text>Country</text>
@@ -7935,7 +7935,7 @@
         <text>userid !== 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb25zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7965,32 +7965,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>this.props.updateKeyword(suggestion.tuple[1])
+            this.props.setCategory(suggestion.tuple[0])</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb25zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>} else {
-          dispatch({
-            type: 'FETCH_USER_FAILURE'
-          })
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZmV0Y2goCiAgICAgIGdldFN0YXRlKCkuY29uZmlnLnJvb3RVcmwgKyB1cmwudXNlcnMgKyB1cmwuc3RhdGlzdGljcyArIHVybC5wYXJhbWV0ZXJzKAogICAgICB7CiAgICAgICAgY29uZmlnOiBjb25maWcKICAgICAgfSksIHsgY3JlZGVudGlhbHM6ICdpbmNsdWRlJyB9KQogICAgICAudGhlbihyZXNwb25zZSA9PiB7CiAgICAgICAgaWYgKHJlc3BvbnNlLm9rKSB7CiAgICAgICAgICByZXNwb25zZS5qc29uKCkudGhlbihib2R5ID0+IHsKICAgICAgICAgICAgbGV0IHVzZXJPZmZzZXQgPSBNYXRoLmZsb29yKChNYXRoLnJhbmRvbSgpICogYm9keS50b3RhbCkpCiAgICAgICAgICAgIGxldCBjb3VudCA9IDUw</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
