@@ -73,11 +73,12 @@
         <mark key="^" line="144" column="17" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1563955733248">
+      <file name="$USER_HOME$/development/sparque/bva/sparque-demo/src/components/shop/Suggest.jsx" timestamp="1563959483466">
         <mark key="'" line="362" column="16" />
-        <mark key="[" line="374" column="10" />
-        <mark key="]" line="374" column="10" />
-        <mark key="." line="374" column="10" />
+        <mark key="[" line="372" column="81" />
+        <mark key="]" line="372" column="112" />
+        <mark key="." line="372" column="112" />
+        <mark key="^" line="372" column="112" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/pages/components/demo/Suggest.jsx" timestamp="1561708743459">
         <mark key="'" line="50" column="9" />
