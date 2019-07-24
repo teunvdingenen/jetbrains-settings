@@ -82,7 +82,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/entry.js" timestamp="1563895329763" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/entry.js" timestamp="1563956824763">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/GraphQL.variables.json" timestamp="1563895790826">
         <mark key="[" line="0" column="0" />
       </file>
@@ -344,8 +348,8 @@
       <jump line="147" column="41" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Z2V0V29ya3NwYWNlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUXVlcnkgfSBmcm9tICdyZWFjdC1hcG9sbG8nOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7753,7 +7757,7 @@
         <text encoding="base64">eyh7IGxvYWRpbmcsIGVycm9yLCBkYXRhIH0pID0+IHsKICAgICAgICAgIGlmIChsb2FkaW5nKSB7CiAgICAgICAgICAgIHJldHVybiA8TG9hZGluZ1ZpZXcvPjsKICAgICAgICAgIH0KICAgICAgICAgIGlmIChlcnJvcikgewogICAgICAgICAgICByZXR1cm4gPEVycm9yVmlldyBtZXNzYWdlPXtlcnJvci5tZXNzYWdlfS8+OwogICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudCBmcm9tICcuLi9jbGllbnQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUXVlcnkgfSBmcm9tICdyZWFjdC1hcG9sbG8nOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7783,30 +7787,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNsaWVudCBmcm9tICcuLi9jbGllbnQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFdvcmtzcGFjZSA9ICgpID0+IGNsaWVudC5xdWVyeSh7IHF1ZXJ5OiBXT1JLU1BBQ0VfUVVFUlkgfSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFdvcmtzcGFjZSA9ICgpID0+IGNsaWVudC5xdWVyeSh7IHF1ZXJ5OiBXT1JLU1BBQ0VfUVVFUlkgfSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>import {
   WORKSPACE_QUERY,
 } from '../graphql/queries';</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNsaWVudCBmcm9tICcuL2NsaWVudCc7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">YXBpOiAoKSA9PiB7CiAgICAgIF9fdHlwCiAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHdvcmtzcGFjZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
