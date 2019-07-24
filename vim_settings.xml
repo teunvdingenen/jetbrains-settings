@@ -26,11 +26,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/Suggest.jsx" timestamp="1563963711741">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="178" column="55" />
-        <mark key="]" line="178" column="55" />
-        <mark key="." line="178" column="55" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/Suggest.jsx" timestamp="1563975851566">
+        <mark key="'" line="174" column="27" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
         <mark key="^" line="178" column="57" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/package.json" timestamp="1563540466011">
@@ -242,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" />
       <jump line="60" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" />
       <jump line="46" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" />
       <jump line="17" column="21" filename="$USER_HOME$/development/sparque/sparque-demo/src/auth/index.js" />
@@ -342,10 +341,11 @@
       <jump line="143" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
       <jump line="147" column="64" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
       <jump line="14" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/Suggest.jsx" />
+      <jump line="174" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/Suggest.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7747,13 +7747,13 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text>loading</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">eyh7IGxvYWRpbmcsIGVycm9yLCBkYXRhIH0pID0+IHsKICAgICAgICAgIGlmIChsb2FkaW5nKSB7CiAgICAgICAgICAgIHJldHVybiA8TG9hZGluZ1ZpZXcvPjsKICAgICAgICAgIH0KICAgICAgICAgIGlmIChlcnJvcikgewogICAgICAgICAgICByZXR1cm4gPEVycm9yVmlldyBtZXNzYWdlPXtlcnJvci5tZXNzYWdlfS8+OwogICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7783,37 +7783,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gdXNlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyKQo=</text>
+        <text encoding="base64">ICByZXR1cm4gdXNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHdvcmtzcGFjZSB9ID0gZGF0YS52aWV3ZXI7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICBjb25zdCB7IHdvcmtzcGFjZSB9ID0gZGF0YS52aWV3ZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXRXb3Jrc3BhY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdvcmtzcGFjZTogKHBhcmVudCwgYXJncywgeyB1c2VyIH0pID0+IGdldFdvcmtzcGFjZSh1c2VyKSwK</text>
+        <text encoding="base64">ICBnZXRXb3Jrc3BhY2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdvcmtzcGFjZTogKHBhcmVudCwgYXJncywgeyB1c2VyIH0pID0+IGdldFdvcmtzcGFjZSh1c2VyKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search>loading</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
+      <last-pattern>loading</last-pattern>
       <last-replace>getApiUrl</last-replace>
       <last-substitute>getUrl</last-substitute>
       <last-dir>1</last-dir>
@@ -7821,7 +7821,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry>err</entry>
         <entry>_id</entry>
         <entry>values</entry>
@@ -7841,6 +7840,7 @@
         <entry encoding="base64">XDxzZWFyY2hVcmxcPg==</entry>
         <entry>data</entry>
         <entry>search</entry>
+        <entry>loading</entry>
       </history-search>
       <history-cmd>
         <entry>_decoee</entry>
