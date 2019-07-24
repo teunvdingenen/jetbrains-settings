@@ -33,6 +33,18 @@
         <mark key="." line="178" column="55" />
         <mark key="^" line="178" column="57" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/package.json" timestamp="1563540466011">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/SiteContainer.jsx" timestamp="1563528409334">
+        <mark key="[" line="107" column="54" />
+        <mark key="]" line="107" column="54" />
+        <mark key="." line="107" column="54" />
+        <mark key="^" line="107" column="61" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/client.js" timestamp="1563958013578">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="44" column="35" />
@@ -45,6 +57,12 @@
         <mark key="]" line="44" column="10" />
         <mark key="." line="44" column="10" />
         <mark key="^" line="44" column="10" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/reduceLink.jsx" timestamp="1563536988675">
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/sparque.graphqls" timestamp="1563963378035">
         <mark key="[" line="46" column="8" />
@@ -65,6 +83,12 @@
         <mark key="^" line="102" column="21" />
         <mark key="." line="102" column="28" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/db.js" timestamp="1563541644631">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/entry.js" timestamp="1563962783883">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="29" column="54" />
@@ -73,6 +97,12 @@
       <file name="/GraphQL.variables.json" timestamp="1563962832925">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/shopUtils.jsx" timestamp="1563538867689">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/menu.js" timestamp="1563791343381">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="36" column="16" />
@@ -80,11 +110,23 @@
         <mark key="^" line="43" column="5" />
         <mark key="." line="36" column="17" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" timestamp="1563537335351">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" timestamp="1563961317918">
         <mark key="'" line="64" column="40" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/.eslintrc.js" timestamp="1563522622588">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="33" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/Extensions.jsx" timestamp="1563791995942">
         <mark key="'" line="13" column="0" />
@@ -112,6 +154,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/local/queries.js" timestamp="1563536839462">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/resolvers.js" timestamp="1563958485989">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -136,6 +184,12 @@
       <file name="/GraphQL.result.json" timestamp="1563789060074">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/auth/secret.js" timestamp="1563542850438">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/ShopItem.jsx" timestamp="1563538890095">
         <mark key="'" line="56" column="12" />
         <mark key="[" line="41" column="0" />
@@ -155,6 +209,24 @@
         <mark key="]" line="143" column="19" />
         <mark key="." line="143" column="19" />
         <mark key="^" line="143" column="19" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Overview.jsx" timestamp="1563523823984">
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="10" />
+        <mark key="^" line="38" column="10" />
+        <mark key="." line="38" column="10" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/CategoryList.jsx" timestamp="1563974535732">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/LoadingPage.jsx" timestamp="1563890371866">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="26" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/WorkspaceSelection.jsx" timestamp="1563962236500">
         <mark key="'" line="12" column="28" />
