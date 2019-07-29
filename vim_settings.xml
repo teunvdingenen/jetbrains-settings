@@ -121,11 +121,12 @@
         <mark key="." line="46" column="9" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1564399509417">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="2" />
-        <mark key="." line="29" column="2" />
-        <mark key="^" line="29" column="2" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1564403997378">
+        <mark key="'" line="40" column="11" />
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="22" column="56" />
+        <mark key="." line="22" column="56" />
+        <mark key="^" line="22" column="56" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1564394194483">
         <mark key="'" line="23" column="4" />
@@ -151,12 +152,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" timestamp="1564394910327">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" timestamp="1564404131577">
         <mark key="'" line="14" column="6" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="106" column="0" />
+        <mark key="[" line="101" column="23" />
+        <mark key="]" line="101" column="28" />
+        <mark key="^" line="101" column="28" />
+        <mark key="." line="101" column="28" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/utils.js" timestamp="1563963219008">
         <mark key="^" line="4" column="45" />
@@ -249,9 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
-      <jump line="43" column="49" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="62" column="34" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="46" column="46" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="8" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
@@ -349,10 +347,13 @@
       <jump line="3" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
       <jump line="12" column="5" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
       <jump line="14" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="20" column="7" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="2" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="40" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>number</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7751,16 +7752,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text encoding="base64">XDxFZGl0YWJsZUZvcm1Sb3dcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gRWRpdGFibGVUYWJsZSh7CiAgZGF0YVNvdXJjZSwgY29sdW1ucywgaGFuZGxlRGVsZXRlLCBoYW5kbGVBZGQsIGhhbmRsZVNhdmUsCn0pIHsKICBjb25zdCBjb21wb25lbnRzID0gewogICAgYm9keTogewogICAgICByb3c6IEVkaXRhYmxlRm9ybVJvdywKICAgICAgY2VsbDogRWRpdGFibGVDZWxsLAogICAgfSwKICB9OwogIGNvbnN0IHRhYmxlQ29sdW1ucyA9IGNvbHVtbnMuY29uY2F0KFtkZWxldGVDb2x1bW4oZGF0YVNvdXJjZS5sZW5ndGgsIGhhbmRsZURlbGV0ZSldKQogICAgLm1hcCgoY29sKSA9PiB7CiAgICAgIGlmICghY29sLmVkaXRhYmxlKSB7CiAgICAgICAgcmV0dXJuIGNvbDsKICAgICAgfQogICAgICByZXR1cm4gewogICAgICAgIC4uLmNvbCwKICAgICAgICBvbkNlbGw6IHJlY29yZCA9PiAoewogICAgICAgICAgcmVjb3JkLAogICAgICAgICAgZWRpdGFibGU6IGNvbC5lZGl0YWJsZSwKICAgICAgICAgIGRhdGFJbmRleDogY29sLmRhdGFJbmRleCwKICAgICAgICAgIHRpdGxlOiBjb2wudGl0bGUsCiAgICAgICAgICBoYW5kbGVTYXZlLAogICAgICAgIH0pLAogICAgICB9OwogICAgfSk7CiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxCdXR0b24gb25DbGljaz17aGFuZGxlQWRkfSB0eXBlPSJwcmltYXJ5IiBzdHlsZT17eyBtYXJnaW5Cb3R0b206IDE2IH19PgogICAgICAgIEFkZCBhIHJvdwogICAgICA8L0J1dHRvbj4KICAgICAgPFRhYmxlCiAgICAgICAgY29tcG9uZW50cz17Y29tcG9uZW50c30KICAgICAgICByb3dDbGFzc05hbWU9eygpID0+ICdlZGl0YWJsZS1yb3cnfQogICAgICAgIGJvcmRlcmVkCiAgICAgICAgZGF0YVNvdXJjZT17ZGF0YVNvdXJjZX0KICAgICAgICBjb2x1bW5zPXt0YWJsZUNvbHVtbnN9CiAgICAgIC8+CiAgICA8L2Rpdj4KICApOwp9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBuYW1lOiBbJ2ZpZXRzJywgJ2ZpZXRzZW4nLCAncmFjZWZpZXRzJywgJ3N0YWRzZmlldHMnXQp9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICBpbmRleDogUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7790,41 +7791,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtleTogJ2RkJywK</text>
+        <text encoding="base64">ICBmb3JtOiBQcm9wVHlwZXMubm9kZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBrZXk6ICcwJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICBrZXk6ICcyJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGlsZHJlbikK</text>
       </register>
       <register name="7" type="4">
-        <text>.synonym {
-  button {
-    
-  }
+        <text>name: 'Edward King 1',
+  age: '32',
+  address: 'London, Park Lane no. 1',
 }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZGRyZXNzOiAnTG9uZG9uLCBQYXJrIExhbmUgbm8uIDAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZ2U6ICczMicsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search encoding="base64">XDxFZGl0YWJsZUZvcm1Sb3dcPg==</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern encoding="base64">XDxFZGl0YWJsZUZvcm1Sb3dcPg==</last-pattern>
       <last-replace>getApiUrl</last-replace>
       <last-substitute>getUrl</last-substitute>
       <last-dir>1</last-dir>
@@ -7832,7 +7832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>__typename</entry>
         <entry encoding="base64">XDx3b3Jrc3BhY2VzXD4=</entry>
         <entry>Redirect</entry>
         <entry encoding="base64">XDxtYXRjaFw+</entry>
@@ -7852,6 +7851,7 @@
         <entry>deleteColumn</entry>
         <entry encoding="base64">XDxQb3Bjb25maXJtXD4=</entry>
         <entry>style</entry>
+        <entry encoding="base64">XDxFZGl0YWJsZUZvcm1Sb3dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>_decoee</entry>
