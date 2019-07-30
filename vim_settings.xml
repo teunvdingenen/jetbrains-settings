@@ -76,6 +76,13 @@
         <mark key="." line="133" column="11" />
         <mark key="^" line="133" column="10" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" timestamp="1564491137365">
+        <mark key="'" line="59" column="11" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="46" column="40" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Overview.jsx" timestamp="1564480800648">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="40" column="21" />
@@ -156,10 +163,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="65" column="74" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1564480225333">
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1564490892018">
         <mark key="'" line="3" column="18" />
-        <mark key="[" line="344" column="48" />
-        <mark key="]" line="344" column="49" />
+        <mark key="[" line="309" column="34" />
+        <mark key="]" line="309" column="87" />
         <mark key="." line="344" column="49" />
         <mark key="^" line="344" column="48" />
       </file>
@@ -221,9 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="18" filename="$USER_HOME$/development/sparque/sparque-demo/src/model/index.js" />
-      <jump line="1" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
-      <jump line="23" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="31" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
       <jump line="116" column="39" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
       <jump line="8" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
@@ -321,10 +325,13 @@
       <jump line="130" column="53" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="32" column="28" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="25" column="8" filename="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" />
+      <jump line="32" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" />
+      <jump line="65" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFBhcGVyIGNsYXNzTmFtZT17Y2xhc3Nlcy5wYXBlcn0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsLCBwbGFjZWhvbGRlciwgcXVlcnksIG11bHRpcGxlLCBuYW1lLCBjbGFzc05hbWUgfQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7723,16 +7730,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tab</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>props</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFBhcGVyIGNsYXNzTmFtZT17Y2xhc3Nlcy5wYXBlcn0+Cg==</text>
+      <register name="0" type="4">
+        <text>label, placeholder, query, multiple, name, className }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsLCBwbGFjZWhvbGRlciwgcXVlcnksIG11bHRpcGxlLCBuYW1lLCBjbGFzc05hbWUgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7762,28 +7769,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcXVlcnk9eyIifQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2V0TG9hZGluZyhmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGFiZWw9e2xhYmVsfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC8+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PFRleHRGaWVsZAogICAgICAgICAgICAgICAgICAgIGZ1bGxXaWR0aAogICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPXtwbGFjZWhvbGRlcn0KICAgICAgICAgICAgICAgICAgICBJbnB1dFByb3BzPXt7CiAgICAgICAgICAgICAgICAgICAgICBkaXNhYmxlVW5kZXJsaW5lOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lOiBjbGFzc2VzLnNlYXJjaElucHV0LAogICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e19vbkNoYW5nZX0KICAgICAgICAgICAgICAgICAgICBvbktleURvd249e19vbktleURvd259CiAgICAgICAgICAgICAgICAvPg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPD4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y29uc3QgX29uQ2hhbmdlID0gZXZlbnQgPT4gewogICAgc2V0S2V5d29yZChldmVudC50YXJnZXQudmFsdWUpCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgK</text>
+        <text encoding="base64">ICBjb25zdCB7cGxhY2Vob2xkZXJ9ID0gcHJvcHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6IF9nZXRFdmVudHMocHJvZmlsZSwgZ2FtZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZXZlbnRzID0gKGdhbWVzLmxlbmd0aCA9PT0gMCkgPyBbXQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGltZXpvbmUgPSBwcm9maWxlLnRpbWV6b25lCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29uc3QgX29uS2V5RG93biA9IGV2ZW50ID0+IHsKICAgIGlmIChldmVudC5rZXkgPT09ICdFbnRlcicpIHsKICAgICAgcHJvcHMub25TdWJtaXQoa2V5d29yZCkKICAgIH0KICB9CgogIGNvbnN0IF9vbkNsaWNrID0gZXZlbnQgPT4gewogICAgcHJvcHMub25TdWJtaXQoa2V5d29yZCkKICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
