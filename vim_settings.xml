@@ -73,12 +73,11 @@
         <mark key="." line="56" column="17" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1564497467019">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1564498347728">
         <mark key="'" line="9" column="14" />
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="26" column="15" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/db.js" timestamp="1563541644631">
         <mark key="[" line="7" column="4" />
@@ -397,7 +396,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFN5bm9ueW0uZmluZE9uZSh7IF9pZDogc3lub255bUlkfSkpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7805,7 +7804,7 @@
         <text>label, placeholder, query, multiple, name, className }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFN5bm9ueW0uZmluZE9uZSh7IF9pZDogc3lub255bUlkfSkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7835,28 +7834,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IHVzZXIud29ya3NwYWNlLnN5bm9ueW1zLnB1c2goc3lub255bSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2cykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICYmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiggKQo=</text>
+        <text encoding="base64">IHVzZXIud29ya3NwYWNlLnN5bm9ueW1zLnB1c2goc3lub255bSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICYmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBpZiggKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAodXNlICE9PSB1bmRlZmluZWQpIHsK</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB3b3Jrc3BhY2UgPSB1c2VyLndvcmtzcGFjZS5zeW5vbnltcy5maW5kKCh7IF9pZCB9KSA9PiBfaWQuZXF1YWxzKGlkKSk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICBpZiAodXNlICE9PSB1bmRlZmluZWQpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
