@@ -86,14 +86,14 @@
         <mark key="^" line="6" column="77" />
         <mark key="." line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1564561977717">
-        <mark key="[" line="55" column="11" />
-        <mark key="]" line="55" column="23" />
-        <mark key="^" line="55" column="23" />
-        <mark key="." line="55" column="23" />
+      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1564575590770">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1564568425339">
-        <mark key="'" line="77" column="15" />
+      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1564575557938">
+        <mark key="'" line="89" column="13" />
         <mark key="[" line="82" column="6" />
         <mark key="]" line="82" column="6" />
         <mark key="^" line="82" column="5" />
@@ -170,12 +170,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1564568842675">
+      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1564575545691">
         <mark key="'" line="135" column="32" />
-        <mark key="[" line="136" column="15" />
-        <mark key="]" line="136" column="23" />
-        <mark key="." line="136" column="23" />
-        <mark key="^" line="136" column="23" />
+        <mark key="[" line="135" column="12" />
+        <mark key="]" line="135" column="14" />
+        <mark key="." line="135" column="14" />
+        <mark key="^" line="135" column="14" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1564490892018">
         <mark key="'" line="3" column="18" />
@@ -266,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="4" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="79" column="2" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="129" column="29" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="115" column="24" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
@@ -366,10 +365,11 @@
       <jump line="110" column="64" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" />
       <jump line="27" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" />
       <jump line="135" column="32" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="89" column="13" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzZWVkOiBTdHJpbmcsCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7768,7 +7768,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>assertTSStringKeyword</text>
       </register>
       <register name="/" type="4">
         <text>addMap</text>
@@ -7782,7 +7782,7 @@
   skips: [Color]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZWVkOiBTdHJpbmcsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7812,28 +7812,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXAubmFtZSA9IG5hbWUK</text>
+        <text encoding="base64">ICBtYXAuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBtYXAubmFtZSA9IG5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCBzbGljZSAhPT0gdW5kZWZpbmVkICkgewo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIGlmKCBzbGljZSAhPT0gdW5kZWZpbmVkICkgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
