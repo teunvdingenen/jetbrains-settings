@@ -178,12 +178,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1564581358315">
-        <mark key="'" line="53" column="51" />
-        <mark key="[" line="29" column="52" />
-        <mark key="]" line="29" column="55" />
-        <mark key="." line="29" column="55" />
-        <mark key="^" line="29" column="55" />
+      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1564582085831">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="88" column="21" />
+        <mark key="]" line="88" column="28" />
+        <mark key="^" line="88" column="28" />
+        <mark key="." line="88" column="28" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1564490892018">
         <mark key="'" line="3" column="18" />
@@ -274,17 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="21" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
-      <jump line="394" column="39" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="57" column="46" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="139" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="94" column="16" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="136" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="154" column="20" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="417" column="35" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="293" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="315" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="210" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="164" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" />
       <jump line="444" column="32" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="175" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
@@ -374,10 +363,21 @@
       <jump line="134" column="11" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
       <jump line="172" column="8" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
       <jump line="53" column="51" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="85" column="2" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="16" column="14" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="18" column="14" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="20" column="13" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="158" column="26" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="29" column="10" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="40" column="41" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="101" column="26" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="127" column="13" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="192" column="0" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>keywrod</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7776,16 +7776,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>keywrod</text>
       </register>
       <register name="/" type="4">
-        <text>contains</text>
+        <text>user.pro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiB7ICRyZWdleDogYC4qJHtrZXl3b3JkfS4qYCB9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb250YWlucyA9IHsgJHJlZ2V4OiBgLioke2tleXdvcmR9LipgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zdCBjb250YWlucyA9IHsgJHJlZ2V4OiBgLioke2tleXdvcmR9LipgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7815,37 +7815,49 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt9Cg==</text>
+        <text encoding="base64">ICB9KS5za2lwKGN1cnNvcikubGltaXQoY291bnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>return Map.find({
+    $or: [{
+      name: {
+        $regex: `.*${keyword}.*`
+      },
+    },
+    {
+      creator: {
+        name: {
+          $regex: `.*${keyword}.*`
+        }
+      }
+    }]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXAuY3IK</text>
+        <text encoding="base64">ICAgICAgICAgIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFBhcGVyCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZWVkOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>contains</last-search>
+      <last-search>user.pro</last-search>
       <last-offset />
-      <last-pattern>contains</last-pattern>
+      <last-pattern>user.pro</last-pattern>
       <last-replace />
       <last-substitute>model.</last-substitute>
       <last-dir>1</last-dir>
@@ -7853,8 +7865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>anchorEl</entry>
-        <entry encoding="base64">XDxfbWVudVw+</entry>
         <entry encoding="base64">XDxfY2xvc2VNZW51XD4=</entry>
         <entry>stopPr</entry>
         <entry>state.tts</entry>
@@ -7873,6 +7883,8 @@
         <entry encoding="base64">XDxsYXN0RWRpdGVkXD4=</entry>
         <entry>last</entry>
         <entry>contains</entry>
+        <entry encoding="base64">XDxjb250YWluc1w+</entry>
+        <entry>user.pro</entry>
       </history-search>
       <history-cmd>
         <entry>isFetching</entry>
