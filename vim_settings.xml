@@ -56,10 +56,6 @@
         <mark key="." line="36" column="12" />
         <mark key="^" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Players.jsx" timestamp="1564483647640">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="39" />
-      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/sparque.graphqls" timestamp="1564496681133">
         <mark key="[" line="34" column="44" />
         <mark key="]" line="34" column="44" />
@@ -92,19 +88,25 @@
         <mark key="." line="72" column="32" />
         <mark key="^" line="72" column="32" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" timestamp="1564483548957">
-        <mark key="'" line="32" column="28" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="30" />
-        <mark key="." line="133" column="11" />
-        <mark key="^" line="133" column="10" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" timestamp="1564562393073">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="45" column="49" />
+        <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" timestamp="1564491137365">
-        <mark key="'" line="59" column="11" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="46" column="40" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" timestamp="1564556843348">
+        <mark key="'" line="61" column="11" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="46" />
+        <mark key="^" line="52" column="46" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/queries/index.jsx" timestamp="1564561764334">
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="69" column="19" />
+        <mark key="^" line="69" column="19" />
+        <mark key="." line="69" column="19" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Overview.jsx" timestamp="1564480800648">
         <mark key="[" line="40" column="21" />
@@ -112,14 +114,26 @@
         <mark key="." line="40" column="21" />
         <mark key="^" line="40" column="21" />
       </file>
-      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1564478870648">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="65" column="18" />
-        <mark key="]" line="65" column="18" />
-        <mark key="." line="65" column="18" />
-        <mark key="^" line="65" column="18" />
+      <file name="$USER_HOME$/development/playti4/src/auth/utils.js" timestamp="1564558852548">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="77" />
+        <mark key="^" line="6" column="77" />
+        <mark key="." line="6" column="77" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1564496672874">
+      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1564561977717">
+        <mark key="[" line="55" column="11" />
+        <mark key="]" line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1564563738299">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="70" column="1" />
+        <mark key="]" line="73" column="1" />
+        <mark key="." line="73" column="1" />
+        <mark key="^" line="73" column="1" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1564559450952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/shopUtils.jsx" timestamp="1563538867689">
@@ -127,6 +141,11 @@
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/src/resolvers/mutation.js" timestamp="1564558315881">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/menu.js" timestamp="1563791343381">
         <mark key="'" line="0" column="4" />
@@ -153,12 +172,12 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Login.jsx" timestamp="1564480617454">
-        <mark key="'" line="76" column="14" />
-        <mark key="[" line="98" column="40" />
-        <mark key="]" line="98" column="46" />
-        <mark key="." line="98" column="46" />
-        <mark key="^" line="98" column="46" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Login.jsx" timestamp="1564559988713">
+        <mark key="'" line="124" column="18" />
+        <mark key="[" line="159" column="27" />
+        <mark key="]" line="160" column="28" />
+        <mark key="^" line="160" column="28" />
+        <mark key="." line="160" column="28" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/mutations.js" timestamp="1564496689985">
         <mark key="[" line="17" column="60" />
@@ -192,17 +211,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1564483475849">
-        <mark key="[" line="73" column="48" />
-        <mark key="]" line="73" column="48" />
-        <mark key="." line="73" column="48" />
-        <mark key="^" line="71" column="44" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/App.jsx" timestamp="1564482205906">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="65" column="74" />
+      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1564561950678">
+        <mark key="'" line="99" column="38" />
+        <mark key="[" line="106" column="17" />
+        <mark key="]" line="106" column="24" />
+        <mark key="." line="106" column="24" />
+        <mark key="^" line="106" column="24" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1564490892018">
         <mark key="'" line="3" column="18" />
@@ -218,14 +232,28 @@
         <mark key="^" line="96" column="25" />
         <mark key="." line="96" column="25" />
       </file>
+      <file name="$USER_HOME$/development/playti4/app.js" timestamp="1564558813866">
+        <mark key="'" line="8" column="38" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" timestamp="1563792105282">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1564471205927">
+      <file name="/GraphQL.result.json" timestamp="1564556670745">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1564563699785">
+        <mark key="'" line="385" column="13" />
+        <mark key="[" line="384" column="12" />
+        <mark key="]" line="384" column="43" />
+        <mark key="." line="384" column="43" />
+        <mark key="^" line="384" column="43" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/auth/secret.js" timestamp="1563542850438">
         <mark key="[" line="0" column="29" />
@@ -233,12 +261,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" timestamp="1564482468899">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="48" column="38" />
-        <mark key="]" line="48" column="45" />
-        <mark key="." line="48" column="45" />
-        <mark key="^" line="48" column="45" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" timestamp="1564563627452">
+        <mark key="'" line="67" column="30" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="48" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="136" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" timestamp="1564483676479">
         <mark key="'" line="25" column="8" />
@@ -254,11 +282,12 @@
         <mark key="." line="18" column="85" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1564481094290">
-        <mark key="[" line="106" column="95" />
-        <mark key="]" line="106" column="96" />
-        <mark key="." line="106" column="96" />
-        <mark key="^" line="106" column="96" />
+      <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1564558367545">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="3" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" timestamp="1563963653384">
         <mark key="'" line="147" column="64" />
@@ -293,61 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="12" column="5" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="14" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="20" column="7" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
-      <jump line="2" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
-      <jump line="40" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
-      <jump line="32" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
-      <jump line="68" column="87" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
-      <jump line="36" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
-      <jump line="80" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
-      <jump line="114" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
-      <jump line="117" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
-      <jump line="103" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="74" column="20" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
-      <jump line="14" column="18" filename="$USER_HOME$/development/playti4/src/resolvers/query.js" />
-      <jump line="69" column="2" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
-      <jump line="94" column="8" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
-      <jump line="100" column="23" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
-      <jump line="185" column="1" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
-      <jump line="148" column="60" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
-      <jump line="14" column="42" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
-      <jump line="122" column="26" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
-      <jump line="86" column="38" filename="$USER_HOME$/development/playti4/client/src/app/Navigator.jsx" />
-      <jump line="87" column="57" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="73" column="45" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="110" column="19" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="98" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="72" column="36" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="73" column="27" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="79" column="27" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="85" column="27" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="91" column="18" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="35" column="32" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="68" column="39" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="104" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="23" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="52" column="27" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="31" column="56" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="32" column="66" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="46" column="17" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="2" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
-      <jump line="86" column="21" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="74" column="16" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="39" column="23" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="78" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="77" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="341" column="18" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="84" column="41" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="0" column="92" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="319" column="23" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="70" column="16" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="85" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="105" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="119" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
-      <jump line="339" column="24" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
       <jump line="335" column="19" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
       <jump line="343" column="34" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
       <jump line="317" column="24" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
@@ -358,7 +332,6 @@
       <jump line="68" column="0" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
       <jump line="107" column="0" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
       <jump line="136" column="0" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
-      <jump line="37" column="27" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
       <jump line="265" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
       <jump line="258" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
       <jump line="280" column="18" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
@@ -379,11 +352,9 @@
       <jump line="157" column="40" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
       <jump line="147" column="24" filename="$USER_HOME$/development/playti4/client/src/sitemap.jsx" />
       <jump line="154" column="2" filename="$USER_HOME$/development/playti4/client/src/sitemap.jsx" />
-      <jump line="48" column="46" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="121" column="14" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="138" column="26" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="130" column="53" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
-      <jump line="32" column="28" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
       <jump line="25" column="8" filename="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" />
       <jump line="32" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" />
       <jump line="33" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" />
@@ -393,10 +364,68 @@
       <jump line="68" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="73" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="9" column="14" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="62" column="8" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
+      <jump line="17" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
+      <jump line="68" column="31" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
+      <jump line="71" column="14" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
+      <jump line="124" column="18" filename="$USER_HOME$/development/playti4/client/src/app/Login.jsx" />
+      <jump line="29" column="0" filename="$USER_HOME$/development/playti4/client/src/index.js" />
+      <jump line="18" column="17" filename="$USER_HOME$/development/playti4/app.js" />
+      <jump line="8" column="38" filename="$USER_HOME$/development/playti4/app.js" />
+      <jump line="42" column="11" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="101" column="14" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="104" column="32" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="105" column="38" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="4" column="9" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="0" column="61" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="121" column="8" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="8" column="9" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="13" column="9" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="18" column="9" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="24" column="9" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="116" column="19" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="44" column="19" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="102" column="36" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="98" column="6" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="141" column="2" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="103" column="35" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="138" column="2" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="66" column="18" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
+      <jump line="37" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
+      <jump line="99" column="38" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="111" column="8" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="67" column="10" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="16" column="46" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="45" column="17" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="48" column="12" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="84" column="12" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="99" column="19" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="100" column="17" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="105" column="19" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="106" column="17" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="113" column="20" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="4" column="7" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="68" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="73" column="4" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="77" column="4" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="79" column="2" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="129" column="29" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="115" column="24" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="32" column="5" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="46" column="30" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
+      <jump line="125" column="15" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
+      <jump line="32" column="7" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="207" column="24" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="238" column="27" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="362" column="7" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="67" column="30" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" />
+      <jump line="392" column="40" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="206" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="380" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFN5bm9ueW0uZmluZE9uZSh7IF9pZDogc3lub255bUlkfSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7795,16 +7824,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mutatoin</text>
       </register>
       <register name="/" type="4">
-        <text>{}</text>
+        <text>update</text>
       </register>
-      <register name="0" type="4">
-        <text>label, placeholder, query, multiple, name, className }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyhtdXRhdGlvbiwgeyBsb2FkaW5nLCBlcnJvciB9KSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFN5bm9ueW0uZmluZE9uZSh7IF9pZDogc3lub255bUlkfSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7834,67 +7863,66 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2cykK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsoLCB7fSl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IHVzZXIud29ya3NwYWNlLnN5bm9ueW1zLnB1c2goc3lub255bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8RmFiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICYmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiggKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAodXNlICE9PSB1bmRlZmluZWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>{}</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>{}</last-pattern>
-      <last-replace>getApiUrl</last-replace>
-      <last-substitute>getUrl</last-substitute>
+      <last-pattern>update</last-pattern>
+      <last-replace />
+      <last-substitute>model.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZmV0Y2hQbGF5ZXJzXD4=</entry>
-        <entry>profile</entry>
-        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
-        <entry encoding="base64">XDxzZXRWYWx1ZVw+</entry>
-        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
-        <entry encoding="base64">XDxJbnRlZ3JhdGlvblJlYWN0U2VsZWN0XD4=</entry>
-        <entry>innerProps</entry>
-        <entry encoding="base64">XDxzdWdnZXN0XD4=</entry>
-        <entry>League</entry>
-        <entry>online</entry>
-        <entry>clx</entry>
-        <entry>clsx</entry>
-        <entry encoding="base64">XDxjbGFzc05hbWVcPg==</entry>
-        <entry encoding="base64">XDxjbHN4XD4=</entry>
-        <entry encoding="base64">XDx2YWx1ZVw+</entry>
-        <entry>map</entry>
-        <entry encoding="base64">XDxwYWdlXD4=</entry>
-        <entry>console</entry>
-        <entry>props</entry>
         <entry>{}</entry>
+        <entry encoding="base64">XDxfY29uZmlybVw+</entry>
+        <entry>redirect</entry>
+        <entry>value</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry>utils</entry>
+        <entry>gameI</entry>
+        <entry>model.</entry>
+        <entry>addGame</entry>
+        <entry>profiles</entry>
+        <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0RXZlbnRzXD4=</entry>
+        <entry encoding="base64">XDxtb21lbnRcPg==</entry>
+        <entry>tz(</entry>
+        <entry>console</entry>
+        <entry>add</entry>
+        <entry encoding="base64">XDxyYW5kb21Xb3Jkc1w+</entry>
+        <entry>Grid</entry>
+        <entry>UPdate</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
-        <entry>_decoee</entry>
         <entry>isFetching</entry>
         <entry>%s/SparqueConfig/SparqueWorkspace/g</entry>
         <entry>%s/SparqueApi/ApiConfig/g</entry>
@@ -7911,8 +7939,9 @@
         <entry>%s/getUrl/getApiUrl/g</entry>
         <entry>we</entry>
         <entry>Lw</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>%s/model.//g</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
