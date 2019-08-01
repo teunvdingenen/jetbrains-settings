@@ -10,6 +10,13 @@
         <mark key="." line="109" column="45" />
         <mark key="^" line="109" column="45" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1564649313723">
+        <mark key="'" line="26" column="12" />
+        <mark key="[" line="93" column="1" />
+        <mark key="]" line="95" column="20" />
+        <mark key="^" line="95" column="20" />
+        <mark key="." line="95" column="20" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1564645633401">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="89" column="0" />
@@ -128,6 +135,12 @@
         <mark key="." line="167" column="9" />
         <mark key="^" line="167" column="9" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/Search.jsx" timestamp="1564649368888">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1564490892018">
         <mark key="'" line="3" column="18" />
         <mark key="[" line="309" column="34" />
@@ -156,12 +169,11 @@
       <file name="/GraphQL.result.json" timestamp="1564643089562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1564647146895">
-        <mark key="'" line="388" column="26" />
-        <mark key="[" line="380" column="8" />
-        <mark key="]" line="380" column="10" />
-        <mark key="^" line="380" column="10" />
-        <mark key="." line="380" column="10" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1564649445290">
+        <mark key="'" line="170" column="68" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" timestamp="1564563627452">
         <mark key="'" line="67" column="30" />
@@ -170,12 +182,11 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" timestamp="1564647016006">
-        <mark key="'" line="19" column="50" />
-        <mark key="[" line="76" column="29" />
-        <mark key="]" line="76" column="40" />
-        <mark key="." line="76" column="40" />
-        <mark key="^" line="76" column="40" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" timestamp="1564649486735">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1564558367545">
         <mark key="'" line="29" column="0" />
@@ -186,11 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="321" column="49" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="323" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="183" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="229" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="288" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="334" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
@@ -286,10 +292,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" />
       <jump line="19" column="50" filename="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" />
       <jump line="165" column="6" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" />
+      <jump line="26" column="12" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" />
+      <jump line="166" column="19" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="167" column="40" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="170" column="68" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7688,16 +7699,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGVPbmVcPg==</text>
+        <text encoding="base64">XDxwcm9wc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PEJ1dHRvbgogICAgICAgICAgICAgICAgICBocmVmPSIjIgogICAgICAgICAgICAgICAgICB0eXBlPSJzdWJtaXQiCiAgICAgICAgICAgICAgICAgIGZ1bGxXaWR0aAogICAgICAgICAgICAgICAgICB2YXJpYW50PSJjb250YWluZWQiCiAgICAgICAgICAgICAgICAgIGNvbG9yPSJwcmltYXJ5IgogICAgICAgICAgICAgICAgICBvbkNsaWNrPXttdXRhdGlvbn0KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLnN1Ym1pdH0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAge3ZhbHVlfQogICAgICAgICAgICAgICAgPC9CdXR0b24+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9Ii90b29scy9tYXBzL3NlYXJjaC86aWQiIGNvbXBvbmVudD17Q3JlYXRlTWFwfS8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiY3JlYXRlIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7727,37 +7738,53 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkZAo=</text>
+      <register name="3" type="4">
+        <text>import SearchContainer from './components/SearchContainer';
+import Paper from '@material-ui/core/Paper';
+import Query from 'react-apollo/Query';
+import { MYMAPS_QUERY } from '../queries';
+import Loading from './components/Loading';
+import Error from './components/Error';
+import Table from '@material-ui/core/Table';
+import TableHead from '@material-ui/core/TableHead';
+import TableCell from '@material-ui/core/TableCell';
+import TableBody from '@material-ui/core/TableBody';
+import TableRow from '@material-ui/core/TableRow';
+import { utcToLocal } from './components/calendar/conversions';
+import Mutation from 'react-apollo/Mutation';
+import Button from '@material-ui/core/Button';
+import CircularProgress from '@material-ui/core/CircularProgress';
+import RemoveIcon from '@material-ui/icons/Remove';
+import { REMOVEMAP_MUTATION } from '../mutations';</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyLnByb2ZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnVsbFdpZHRoCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKHRhYiA9PT0gJ25ldycpIHsKICAgIHJldHVybiAoCiAgICAgIDxDcmVhdGVNYXAvPgogICAgKQogIH0gZWxzZSBpZiAodGFiID09PSAnc2VhcmNoJykgewogICAgcmV0dXJuICgKCiAgICApCiAgfSBlbHNlIGlmICh0YWIgPT09ICdteScpIHsKICAgIHJldHVybiAoCgogIH0KfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvSWNvbic7Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9e30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLnN1Ym1pdH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9InByaW1hcnkiCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0ic3VibWl0Igo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PFBhcGVyIGNsYXNzTmFtZT17Y2xhc3Nlcy5wYXBlcn0+CiAgICAgICAgPFF1ZXJ5IHF1ZXJ5PXtNWU1BUFNfUVVFUll9PgogICAgICAgICAgeyh7IGxvYWRpbmcsIGVycm9yLCBkYXRhLCByZWZldGNoIH0pID0+IHsKICAgICAgICAgICAgaWYgKGxvYWRpbmcpIHJldHVybiA8TG9hZGluZy8+CiAgICAgICAgICAgIGlmIChlcnJvcikgcmV0dXJuIDxFcnJvciBlcnJvcj17ZXJyb3IubWVzc2FnZX0vPgogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxUYWJsZSBjbGFzc05hbWU9e2NsYXNzZXMudGFibGV9PgogICAgICAgICAgICAgICAgPFRhYmxlSGVhZD4KICAgICAgICAgICAgICAgICAgPFRhYmxlUm93PgogICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgICBuYW1lCiAgICAgICAgICAgICAgICAgICAgPC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICAgIHBsYXllcnMKICAgICAgICAgICAgICAgICAgICA8L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICA8VGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgICAgbGFzdCBlZGl0ZWQKICAgICAgICAgICAgICAgICAgICA8L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICA8VGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlCiAgICAgICAgICAgICAgICAgICAgPC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgIDwvVGFibGVSb3c+CiAgICAgICAgICAgICAgICA8L1RhYmxlSGVhZD4KICAgICAgICAgICAgICAgIDxUYWJsZUJvZHk+CiAgICAgICAgICAgICAgICAgIHtkYXRhLnZpZXdlci5teU1hcHMubGVuZ3RoID4gMCA/IGRhdGEudmlld2VyLm15TWFwcy5tYXAobWFwID0+ICgKICAgICAgICAgICAgICAgICAgICA8VGFibGVSb3cga2V5PXttYXAuaWR9PgogICAgICAgICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICAgICAge21hcC5uYW1lfQogICAgICAgICAgICAgICAgICAgICAgPC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgICA8VGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgICAgICB7bWFwLnNsaWNlcy5sZW5ndGh9CiAgICAgICAgICAgICAgICAgICAgICA8L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgICAgIHt1dGNUb0xvY2FsKG1hcC5sYXN0RWRpdGVkLCBkYXRhLnZpZXdlci5wcm9maWxlLnRpbWV6b25lKS5mb3JtYXQoJ0xMTCcpfQogICAgICAgICAgICAgICAgICAgICAgPC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgICA8VGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgICAgICA8TXV0YXRpb24gbXV0YXRpb249e1JFTU9WRU1BUF9NVVRBVElPTn0gdmFyaWFibGVzPXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwSWQ6IG1hcC5pZAogICAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICB7KG11dGF0aW9uLCB7IGxvYWRpbmcsIGVycm9yIH0pID0+ICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iIyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyaWFudD0iY29udGFpbmVkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbXV0YXRpb24oKS50aGVuKHJlZmV0Y2gpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSZW1vdmVJY29uLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvTXV0YXRpb24+CiAgICAgICAgICAgICAgICAgICAgICA8L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICA8L1RhYmxlUm93PgogICAgICAgICAgICAgICAgICApKSA6IDxUYWJsZVJvdz48VGFibGVDZWxsIGNvbFNwYW49ezR9PllvdSBoYXZlIG5vIG1hcHM8L1RhYmxlQ2VsbD48L1RhYmxlUm93Pn0KICAgICAgICAgICAgICAgIDwvVGFibGVCb2R5PgogICAgICAgICAgICAgIDwvVGFibGU+CiAgICAgICAgICAgICkKICAgICAgICAgIH19CgogICAgICAgIDwvUXVlcnk+CiAgICAgIDwvUGFwZXI+CiAgICAp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGVPbmVcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9wc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGVPbmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9wc1w+</last-pattern>
       <last-replace />
       <last-substitute>model.</last-substitute>
       <last-dir>1</last-dir>
@@ -7765,7 +7792,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slice</entry>
         <entry>slices</entry>
         <entry>countAll</entry>
         <entry encoding="base64">XDxyZWRcPg==</entry>
@@ -7785,6 +7811,7 @@
         <entry>remove</entry>
         <entry>Icon</entry>
         <entry encoding="base64">XDxkZWxldGVPbmVcPg==</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>isFetching</entry>
@@ -7803,9 +7830,9 @@
         <entry>%s/getUrl/getApiUrl/g</entry>
         <entry>we</entry>
         <entry>Lw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/model.//g</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
