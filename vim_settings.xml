@@ -148,11 +148,11 @@
         <mark key="." line="344" column="49" />
         <mark key="^" line="344" column="48" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" timestamp="1564664658598">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="23" column="5" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" timestamp="1564665673675">
+        <mark key="'" line="24" column="18" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
         <mark key="^" line="23" column="5" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/conversions.js" timestamp="1564644937360">
@@ -199,12 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="43" filename="$USER_HOME$/development/playti4/src/auth/utils.js" />
-      <jump line="73" column="18" filename="$USER_HOME$/development/playti4/src/db/model/index.js" />
-      <jump line="159" column="44" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="27" column="30" filename="$USER_HOME$/development/playti4/src/resolvers/mutation.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/playti4/src/resolvers/mutation.js" />
-      <jump line="23" column="17" filename="$USER_HOME$/development/playti4/app.js" />
       <jump line="19" column="4" filename="$USER_HOME$/development/playti4/app.js" />
       <jump line="15" column="0" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
       <jump line="139" column="4" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
@@ -285,11 +279,9 @@
       <jump line="102" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="101" column="12" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="5" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="39" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="45" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="96" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="17" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="14" column="85" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="68" column="27" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="93" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
@@ -297,12 +289,20 @@
       <jump line="40" column="17" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="48" column="17" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="51" column="15" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="21" column="30" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="27" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="47" column="26" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="39" column="16" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="17" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="20" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="21" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="22" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="23" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
+      <jump line="24" column="18" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld0RyYWdEYXRhID0gCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7701,16 +7701,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>newDragData</text>
       </register>
       <register name="/" type="4">
-        <text>onPan</text>
+        <text>new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbmV3TWF0cml4RGF0YVs0XSA9IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld0RyYWdEYXRhID0gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7739,38 +7739,43 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChtYXRyaXhEYXRhWzBdICE9PSB6b29tKSB7Cg==</text>
+      <register name="2" type="4">
+        <text>{
+      dx: offsetX,
+      dy: offsetY,
+      x: e.pageX,
+      y: e.pageY
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJldmlvdXNab29tIC0gem9vbSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWF0cml4RGF0YSkK</text>
+        <text encoding="base64">ICAgIGlmIChtYXRyaXhEYXRhWzBdICE9PSB6b29tKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJldmlvdXNab29tIC0gem9vbSkK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWF0cml4RGF0YSkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gSG9vawpmdW5jdGlvbiB1c2VQcmV2aW91cyh2YWx1ZSkgewogIC8vIFRoZSByZWYgb2JqZWN0IGlzIGEgZ2VuZXJpYyBjb250YWluZXIgd2hvc2UgY3VycmVudCBwcm9wZXJ0eSBpcyBtdXRhYmxlIC4uLgogIC8vIC4uLiBhbmQgY2FuIGhvbGQgYW55IHZhbHVlLCBzaW1pbGFyIHRvIGFuIGluc3RhbmNlIHByb3BlcnR5IG9uIGEgY2xhc3MKICBjb25zdCByZWYgPSB1c2VSZWYoKTsKCiAgLy8gU3RvcmUgY3VycmVudCB2YWx1ZSBpbiByZWYKICB1c2VFZmZlY3QoKCkgPT4gewogICAgcmVmLmN1cnJlbnQgPSB2YWx1ZTsKICB9LCBbdmFsdWVdKTsgLy8gT25seSByZS1ydW4gaWYgdmFsdWUgY2hhbmdlcwoKICAvLyBSZXR1cm4gcHJldmlvdXMgdmFsdWUgKGhhcHBlbnMgYmVmb3JlIHVwZGF0ZSBpbiB1c2VFZmZlY3QgYWJvdmUpCiAgcmV0dXJuIHJlZi5jdXJyZW50Owp9</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBwcmV2aW91c1pvb20gPSB1c2VQcmV2aW91cyh6b29tKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBwcmV2Wm9vbSA9IHVzZVByZXZpb3VzCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gSG9vawpmdW5jdGlvbiB1c2VQcmV2aW91cyh2YWx1ZSkgewogIC8vIFRoZSByZWYgb2JqZWN0IGlzIGEgZ2VuZXJpYyBjb250YWluZXIgd2hvc2UgY3VycmVudCBwcm9wZXJ0eSBpcyBtdXRhYmxlIC4uLgogIC8vIC4uLiBhbmQgY2FuIGhvbGQgYW55IHZhbHVlLCBzaW1pbGFyIHRvIGFuIGluc3RhbmNlIHByb3BlcnR5IG9uIGEgY2xhc3MKICBjb25zdCByZWYgPSB1c2VSZWYoKTsKCiAgLy8gU3RvcmUgY3VycmVudCB2YWx1ZSBpbiByZWYKICB1c2VFZmZlY3QoKCkgPT4gewogICAgcmVmLmN1cnJlbnQgPSB2YWx1ZTsKICB9LCBbdmFsdWVdKTsgLy8gT25seSByZS1ydW4gaWYgdmFsdWUgY2hhbmdlcwoKICAvLyBSZXR1cm4gcHJldmlvdXMgdmFsdWUgKGhhcHBlbnMgYmVmb3JlIHVwZGF0ZSBpbiB1c2VFZmZlY3QgYWJvdmUpCiAgcmV0dXJuIHJlZi5jdXJyZW50Owp9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onPan</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>onPan</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace />
       <last-substitute>model.</last-substitute>
       <last-dir>1</last-dir>
@@ -7778,9 +7783,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9wc1w+</entry>
-        <entry>Mutation</entry>
-        <entry encoding="base64">XDxpbnZpc2libGVSb3dcPg==</entry>
         <entry>cursoir</entry>
         <entry>name</entry>
         <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
@@ -7798,6 +7800,9 @@
         <entry>cursor</entry>
         <entry>console</entry>
         <entry>onPan</entry>
+        <entry>panContainer</entry>
+        <entry encoding="base64">XDxuZXdEcmFnRGF0YVw+</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>isFetching</entry>
