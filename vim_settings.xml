@@ -3,102 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Header.jsx" timestamp="1564482222436">
-        <mark key="'" line="156" column="40" />
-        <mark key="[" line="109" column="38" />
-        <mark key="]" line="109" column="45" />
-        <mark key="." line="109" column="45" />
-        <mark key="^" line="109" column="45" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1564670170086">
-        <mark key="'" line="25" column="2" />
-        <mark key="[" line="87" column="47" />
-        <mark key="]" line="88" column="50" />
-        <mark key="." line="88" column="50" />
-        <mark key="^" line="88" column="50" />
-      </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1564645633401">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1564566635894">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="154" column="26" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Navigator.jsx" timestamp="1564481842617">
-        <mark key="'" line="86" column="38" />
-        <mark key="[" line="72" column="27" />
-        <mark key="]" line="72" column="32" />
-        <mark key="." line="72" column="32" />
-        <mark key="^" line="72" column="32" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" timestamp="1564670566951">
-        <mark key="'" line="107" column="8" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="45" column="49" />
-        <mark key="^" line="45" column="49" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" timestamp="1564556843348">
-        <mark key="'" line="61" column="11" />
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="52" column="46" />
-        <mark key="." line="52" column="46" />
-        <mark key="^" line="52" column="46" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/queries/index.jsx" timestamp="1564644804582">
-        <mark key="'" line="175" column="16" />
-        <mark key="[" line="168" column="21" />
-        <mark key="]" line="169" column="17" />
-        <mark key="^" line="169" column="17" />
-        <mark key="." line="169" column="17" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Overview.jsx" timestamp="1564670602134">
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="36" column="15" />
-        <mark key="." line="36" column="15" />
-        <mark key="^" line="36" column="15" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/src/auth/utils.js" timestamp="1564643824222">
-        <mark key="'" line="21" column="43" />
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-        <mark key="^" line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1564585932307">
-        <mark key="'" line="73" column="18" />
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1564645835553">
-        <mark key="'" line="173" column="8" />
-        <mark key="[" line="99" column="2" />
-        <mark key="]" line="99" column="7" />
-        <mark key="^" line="99" column="7" />
-        <mark key="." line="99" column="7" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" timestamp="1564669934475">
-        <mark key="'" line="76" column="13" />
-        <mark key="[" line="91" column="44" />
-        <mark key="]" line="92" column="21" />
-        <mark key="." line="92" column="21" />
-        <mark key="^" line="92" column="21" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/src/resolvers/mutation.js" timestamp="1564645829742">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-        <mark key="^" line="34" column="12" />
-      </file>
       <file name="$USER_HOME$/development/playti4/client/src/sitemap.jsx" timestamp="1564577965390">
         <mark key="[" line="97" column="32" />
         <mark key="]" line="97" column="38" />
@@ -125,11 +29,38 @@
         <mark key="^" line="62" column="29" />
         <mark key="." line="62" column="29" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/Header.jsx" timestamp="1564482222436">
+        <mark key="'" line="156" column="40" />
+        <mark key="[" line="109" column="38" />
+        <mark key="]" line="109" column="45" />
+        <mark key="." line="109" column="45" />
+        <mark key="^" line="109" column="45" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1564670170086">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="87" column="47" />
+        <mark key="]" line="88" column="50" />
+        <mark key="." line="88" column="50" />
+        <mark key="^" line="88" column="50" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Media.jsx" timestamp="1564670514064">
         <mark key="[" line="36" column="67" />
         <mark key="]" line="36" column="68" />
         <mark key="." line="36" column="68" />
         <mark key="^" line="36" column="68" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1564645633401">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1564566635894">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="154" column="26" />
       </file>
       <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1564646614627">
         <mark key="'" line="165" column="6" />
@@ -137,6 +68,13 @@
         <mark key="]" line="167" column="9" />
         <mark key="." line="167" column="9" />
         <mark key="^" line="167" column="9" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/Navigator.jsx" timestamp="1564481842617">
+        <mark key="'" line="86" column="38" />
+        <mark key="[" line="72" column="27" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="72" column="32" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/Search.jsx" timestamp="1564649368888">
         <mark key="[" line="0" column="24" />
@@ -170,6 +108,16 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1564820668479">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" timestamp="1564670566951">
+        <mark key="'" line="107" column="8" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="45" column="49" />
+        <mark key="^" line="45" column="49" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1564669867509">
         <mark key="'" line="158" column="6" />
         <mark key="[" line="183" column="4" />
@@ -189,11 +137,45 @@
         <mark key="]" line="90" column="55" />
         <mark key="." line="90" column="55" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" timestamp="1564556843348">
+        <mark key="'" line="61" column="11" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="46" />
+        <mark key="^" line="52" column="46" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/queries/index.jsx" timestamp="1564644804582">
+        <mark key="'" line="175" column="16" />
+        <mark key="[" line="168" column="21" />
+        <mark key="]" line="169" column="17" />
+        <mark key="^" line="169" column="17" />
+        <mark key="." line="169" column="17" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" timestamp="1564670439289">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="25" column="59" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/Overview.jsx" timestamp="1564670602134">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/src/auth/utils.js" timestamp="1564643824222">
+        <mark key="'" line="21" column="43" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1564585932307">
+        <mark key="'" line="73" column="18" />
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1564558367545">
         <mark key="'" line="29" column="0" />
@@ -201,6 +183,27 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="3" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1564645835553">
+        <mark key="'" line="173" column="8" />
+        <mark key="[" line="99" column="2" />
+        <mark key="]" line="99" column="7" />
+        <mark key="^" line="99" column="7" />
+        <mark key="." line="99" column="7" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" timestamp="1564669934475">
+        <mark key="'" line="76" column="13" />
+        <mark key="[" line="91" column="44" />
+        <mark key="]" line="92" column="21" />
+        <mark key="." line="92" column="21" />
+        <mark key="^" line="92" column="21" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/src/resolvers/mutation.js" timestamp="1564645829742">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+        <mark key="^" line="34" column="12" />
       </file>
     </filemarks>
     <jumps>
