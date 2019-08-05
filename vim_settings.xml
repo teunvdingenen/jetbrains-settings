@@ -55,6 +55,13 @@
         <mark key="^" line="108" column="72" />
         <mark key="." line="108" column="72" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1564997084959">
+        <mark key="'" line="3" column="38" />
+        <mark key="[" line="62" column="94" />
+        <mark key="]" line="62" column="95" />
+        <mark key="." line="62" column="95" />
+        <mark key="^" line="62" column="95" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1564566635894">
         <mark key="'" line="155" column="0" />
         <mark key="[" line="135" column="0" />
@@ -102,6 +109,13 @@
         <mark key="]" line="9" column="37" />
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" timestamp="1564996988977">
+        <mark key="'" line="81" column="9" />
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/development/playti4/app.js" timestamp="1564643882709">
         <mark key="[" line="19" column="0" />
@@ -207,20 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="44" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="164" column="6" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="173" column="16" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="170" column="13" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="95" column="30" filename="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" />
-      <jump line="96" column="62" filename="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" />
-      <jump line="19" column="50" filename="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" />
-      <jump line="165" column="6" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" />
-      <jump line="26" column="12" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" />
-      <jump line="166" column="19" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="167" column="40" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="170" column="68" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="481" column="18" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="39" column="35" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="25" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" />
@@ -307,10 +307,24 @@
       <jump line="158" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="72" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="108" column="39" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="68" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="9" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="58" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="1" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="42" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="3" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="69" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="108" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="32" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="81" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="90" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="30" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="36" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="85" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>?</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7709,16 +7723,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>Failed</text>
+        <text>children</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBXb3Jrc3BhY2UudXBkYXRlKHsgX2lkOiB1c2VyLndvcmtzcGFjZS5pZCB9LCB7ICRwdWxsOiB7IHN5bm9ueW1zOiB7IF9pZDogc3lub255bUlkIH0gfSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gc3lub255bUlkOwo=</text>
+        <text encoding="base64">ICB9IHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7748,37 +7762,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBXb3Jrc3BhY2UudXBkYXRlKHtfaWR9KQo=</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29uc3QgeyB3b3Jrc3BhY2UgfSA9IHVzZXI7CiAgaWYgKHVzZXIud29ya3NwYWNlcy5maW5kKCh7IF9pZCB9KSA9PiBfaWQuZXF1YWxzKHdvcmtzcGFjZS5pZCkpICE9PSB1bmRlZmluZWQKICAgICYmIHdvcmtzcGFjZS5leHBhbnNpb25zLmZpbmQoKHsgX2lkIH0pID0+IF9pZC5lcXVhbHMoZXhwYW5zaW9uSWQpKSAhPT0gdW5kZWZpbmVkKSB7CiAgICBhd2FpdCBFeHBhbnNpb24uZmluZEJ5SWRBbmRSZW1vdmUoZXhwYW5zaW9uSWQsIGNvbnNvbGUuZXJyb3IoJ0ZhaWxlZCB0byBkZWxldGUnKSk7CiAgICByZXR1cm4gZXhwYW5zaW9uSWQ7CiAgfQogIHJldHVybiAnJzs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhd2FpdCB3b3Jrc3BhY2Uuc2F2ZSgpOwo=</text>
+        <text encoding="base64">ICBpZiAocHJvcHMgIT09IHVuZGVmaW5lZCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhU291cmNlID0gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAodXNlci53b3Jrc3BhY2VzLmZpbmQoKHsgX2lkIH0pID0+IF9pZC5lcXVhbHMod29ya3NwYWNlLmlkKSkgIT09IHVuZGVmaW5lZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHdvcmtzcGFjZSB9ID0gdXNlcjsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3b3Jrc3BhY2Uuc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Failed</last-search>
+      <last-search>children</last-search>
       <last-offset />
-      <last-pattern>Failed</last-pattern>
+      <last-pattern>children</last-pattern>
       <last-replace />
       <last-substitute>model.</last-substitute>
       <last-dir>1</last-dir>
@@ -7786,14 +7800,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYW5XcmFwcGVyXD4=</entry>
-        <entry>return</entry>
-        <entry>matrixData</entry>
-        <entry>transform</entry>
-        <entry>cursor</entry>
-        <entry>console</entry>
-        <entry>onPan</entry>
-        <entry>panContainer</entry>
         <entry encoding="base64">XDxuZXdEcmFnRGF0YVw+</entry>
         <entry>new</entry>
         <entry>Bound</entry>
@@ -7806,6 +7812,14 @@
         <entry encoding="base64">XDxnZXRGcmVzaFNsaWNlXD4=</entry>
         <entry>failed</entry>
         <entry>Failed</entry>
+        <entry>fiets</entry>
+        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
+        <entry encoding="base64">XDxUYWJsZVw+</entry>
+        <entry>Expand</entry>
+        <entry encoding="base64">XDxFZGl0YWJsZUZvcm1Sb3dcPg==</entry>
+        <entry>ChildrenColumnName</entry>
+        <entry>column</entry>
+        <entry>children</entry>
       </history-search>
       <history-cmd>
         <entry>isFetching</entry>
