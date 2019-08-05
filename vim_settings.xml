@@ -49,11 +49,11 @@
         <mark key="." line="36" column="68" />
         <mark key="^" line="36" column="68" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1564645633401">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1564995804350">
+        <mark key="[" line="108" column="72" />
+        <mark key="]" line="108" column="72" />
+        <mark key="^" line="108" column="72" />
+        <mark key="." line="108" column="72" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1564566635894">
         <mark key="'" line="155" column="0" />
@@ -207,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="8" filename="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" />
-      <jump line="8" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/calendar/conversions.js" />
       <jump line="27" column="44" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
       <jump line="164" column="6" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
       <jump line="173" column="16" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
@@ -307,10 +305,12 @@
       <jump line="76" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" />
       <jump line="387" column="19" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="158" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="72" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="108" column="39" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7709,16 +7709,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGcmVzaFNsaWNlXD4=</text>
+        <text>Failed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmV3TWF0cml4RGF0YVs0XSA9IAo=</text>
+        <text encoding="base64">ICBXb3Jrc3BhY2UudXBkYXRlKHsgX2lkOiB1c2VyLndvcmtzcGFjZS5pZCB9LCB7ICRwdWxsOiB7IHN5bm9ueW1zOiB7IF9pZDogc3lub255bUlkIH0gfSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gc3lub255bUlkOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7748,42 +7748,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXRjaCkK</text>
+        <text encoding="base64">ICBXb3Jrc3BhY2UudXBkYXRlKHtfaWR9KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzbGljZSkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc3QgeyB3b3Jrc3BhY2UgfSA9IHVzZXI7CiAgaWYgKHVzZXIud29ya3NwYWNlcy5maW5kKCh7IF9pZCB9KSA9PiBfaWQuZXF1YWxzKHdvcmtzcGFjZS5pZCkpICE9PSB1bmRlZmluZWQKICAgICYmIHdvcmtzcGFjZS5leHBhbnNpb25zLmZpbmQoKHsgX2lkIH0pID0+IF9pZC5lcXVhbHMoZXhwYW5zaW9uSWQpKSAhPT0gdW5kZWZpbmVkKSB7CiAgICBhd2FpdCBFeHBhbnNpb24uZmluZEJ5SWRBbmRSZW1vdmUoZXhwYW5zaW9uSWQsIGNvbnNvbGUuZXJyb3IoJ0ZhaWxlZCB0byBkZWxldGUnKSk7CiAgICByZXR1cm4gZXhwYW5zaW9uSWQ7CiAgfQogIHJldHVybiAnJzs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRpZmYpCg==</text>
+        <text encoding="base64">ICBhd2FpdCB3b3Jrc3BhY2Uuc2F2ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld0RyYWdEYXRhID0gCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-      dx: offsetX,
-      dy: offsetY,
-      x: e.pageX,
-      y: e.pageY
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpZiAodXNlci53b3Jrc3BhY2VzLmZpbmQoKHsgX2lkIH0pID0+IF9pZC5lcXVhbHMod29ya3NwYWNlLmlkKSkgIT09IHVuZGVmaW5lZCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCB7IHdvcmtzcGFjZSB9ID0gdXNlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChtYXRyaXhEYXRhWzBdICE9PSB6b29tKSB7Cg==</text>
+        <text encoding="base64">ICB3b3Jrc3BhY2Uuc2F2ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJldmlvdXNab29tIC0gem9vbSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRGcmVzaFNsaWNlXD4=</last-search>
+      <last-search>Failed</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGcmVzaFNsaWNlXD4=</last-pattern>
+      <last-pattern>Failed</last-pattern>
       <last-replace />
       <last-substitute>model.</last-substitute>
       <last-dir>1</last-dir>
@@ -7791,8 +7786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
-        <entry encoding="base64">XDxwYW5Db250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxwYW5XcmFwcGVyXD4=</entry>
         <entry>return</entry>
         <entry>matrixData</entry>
@@ -7811,6 +7804,8 @@
         <entry>home</entry>
         <entry encoding="base64">XDxnZXRJbmZvXD4=</entry>
         <entry encoding="base64">XDxnZXRGcmVzaFNsaWNlXD4=</entry>
+        <entry>failed</entry>
+        <entry>Failed</entry>
       </history-search>
       <history-cmd>
         <entry>isFetching</entry>
