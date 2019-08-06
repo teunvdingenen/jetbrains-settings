@@ -67,8 +67,12 @@
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1565088505621">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1565096451157">
         <mark key="'" line="3" column="38" />
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1564566635894">
         <mark key="'" line="155" column="0" />
@@ -358,7 +362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>this.prop</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7757,16 +7761,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>this.prop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhSW5kZXhcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">V29ya3NwYWNlLmZpbmRPbmUoeyBfaWQ6IHVzZXIud29ya3NwYWNlIH0sIChlcnIsIGRvYykgPT4gewogICAgZG9jLnN5bm9ueW1zLmlkKHN5bm9ueW1JZCkucmVtb3ZlKCk7CiAgICBkb2Muc2F2ZSgpOwogIH0pOw==</text>
+        <text>client.mutate({
+      mutation: SAVESYNONYM_MUTATION,
+      variables: {
+        synonym: id,
+        values,
+      },
+    });</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmRbZGF0YUluZGV4XSkK</text>
+        <text encoding="base64">ICAgIG9uU3VibWl0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7796,28 +7806,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN5bm9ueW06IGlkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3Qgd29ya3NwYWNlID0gYXdhaXQgV29ya3NwYWNlLmZpbmQoeyBfaWQ6IHVzZXIud29ya3NwYWNlIH0pOwogIHdvcmtzcGFjZS5leHBhbnNpb25zLmlkKGV4cGFuc2lvbklkKS5yZW1vdmUoKTsKICB3b3Jrc3BhY2Uuc2F2ZSgoZXJyKSA9PiB7CiAgICBpZiAoZXJyKSBjb25zb2xlLmxvZyhlcnIpOwogIH0pOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0iIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzKQo=</text>
+        <text encoding="base64">ICAgICAgICByb2xlPSJzdWJtaXQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">d29ya3NwYWNlLnN5bm9ueW1zLnB1bGwoe30pCiAgd29ya3NwYWNlLnNhdmUoKGVycikgPT4gewogICAgaWYgKGVycikgY29uc29sZS5sb2coZXJyKTsKICB9KTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
