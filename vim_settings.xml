@@ -36,10 +36,18 @@
         <mark key="." line="109" column="45" />
         <mark key="^" line="109" column="45" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/mutations.js" timestamp="1565091156838">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/mutations.js" timestamp="1565099044406">
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="43" column="42" />
+        <mark key="." line="43" column="42" />
+        <mark key="^" line="43" column="42" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/queries.js" timestamp="1565098842630">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="28" />
+        <mark key="^" line="48" column="28" />
+        <mark key="." line="48" column="28" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1564670170086">
         <mark key="'" line="25" column="2" />
@@ -61,17 +69,24 @@
         <mark key="." line="40" column="14" />
         <mark key="^" line="40" column="14" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/sparque.graphqls" timestamp="1565099003480">
+        <mark key="'" line="34" column="13" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="35" column="31" />
+        <mark key="^" line="35" column="72" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1565088342933">
         <mark key="'" line="104" column="9" />
         <mark key="[" line="115" column="24" />
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1565096451157">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1565098610280">
         <mark key="'" line="3" column="38" />
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="31" column="18" />
-        <mark key="." line="31" column="18" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
         <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1564566635894">
@@ -122,17 +137,23 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" timestamp="1565088635246">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" timestamp="1565099577245">
         <mark key="'" line="104" column="2" />
-        <mark key="[" line="79" column="9" />
-        <mark key="]" line="79" column="25" />
-        <mark key="." line="79" column="25" />
-        <mark key="^" line="79" column="25" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/app.js" timestamp="1564643882709">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" timestamp="1565099494275">
+        <mark key="'" line="81" column="8" />
+        <mark key="[" line="81" column="36" />
+        <mark key="]" line="82" column="17" />
+        <mark key="." line="82" column="17" />
+        <mark key="^" line="82" column="17" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1565081133371">
         <mark key="[" line="0" column="0" />
@@ -156,6 +177,12 @@
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/ExtensionTable.jsx" timestamp="1565098562225">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="36" column="22" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" timestamp="1564660144386">
         <mark key="'" line="107" column="24" />
@@ -234,7 +261,7 @@
         <mark key="^" line="99" column="7" />
         <mark key="." line="99" column="7" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1565081457317">
+      <file name="/GraphQL.variables.json" timestamp="1565098920437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" timestamp="1564669934475">
@@ -259,14 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="15" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="27" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="47" column="26" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="39" column="16" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="33" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="17" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="20" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="21" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="22" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="23" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="24" column="18" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
@@ -359,10 +378,18 @@
       <jump line="62" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
       <jump line="69" column="31" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
       <jump line="105" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
+      <jump line="132" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
+      <jump line="34" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/queries.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/queries.js" />
+      <jump line="34" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/sparque.graphqls" />
+      <jump line="125" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
+      <jump line="78" column="61" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
+      <jump line="113" column="34" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
+      <jump line="81" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.prop</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmwK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7761,22 +7788,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.prop</text>
+        <text>expansion_form</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhSW5kZXhcPg==</text>
+        <text encoding="base64">XDxoYW5kbGVEZWxldGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>client.mutate({
-      mutation: SAVESYNONYM_MUTATION,
-      variables: {
-        synonym: id,
-        values,
-      },
-    });</text>
+        <text>expansion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9uU3VibWl0KCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7806,37 +7827,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN5bm9ueW06IGlkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlczogc3lub255bXMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWVzKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgREVMRVRFU1lOT05ZTV9NVVRBVElPTiwgU0FWRVNZTk9OWU1fTVVUQVRJT04gfSBmcm9tICcuLi8uLi9ncmFwaHFsL211dGF0aW9ucyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU1lOT05ZTVNfUVVFUlkgfSBmcm9tICcuLi8uLi9ncmFwaHFsL3F1ZXJpZXMnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCBbdG9BZGQsIHNldFRvQWRkXSA9IFJlYWN0LnVzZVN0YXRlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFdyYXBwZWRTeW5vbnltRm9ybSBvblN1Ym1pdD17cmVmZXRjaH0vPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlPSJzdWJtaXQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzeW5vbnltIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBbdG9BZGQsIHNldFRvQWRkXSA9IFJlYWN0LnVzZVN0YXRlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhSW5kZXhcPg==</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVEZWxldGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhSW5kZXhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVEZWxldGVcPg==</last-pattern>
       <last-replace />
       <last-substitute>model.</last-substitute>
       <last-dir>1</last-dir>
@@ -7844,11 +7865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>column</entry>
-        <entry>children</entry>
-        <entry>key</entry>
-        <entry>index</entry>
-        <entry>record</entry>
         <entry>toggleEdit</entry>
         <entry>toggle</entry>
         <entry>save</entry>
@@ -7864,6 +7880,11 @@
         <entry>dataSource</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxkYXRhSW5kZXhcPg==</entry>
+        <entry>synonym</entry>
+        <entry>Synonym</entry>
+        <entry>Expand</entry>
+        <entry>expand</entry>
+        <entry encoding="base64">XDxoYW5kbGVEZWxldGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>isFetching</entry>
