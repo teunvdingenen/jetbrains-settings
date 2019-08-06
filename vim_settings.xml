@@ -148,12 +148,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" timestamp="1565099494275">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" timestamp="1565100587561">
         <mark key="'" line="81" column="8" />
-        <mark key="[" line="81" column="36" />
-        <mark key="]" line="82" column="17" />
-        <mark key="." line="82" column="17" />
-        <mark key="^" line="82" column="17" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1565081133371">
         <mark key="[" line="0" column="0" />
