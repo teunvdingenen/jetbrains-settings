@@ -36,9 +36,10 @@
         <mark key="." line="109" column="45" />
         <mark key="^" line="109" column="45" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/mutations.js" timestamp="1565076999330">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="21" column="6" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/mutations.js" timestamp="1565091156838">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1564670170086">
         <mark key="'" line="25" column="2" />
@@ -68,9 +69,6 @@
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1565088505621">
         <mark key="'" line="3" column="38" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1564566635894">
         <mark key="'" line="155" column="0" />
@@ -360,7 +358,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>children</text>
+        <text>d</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7759,7 +7757,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>children</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhSW5kZXhcPg==</text>
