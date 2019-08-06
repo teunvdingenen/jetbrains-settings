@@ -53,12 +53,18 @@
         <mark key="." line="36" column="68" />
         <mark key="^" line="36" column="68" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1565078344233">
-        <mark key="'" line="116" column="2" />
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="31" column="37" />
-        <mark key="." line="31" column="37" />
-        <mark key="^" line="31" column="37" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/model/index.js" timestamp="1565083394208">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="42" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" timestamp="1565084202587">
+        <mark key="'" line="134" column="2" />
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="45" />
+        <mark key="." line="56" column="45" />
+        <mark key="^" line="56" column="45" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1565076900091">
         <mark key="'" line="3" column="38" />
@@ -209,6 +215,13 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="3" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/resolvers/index.js" timestamp="1565084214836">
+        <mark key="'" line="2" column="77" />
+        <mark key="[" line="2" column="76" />
+        <mark key="]" line="2" column="88" />
+        <mark key="^" line="2" column="88" />
+        <mark key="." line="2" column="88" />
+      </file>
       <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1564645835553">
         <mark key="'" line="173" column="8" />
         <mark key="[" line="99" column="2" />
@@ -241,21 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="49" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="177" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="251" column="14" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="254" column="21" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="260" column="14" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="263" column="21" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="362" column="17" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="115" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="8" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="50" column="36" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="52" column="35" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="137" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="26" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="29" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
-      <jump line="53" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="122" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="56" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
       <jump line="61" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" />
@@ -341,10 +339,25 @@
       <jump line="23" column="34" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="11" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="115" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="94" column="1" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="67" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="120" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="22" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="34" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="45" column="11" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="51" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="52" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="62" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="64" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="68" column="12" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="82" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="57" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="134" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
+      <jump line="28" column="77" filename="$USER_HOME$/development/sparque/sparque-demo/src/resolvers/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7746,13 +7759,25 @@
         <text>user</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlU3lub255bVw+</text>
+        <text encoding="base64">XDxnZXRXb3Jrc3BhY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB1c2VyLndvcmtzcGFjZS5zYXZlKCkK</text>
+      <register name="0" type="4">
+        <text>if (id !== undefined) {
+    const synonym = await Synonym.findOne({ _id: id });
+    synonym.values = vs;
+    await synonym.save();
+    return synonym;
+  }
+  const synonym = await new Synonym({
+    values: vs,
+  });
+  const workspace = await Workspace.findOne({_id: user.workspace})
+  workspace.push(synonym)
+  await workspace.save()
+  return synonym;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7782,46 +7807,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyLndvcmtzcGFjZSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0V29ya3NwYWNlIH0gZnJvbSAnLi4vLi4vY2xpZW50L3NyYy9yZXN0L3V0aWxzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN5bm9ueW0pCg==</text>
+        <text encoding="base64">ICBhd2FpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHVzZXIuc2F2ZSgpOwo=</text>
+        <text encoding="base64">ICAgIC5leGVjKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IFN5bm9ueW0udXBkYXRlKHsgX2lkOiBpZCB9LCB7ICRzZXQ6IHsgdmFsdWVzOiB2cyB9IH0pOyAvLyBOT1QgU0FGRQo=</text>
+        <text encoding="base64">ICBjb25zdCB3b3Jrc3BhY2UgPSBhd2FpdCBXb3Jrc3BhY2UuZmluZE9uZSh7IF9pZDogaWQgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTeW5vbnltLmZpbmRPbmUoe19pZDogaWR9KTsK</text>
+        <text encoding="base64">ICAgIC5leGVjKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHN5bm9ueW0uc2F2ZSgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>const synonym = id ? await Synonym.findOne({ _id: id })
-    .exec()
-    :
-  if (id !== undefined) {
-    if (!user.workspace.synonyms.contains(synonym)) return null;
-  } else {
-    user.workspace.synonyms.push(synonym);
-  }
-  await user.save();
-  return synonym;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCB3b3Jrc3BhY2UgPSBhd2FpdCBXb3Jrc3BhY2UuZmluZE9uZSh7X2lkOiB1c2VyLndvcmtzcGFjZX0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICBjb25zdCB3b3Jrc3BhY2UgPSBhd2FpdCBXb3Jrc3BhY2UuZmluZE9uZSh7X2lkOiB1c2VyLndvcmtzcGFjZX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlU3lub255bVw+</last-search>
+      <last-search encoding="base64">XDxnZXRXb3Jrc3BhY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlU3lub255bVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRXb3Jrc3BhY2VcPg==</last-pattern>
       <last-replace />
       <last-substitute>model.</last-substitute>
       <last-dir>1</last-dir>
@@ -7829,8 +7845,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGcmVzaFNsaWNlXD4=</entry>
-        <entry>failed</entry>
         <entry>Failed</entry>
         <entry>fiets</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
@@ -7849,6 +7863,8 @@
         <entry encoding="base64">XDxmaW5kT25lXD4=</entry>
         <entry>apply</entry>
         <entry encoding="base64">XDxzYXZlU3lub255bVw+</entry>
+        <entry>workspace</entry>
+        <entry encoding="base64">XDxnZXRXb3Jrc3BhY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>isFetching</entry>
