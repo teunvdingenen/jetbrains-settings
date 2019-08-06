@@ -216,6 +216,9 @@
         <mark key="^" line="99" column="7" />
         <mark key="." line="99" column="7" />
       </file>
+      <file name="/GraphQL.variables.json" timestamp="1565081457317">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" timestamp="1564669934475">
         <mark key="'" line="76" column="13" />
         <mark key="[" line="91" column="44" />
@@ -229,6 +232,12 @@
         <mark key="]" line="34" column="12" />
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="12" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/src/auth/index.js" timestamp="1565081406079">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -334,8 +343,8 @@
       <jump line="115" column="2" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2cykK</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7734,7 +7743,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user.workspace</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlU3lub255bVw+</text>
