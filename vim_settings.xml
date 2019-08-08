@@ -110,14 +110,14 @@
         <mark key="." line="150" column="64" />
         <mark key="^" line="150" column="64" />
       </file>
-      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1565212263921">
-        <mark key="'" line="124" column="1" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="163" column="28" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1565254547002">
+        <mark key="'" line="145" column="1" />
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="121" column="32" />
+        <mark key="^" line="121" column="32" />
+        <mark key="." line="121" column="32" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1565190070710">
+      <file name="/GraphQL.variables.json" timestamp="1565254498001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" timestamp="1564669934475">
@@ -127,12 +127,12 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/resolvers/mutation.js" timestamp="1564645829742">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-        <mark key="^" line="34" column="12" />
+      <file name="$USER_HOME$/development/playti4/src/resolvers/mutation.js" timestamp="1565254629400">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="42" column="5" />
+        <mark key="^" line="42" column="5" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/sitemap.jsx" timestamp="1564577965390">
         <mark key="[" line="97" column="32" />
@@ -214,12 +214,12 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1565211991070">
-        <mark key="'" line="178" column="8" />
-        <mark key="[" line="42" column="56" />
-        <mark key="]" line="42" column="69" />
-        <mark key="." line="42" column="69" />
-        <mark key="^" line="42" column="69" />
+      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1565254722249">
+        <mark key="'" line="45" column="26" />
+        <mark key="[" line="222" column="50" />
+        <mark key="]" line="222" column="49" />
+        <mark key="." line="222" column="49" />
+        <mark key="^" line="222" column="49" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/Search.jsx" timestamp="1564649368888">
         <mark key="[" line="0" column="24" />
@@ -330,10 +330,6 @@
         <mark key="." line="103" column="20" />
         <mark key="^" line="99" column="31" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" timestamp="1565185588387">
-        <mark key="[" line="76" column="27" />
-        <mark key="]" line="76" column="71" />
-      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/auth/index.js" timestamp="1565087398907">
         <mark key="[" line="6" column="65" />
         <mark key="]" line="6" column="65" />
@@ -342,8 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/EditableTable.jsx" />
-      <jump line="18" column="51" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/EditableTable.jsx" />
       <jump line="82" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
       <jump line="155" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
       <jump line="19" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/EditableTable.jsx" />
@@ -442,10 +436,12 @@
       <jump line="173" column="24" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="219" column="34" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="220" column="22" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="45" column="12" filename="$USER_HOME$/development/playti4/src/resolvers/mutation.js" />
+      <jump line="45" column="26" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9ybWlrCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7844,18 +7840,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="/" type="4">
         <text>Select</text>
       </register>
       <register name="0" type="4">
-        <text>const { token } = data.signup
-    localStorage.setItem(authtoken, token)
-    setRedirect(true)</text>
+        <text>dayOfWeek: String
+  start: String
+  end: String</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9ybWlrCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7885,30 +7881,30 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8Rm9ybWlrCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBjb3VudHJ5OiBZdXAuc3RyaW5nKCkucmVxdWlyZWQoJ1JlcXVpcmVkJyksCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>: {
                   ...values
                 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB7IHRva2VuIH0gPSBkYXRhLnNpZ251cAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5zZXRTdWJtaXR0aW5nKGZhbHNlKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB7IHRva2VuIH0gPSBkYXRhLnNpZ251cAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
