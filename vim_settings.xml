@@ -77,12 +77,12 @@
         <mark key="." line="52" column="46" />
         <mark key="^" line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" timestamp="1565189943990">
-        <mark key="'" line="232" column="42" />
-        <mark key="[" line="124" column="26" />
-        <mark key="]" line="124" column="39" />
-        <mark key="." line="124" column="39" />
-        <mark key="^" line="124" column="39" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" timestamp="1565252377465">
+        <mark key="'" line="224" column="22" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="136" column="14" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/queries/index.jsx" timestamp="1565212144768">
         <mark key="'" line="202" column="21" />
@@ -172,6 +172,11 @@
         <mark key="]" line="62" column="29" />
         <mark key="^" line="62" column="29" />
         <mark key="." line="62" column="29" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/Profile.jsx" timestamp="1565252428043">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/mutations.js" timestamp="1565099044406">
         <mark key="[" line="41" column="44" />
@@ -337,19 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
-      <jump line="78" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="53" column="42" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="12" column="78" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="57" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="100" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/EditableTable.jsx" />
-      <jump line="79" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
-      <jump line="61" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/EditableTable.jsx" />
-      <jump line="72" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
-      <jump line="80" column="66" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
-      <jump line="27" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
-      <jump line="121" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
-      <jump line="71" column="17" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/EditableTable.jsx" />
       <jump line="8" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/EditableTable.jsx" />
       <jump line="18" column="51" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/EditableTable.jsx" />
       <jump line="82" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
@@ -388,14 +380,12 @@
       <jump line="19" column="7" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Tuner.jsx" />
       <jump line="94" column="29" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="163" column="16" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
-      <jump line="176" column="33" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="184" column="33" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="192" column="33" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="199" column="33" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="211" column="31" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="214" column="36" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="218" column="35" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
-      <jump line="220" column="61" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="234" column="36" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="238" column="35" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
       <jump line="241" column="50" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
@@ -437,10 +427,25 @@
       <jump line="28" column="25" filename="$USER_HOME$/development/playti4/src/db/model/index.js" />
       <jump line="232" column="12" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
       <jump line="178" column="8" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="83" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="91" column="6" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="99" column="22" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="107" column="35" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="176" column="26" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="77" column="9" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="55" column="14" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="60" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="185" column="16" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="51" column="29" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="173" column="24" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="219" column="34" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
+      <jump line="220" column="22" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsYW5ndWFnZTogU3RyaW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>props</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7839,16 +7844,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>commenter</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
-        <text>accepted</text>
+        <text>Select</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW52aXRlczogKHBhcmVudCwge25ld09ubHl9LCB7dXNlcn0sIGluZm8pID0+IHsKICAgICAgcmV0dXJuIGdldEludml0ZXModXNlciwgbmV3T25seSkKICAgIH0=</text>
+        <text>const { token } = data.signup
+    localStorage.setItem(authtoken, token)
+    setRedirect(true)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsYW5ndWFnZTogU3RyaW5nCg==</text>
+        <text encoding="base64">ICBjb3VudHJ5OiBZdXAuc3RyaW5nKCkucmVxdWlyZWQoJ1JlcXVpcmVkJyksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7877,38 +7884,40 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY2NlcHRlZAo=</text>
+      <register name="2" type="4">
+        <text>: {
+                  ...values
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB7IHRva2VuIH0gPSBkYXRhLnNpZ251cAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXV0aG9yOiB1c2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5zZXRTdWJtaXR0aW5nKGZhbHNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhd2FpdCBDb21tZW50LmZpbmQoewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAobmV3T25seSkgeyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYWN0aW9ucykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>accepted</last-search>
+      <last-search>Select</last-search>
       <last-offset />
-      <last-pattern>accepted</last-pattern>
+      <last-pattern>Select</last-pattern>
       <last-replace>data.viewer.workspace</last-replace>
       <last-substitute>data.workspace</last-substitute>
       <last-dir>1</last-dir>
@@ -7916,11 +7925,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cursor</entry>
-        <entry encoding="base64">XDxtYXRjaFw+</entry>
-        <entry encoding="base64">XDxyZXN1bHRzXD4=</entry>
-        <entry encoding="base64">XDxzZXRSZXN1bHRzXD4=</entry>
-        <entry encoding="base64">XDxvZmZzZXRcPg==</entry>
         <entry encoding="base64">XDxTcGlucXVlSWNvblw+</entry>
         <entry>value</entry>
         <entry>leauge</entry>
@@ -7936,6 +7940,11 @@
         <entry>profile</entry>
         <entry>commenter</entry>
         <entry>accepted</entry>
+        <entry>state</entry>
+        <entry>snackbar</entry>
+        <entry>snackBar</entry>
+        <entry>option</entry>
+        <entry>Select</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SparqueConfig/SparqueWorkspace/g</entry>
