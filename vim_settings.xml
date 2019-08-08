@@ -173,10 +173,10 @@
         <mark key="^" line="62" column="29" />
         <mark key="." line="62" column="29" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Profile.jsx" timestamp="1565252428043">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Profile.jsx" timestamp="1565253467674">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/graphql/mutations.js" timestamp="1565099044406">
         <mark key="[" line="41" column="44" />
@@ -444,8 +444,8 @@
       <jump line="220" column="22" filename="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>props</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Rm9ybWlrCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7855,7 +7855,7 @@
     setRedirect(true)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb3VudHJ5OiBZdXAuc3RyaW5nKCkucmVxdWlyZWQoJ1JlcXVpcmVkJyksCg==</text>
+        <text encoding="base64">ICAgICAgICA8Rm9ybWlrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7884,31 +7884,31 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb3VudHJ5OiBZdXAuc3RyaW5nKCkucmVxdWlyZWQoJ1JlcXVpcmVkJyksCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>: {
                   ...values
                 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB7IHRva2VuIH0gPSBkYXRhLnNpZ251cAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5zZXRTdWJtaXR0aW5nKGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5zZXRTdWJtaXR0aW5nKGZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYWN0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
