@@ -62,11 +62,6 @@
         <mark key="." line="117" column="17" />
         <mark key="^" line="117" column="17" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1565173337746">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1565513819572">
         <mark key="'" line="127" column="0" />
         <mark key="[" line="133" column="0" />
@@ -121,11 +116,6 @@
         <mark key="]" line="265" column="15" />
         <mark key="." line="265" column="15" />
         <mark key="^" line="265" column="15" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Overview.jsx" timestamp="1565189619595">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/src/auth/utils.js" timestamp="1565255014314">
         <mark key="'" line="21" column="43" />
@@ -243,21 +233,11 @@
         <mark key="^" line="48" column="28" />
         <mark key="." line="48" column="28" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/EditableTable.jsx" timestamp="1565172443879">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="22" column="1" />
-      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/style/styles.less" timestamp="1565186525565">
         <mark key="[" line="87" column="3" />
         <mark key="]" line="88" column="2" />
         <mark key="^" line="88" column="2" />
         <mark key="." line="88" column="2" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Media.jsx" timestamp="1565437821021">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1565597811598">
         <mark key="'" line="29" column="7" />
@@ -311,11 +291,6 @@
         <mark key="." line="10" column="68" />
         <mark key="^" line="10" column="68" />
       </file>
-      <file name="$USER_HOME$/development/playti4/app.js" timestamp="1565209299775">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" timestamp="1565173604187">
         <mark key="'" line="32" column="46" />
         <mark key="[" line="125" column="16" />
@@ -323,7 +298,7 @@
         <mark key="." line="125" column="18" />
         <mark key="^" line="125" column="18" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1565508495147">
+      <file name="/GraphQL.result.json" timestamp="1565598294122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/FormikTimePicker.js" timestamp="1565265996491">
@@ -333,23 +308,21 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1565598252447">
-        <mark key="'" line="153" column="9" />
-        <mark key="[" line="157" column="25" />
-        <mark key="]" line="158" column="3" />
-        <mark key="^" line="158" column="3" />
-        <mark key="." line="158" column="3" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/src/db/db.js" timestamp="1565209213357">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1565601489879">
+        <mark key="'" line="10" column="2" />
+        <mark key="[" line="243" column="39" />
+        <mark key="]" line="243" column="39" />
+        <mark key="^" line="243" column="49" />
+        <mark key="." line="243" column="39" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/ExtensionTable.jsx" timestamp="1565098562225">
         <mark key="[" line="36" column="18" />
         <mark key="]" line="36" column="22" />
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="22" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" timestamp="1565601535407">
+        <mark key="'" line="170" column="31" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" timestamp="1565437602887">
         <mark key="'" line="10" column="0" />
@@ -365,11 +338,6 @@
         <mark key="." line="101" column="46" />
         <mark key="^" line="101" column="46" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/app.js" timestamp="1565087123157">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" timestamp="1564670439289">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -383,11 +351,12 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" timestamp="1565598284513">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" timestamp="1565601439821">
+        <mark key="'" line="87" column="60" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="6" />
+        <mark key="." line="17" column="6" />
+        <mark key="^" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Overview.jsx" timestamp="1565186628926">
         <mark key="[" line="103" column="20" />
@@ -403,41 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="20" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="78" column="20" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="84" column="28" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="102" column="23" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="104" column="17" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="115" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="122" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="130" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="132" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="136" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="137" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="152" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="159" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="196" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="200" column="20" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="323" column="19" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="341" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="362" column="21" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="385" column="25" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="408" column="45" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="112" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="324" column="30" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="134" column="28" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="127" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" />
-      <jump line="67" column="36" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" />
-      <jump line="69" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="317" column="20" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="339" column="36" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="88" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="411" column="55" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="414" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="61" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="433" column="35" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="472" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="473" column="29" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="309" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="32" column="38" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="223" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
@@ -449,7 +383,6 @@
       <jump line="211" column="14" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="349" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="116" column="14" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="125" column="29" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="140" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="203" column="35" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="205" column="35" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
@@ -496,17 +429,53 @@
       <jump line="138" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="189" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="190" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="191" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="192" column="39" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="193" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="326" column="49" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="330" column="39" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="388" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="153" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="4" column="48" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="346" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="125" column="75" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="7" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="347" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="27" column="12" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="78" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="80" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="86" column="14" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="104" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="71" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="72" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="191" column="21" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="128" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="114" column="32" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="65" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="94" column="35" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="99" column="21" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="100" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="24" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="137" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="125" column="36" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="63" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="21" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="20" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="243" column="29" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="89" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="133" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="87" column="60" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
+      <jump line="245" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="10" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
+      <jump line="169" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" />
+      <jump line="170" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(tile)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7905,16 +7874,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(tile)</text>
       </register>
       <register name="/" type="4">
-        <text>saveDraft</text>
+        <text encoding="base64">XDxfcmVtb3ZlVGlsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>axial_spiral(axial, { q: 10, r: 10 }, radius)</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHJhbmRvbVdvcmRzIGZyb20gJ3JhbmRvbS13b3JkcycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNhdmVEcmFmdCh7IHZhcmlhYmxlczogeyBtYXBkcmFmdDogdHRzLCBuYW1lOiBuYW1lIH0gfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7943,50 +7912,38 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldFRUcyhnZXRUVFNTdHJpbmcoZm9vLCAzKSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y29uc3QgZmluZFNsaWNlSW5kZXggPSAobikgPT4gewogICAgbGV0IGkgPSB1bmRlZmluZWQKICAgIHNsaWNlcy5mb3JFYWNoKChzbGljZSwgaWkpID0+IHsKICAgICAgaWYgKHNsaWNlLmhvbWUudGlsZS5udW1iZXIgPT09IG4pIHsKICAgICAgICBpID0gaWkKICAgICAgfQogICAgfSkKICAgIHJldHVybiBpCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNhdmVEcmFmdCh7IHZhcmlhYmxlczogeyBtYXBkcmFmdDogdHRzLCBuYW1lOiBuYW1lIH0gfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB0dHMsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdGlsZSA9IGZpbmRUaWxlKG4pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-        tts: contains(keyword)
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>{
-        tts: contains(keyword)
-      }</text>
+        <text encoding="base64">Y29uc3QgZ2V0VFRTU3RyaW5nID0gKGF4aWFsLCByYWRpdXMpID0+IHsKICBsZXQgdHRzID0gIiIKICBheGlhbF9zcGlyYWwoYXhpYWwsIHsgcTogMTAsIHI6IDEwIH0sIHJhZGl1cykuZm9yRWFjaCgKICAgIHQgPT4gdHRzICs9IHQgIT09IHVuZGVmaW5lZCA/ICh0Lm51bWJlciArICIgIikgOiAiMCAiKQogIHR0cyA9IHR0cy5yZXBsYWNlKC8oMTgrXHMpfChccyskKS9nLCAnJykucmVwbGFjZSgvKDlcZHxcZHszLH0pLywgJzAnKQogIHJldHVybiB0dHMKfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1hcGRyYWZ0KQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y29uc3QgYWRkU2xpY2VQb3NpdGlvbnMgPSAoc2xpY2VzLCBheGlhbCkgPT4gewogIGxldCByZXNlcnZlZCA9IFtNRUNBVE9MXQogIHNsaWNlcy5mb3JFYWNoKHNsaWNlID0+IHsKICAgIHNsaWNlWydvd25lcnNoaXAnXSA9IGF4aWFsX3JpbmcodW5kZWZpbmVkLCBzbGljZS5ob21lLnBvc2l0aW9uLCAxLAogICAgICB0cnVlKS5jb25jYXQoYXhpYWxfbGluZWRyYXcoc2xpY2UuaG9tZS5wb3NpdGlvbiwgTUVDQVRPTCkpLnJlZHVjZSgKICAgICAgKHVuaXF1ZSwgaXRlbSkgPT4gKGFycmF5SW5jbHVkZXModW5pcXVlLCBpdGVtKSB8fCBpc01lY2F0b2xQb3MoaXRlbSkpCiAgICAgICAgPyB1bmlxdWUgOiBbLi4udW5pcXVlLCBpdGVtXSwgW10pLm1hcChwb3MgPT4gKAogICAgICBzbGljZVBvc2l0aW9uKGF4aWFsLCBwb3MpCiAgICApKS5maWx0ZXIobiA9PiAobi50aWxlICE9PSB1bmRlZmluZWQpKS5jb25jYXQoCiAgICAgIHNsaWNlUG9zaXRpb24oYXhpYWwsIHNsaWNlLmhvbWUucG9zaXRpb24pKQogICAgcmVzZXJ2ZWQgPSBbLi4ucmVzZXJ2ZWQsIC4uLnNsaWNlLm93bmVyc2hpcC5tYXAocyA9PiBzLnBvc2l0aW9uKV0KICB9KQogIHNsaWNlcy5mb3JFYWNoKHNsaWNlID0+IHsKICAgIHNsaWNlWydlcXVpJ10gPSBheGlhbF9yaW5nKHVuZGVmaW5lZCwgc2xpY2UuaG9tZS5wb3NpdGlvbiwgMiwKICAgICAgdHJ1ZSkuZmlsdGVyKG4gPT4gIWFycmF5SW5jbHVkZXMocmVzZXJ2ZWQsIG4pKS5tYXAoCiAgICAgIHBvcyA9PiAoc2xpY2VQb3NpdGlvbihheGlhbCwgcG9zKSkpLmZpbHRlcihuID0+IChuLnRpbGUgIT09IHVuZGVmaW5lZCkpCiAgfSkKICByZXR1cm4gc2xpY2VzCn0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgb25Db21wbGV0ZWQ6IChkYXRhKSA9PiB7CgogICAgfQogIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>const { mapdraft } = data
-      console.log(mapdraft)
-      if (mapdraft !== undefined) {
-        setTTs(mapdraft.tts !== &quot;&quot; ? mapdraft.tts : getTTSString(getFreshAxial(), 3))
-        const axial = getAxialFromString(mapdraft.tts);
-        setAxial(axial.axial)
-        setSlices(axial.slices)
-        if (mapdraft.name !== &quot;&quot;) setName(mapdraft.name)
-      }</text>
+        <text encoding="base64">bGV0IG5ld1NsaWNlcyA9IHNsaWNlcwogICAgaWYgKHRpbGUgIT09IHVuZGVmaW5lZCAmJiBpc0hvbWVTeXN0ZW0odGlsZS5udW1iZXIpKSB7CiAgICAgIGxldCBpID0gZmluZFNsaWNlSW5kZXgobmV3U2xpY2VzLCB0aWxlLm51bWJlcikKICAgICAgaWYgKGkgPT09IHVuZGVmaW5lZCkgewogICAgICAgIG5ld1NsaWNlcyA9IFsuLi5uZXdTbGljZXMsIGdldEZyZXNoU2xpY2UocCwgdGlsZSldCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbmV3U2xpY2VzW2ldLmhvbWUgPSB7CiAgICAgICAgICBwb3NpdGlvbjogcCwKICAgICAgICAgIHRpbGU6IHRpbGUKICAgICAgICB9CiAgICAgIH0KICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saveDraft</last-search>
+      <last-search encoding="base64">XDxfcmVtb3ZlVGlsZVw+</last-search>
       <last-offset />
-      <last-pattern>saveDraft</last-pattern>
+      <last-pattern encoding="base64">XDxfcmVtb3ZlVGlsZVw+</last-pattern>
       <last-replace>data.viewer.workspace</last-replace>
       <last-substitute>data.workspace</last-substitute>
       <last-dir>1</last-dir>
@@ -7994,29 +7951,28 @@
     </search>
     <history>
       <history-search>
-        <entry>updateSlic</entry>
-        <entry encoding="base64">XDxhZGRTbGljZVBvc2l0aW9uc1w+</entry>
-        <entry>getFresh</entry>
+        <entry encoding="base64">XDxzZXRUVFNcPg==</entry>
+        <entry>slices</entry>
+        <entry>randomWords</entry>
         <entry encoding="base64">XDxnZXRGcmVzaFNsaWNlXD4=</entry>
-        <entry encoding="base64">XDxtYXBkcmFmdFw+</entry>
-        <entry>mapdraft</entry>
-        <entry>onChange</entry>
-        <entry encoding="base64">XDxfb25UVFNDaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxzZXRUVHNcPg==</entry>
-        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDxhZGRTbGljZVBvc2l0aW9uc1w+</entry>
         <entry encoding="base64">XDxnZXRUVFNTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxnZXRBeGlhbEZyb21TdHJpbmdcPg==</entry>
-        <entry>Map</entry>
-        <entry>MAP</entry>
-        <entry encoding="base64">XDxTQVZFTUFQX01VVEFUSU9OXD4=</entry>
-        <entry encoding="base64">XDxzYXZlTWFwXD4=</entry>
-        <entry>Spiral</entry>
-        <entry>spiral</entry>
-        <entry>tts</entry>
-        <entry>saveDraft</entry>
+        <entry>sliceIn</entry>
+        <entry encoding="base64">XDxmaW5kU2xpY2VJbmRleFw+</entry>
+        <entry>vaild</entry>
+        <entry>valid</entry>
+        <entry>axial_</entry>
+        <entry encoding="base64">XDxheGlhbFZhbGlkXD4=</entry>
+        <entry encoding="base64">XDxzbGljZVBvc2l0aW9uXD4=</entry>
+        <entry>_remove</entry>
+        <entry>isMec</entry>
+        <entry encoding="base64">XDxpc01lY2F0b2xQb3NcPg==</entry>
+        <entry encoding="base64">XDxpc01lY2F0b2xcPg==</entry>
+        <entry>remove</entry>
+        <entry encoding="base64">XDxfcmVtb3ZlVGlsZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/SparqueConfig/SparqueWorkspace/g</entry>
         <entry>%s/SparqueApi/ApiConfig/g</entry>
         <entry>%s/CONFIG_QUERY/WORKSPACE_QUERY/g</entry>
         <entry>%s/getConfig/getWorkspace/g</entry>
@@ -8035,6 +7991,7 @@
         <entry>wq</entry>
         <entry>%s/data.workspace/data.viewer.workspace/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>ws</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
