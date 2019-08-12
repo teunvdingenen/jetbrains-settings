@@ -21,12 +21,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="84" column="22" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1565512688524">
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1565619450332">
         <mark key="'" line="89" column="19" />
-        <mark key="[" line="129" column="51" />
-        <mark key="]" line="129" column="51" />
-        <mark key="^" line="129" column="51" />
-        <mark key="." line="129" column="51" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="127" column="51" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/src/model/index.js" timestamp="1565087069621">
         <mark key="'" line="31" column="9" />
@@ -332,12 +332,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1565616204285">
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1565619811891">
         <mark key="'" line="62" column="9" />
-        <mark key="[" line="214" column="29" />
-        <mark key="]" line="214" column="29" />
-        <mark key="." line="214" column="29" />
-        <mark key="^" line="214" column="29" />
+        <mark key="[" line="222" column="37" />
+        <mark key="]" line="222" column="43" />
+        <mark key="." line="222" column="43" />
+        <mark key="^" line="222" column="43" />
       </file>
       <file name="$USER_HOME$/development/playti4/src/db/db.js" timestamp="1565209213357">
         <mark key="[" line="0" column="0" />
@@ -508,7 +508,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNsaWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbG9yKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7907,7 +7907,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>saveMap</text>
@@ -7916,7 +7916,7 @@
         <text>id, name, resources, influence, available, skips</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNsaWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbG9yKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7946,32 +7946,32 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8VGFibGVDZWxsPmF2YWlsYWJsZTwvVGFibGVDZWxsPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+e3NsaWNlLmF2YWlsYWJsZX08L1RhYmxlQ2VsbD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNsaWNlCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>const map = id !== null ? await Map.findOne({ 'id': id }).exec() : new Map()
   map.name = name
   map.spiral = spiral
   map.creator = user.profile
   map.lastEdited = new Date() // TODO What timezone is this?</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBtYXAuc2V0KCdzbGljZXMnLCBtYXBTbGljZXMpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBtYXAubWFya01vZGlmaWVkKCdzbGljZXMnKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXBTbGljZXMpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNsaWNlKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkLCBuYW1lLCByZXNvdXJjZXMsIGluZmx1ZW5jZSwgYXZhaWxhYmxlLCBza2lwcykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzbGljZXMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXBTbGljZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
