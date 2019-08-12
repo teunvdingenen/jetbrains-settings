@@ -308,12 +308,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1565601489879">
-        <mark key="'" line="10" column="2" />
-        <mark key="[" line="243" column="39" />
-        <mark key="]" line="243" column="39" />
-        <mark key="^" line="243" column="49" />
-        <mark key="." line="243" column="39" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1565602155478">
+        <mark key="'" line="69" column="9" />
+        <mark key="[" line="67" column="84" />
+        <mark key="]" line="67" column="100" />
+        <mark key="^" line="67" column="100" />
+        <mark key="." line="67" column="100" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/ExtensionTable.jsx" timestamp="1565098562225">
         <mark key="[" line="36" column="18" />
@@ -351,12 +351,12 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" timestamp="1565601439821">
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" timestamp="1565602142897">
         <mark key="'" line="87" column="60" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="6" />
-        <mark key="." line="17" column="6" />
-        <mark key="^" line="17" column="6" />
+        <mark key="[" line="76" column="39" />
+        <mark key="]" line="76" column="39" />
+        <mark key="." line="76" column="39" />
+        <mark key="^" line="76" column="39" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Overview.jsx" timestamp="1565186628926">
         <mark key="[" line="103" column="20" />
@@ -372,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="4" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="32" column="38" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="223" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="182" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
@@ -472,10 +471,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="169" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" />
       <jump line="170" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" />
+      <jump line="69" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(tile)</text>
+        <text>gettt</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7874,16 +7874,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(tile)</text>
+        <text>gettt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVtb3ZlVGlsZVw+</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHJhbmRvbVdvcmRzIGZyb20gJ3JhbmRvbS13b3JkcycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7912,38 +7912,38 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y29uc3QgZmluZFNsaWNlSW5kZXggPSAobikgPT4gewogICAgbGV0IGkgPSB1bmRlZmluZWQKICAgIHNsaWNlcy5mb3JFYWNoKChzbGljZSwgaWkpID0+IHsKICAgICAgaWYgKHNsaWNlLmhvbWUudGlsZS5udW1iZXIgPT09IG4pIHsKICAgICAgICBpID0gaWkKICAgICAgfQogICAgfSkKICAgIHJldHVybiBpCiAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiA8TG9hZGluZy8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAobG9hZGluZykgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGlsZSA9IGZpbmRUaWxlKG4pCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgZ2V0VFRTU3RyaW5nID0gKGF4aWFsLCByYWRpdXMpID0+IHsKICBsZXQgdHRzID0gIiIKICBheGlhbF9zcGlyYWwoYXhpYWwsIHsgcTogMTAsIHI6IDEwIH0sIHJhZGl1cykuZm9yRWFjaCgKICAgIHQgPT4gdHRzICs9IHQgIT09IHVuZGVmaW5lZCA/ICh0Lm51bWJlciArICIgIikgOiAiMCAiKQogIHR0cyA9IHR0cy5yZXBsYWNlKC8oMTgrXHMpfChccyskKS9nLCAnJykucmVwbGFjZSgvKDlcZHxcZHszLH0pLywgJzAnKQogIHJldHVybiB0dHMKfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y29uc3QgZmluZFNsaWNlSW5kZXggPSAobikgPT4gewogICAgbGV0IGkgPSB1bmRlZmluZWQKICAgIHNsaWNlcy5mb3JFYWNoKChzbGljZSwgaWkpID0+IHsKICAgICAgaWYgKHNsaWNlLmhvbWUudGlsZS5udW1iZXIgPT09IG4pIHsKICAgICAgICBpID0gaWkKICAgICAgfQogICAgfSkKICAgIHJldHVybiBpCiAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y29uc3QgYWRkU2xpY2VQb3NpdGlvbnMgPSAoc2xpY2VzLCBheGlhbCkgPT4gewogIGxldCByZXNlcnZlZCA9IFtNRUNBVE9MXQogIHNsaWNlcy5mb3JFYWNoKHNsaWNlID0+IHsKICAgIHNsaWNlWydvd25lcnNoaXAnXSA9IGF4aWFsX3JpbmcodW5kZWZpbmVkLCBzbGljZS5ob21lLnBvc2l0aW9uLCAxLAogICAgICB0cnVlKS5jb25jYXQoYXhpYWxfbGluZWRyYXcoc2xpY2UuaG9tZS5wb3NpdGlvbiwgTUVDQVRPTCkpLnJlZHVjZSgKICAgICAgKHVuaXF1ZSwgaXRlbSkgPT4gKGFycmF5SW5jbHVkZXModW5pcXVlLCBpdGVtKSB8fCBpc01lY2F0b2xQb3MoaXRlbSkpCiAgICAgICAgPyB1bmlxdWUgOiBbLi4udW5pcXVlLCBpdGVtXSwgW10pLm1hcChwb3MgPT4gKAogICAgICBzbGljZVBvc2l0aW9uKGF4aWFsLCBwb3MpCiAgICApKS5maWx0ZXIobiA9PiAobi50aWxlICE9PSB1bmRlZmluZWQpKS5jb25jYXQoCiAgICAgIHNsaWNlUG9zaXRpb24oYXhpYWwsIHNsaWNlLmhvbWUucG9zaXRpb24pKQogICAgcmVzZXJ2ZWQgPSBbLi4ucmVzZXJ2ZWQsIC4uLnNsaWNlLm93bmVyc2hpcC5tYXAocyA9PiBzLnBvc2l0aW9uKV0KICB9KQogIHNsaWNlcy5mb3JFYWNoKHNsaWNlID0+IHsKICAgIHNsaWNlWydlcXVpJ10gPSBheGlhbF9yaW5nKHVuZGVmaW5lZCwgc2xpY2UuaG9tZS5wb3NpdGlvbiwgMiwKICAgICAgdHJ1ZSkuZmlsdGVyKG4gPT4gIWFycmF5SW5jbHVkZXMocmVzZXJ2ZWQsIG4pKS5tYXAoCiAgICAgIHBvcyA9PiAoc2xpY2VQb3NpdGlvbihheGlhbCwgcG9zKSkpLmZpbHRlcihuID0+IChuLnRpbGUgIT09IHVuZGVmaW5lZCkpCiAgfSkKICByZXR1cm4gc2xpY2VzCn0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgdGlsZSA9IGZpbmRUaWxlKG4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bGV0IG5ld1NsaWNlcyA9IHNsaWNlcwogICAgaWYgKHRpbGUgIT09IHVuZGVmaW5lZCAmJiBpc0hvbWVTeXN0ZW0odGlsZS5udW1iZXIpKSB7CiAgICAgIGxldCBpID0gZmluZFNsaWNlSW5kZXgobmV3U2xpY2VzLCB0aWxlLm51bWJlcikKICAgICAgaWYgKGkgPT09IHVuZGVmaW5lZCkgewogICAgICAgIG5ld1NsaWNlcyA9IFsuLi5uZXdTbGljZXMsIGdldEZyZXNoU2xpY2UocCwgdGlsZSldCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbmV3U2xpY2VzW2ldLmhvbWUgPSB7CiAgICAgICAgICBwb3NpdGlvbjogcCwKICAgICAgICAgIHRpbGU6IHRpbGUKICAgICAgICB9CiAgICAgIH0KICAgIH0=</text>
+        <text encoding="base64">Y29uc3QgZ2V0VFRTU3RyaW5nID0gKGF4aWFsLCByYWRpdXMpID0+IHsKICBsZXQgdHRzID0gIiIKICBheGlhbF9zcGlyYWwoYXhpYWwsIHsgcTogMTAsIHI6IDEwIH0sIHJhZGl1cykuZm9yRWFjaCgKICAgIHQgPT4gdHRzICs9IHQgIT09IHVuZGVmaW5lZCA/ICh0Lm51bWJlciArICIgIikgOiAiMCAiKQogIHR0cyA9IHR0cy5yZXBsYWNlKC8oMTgrXHMpfChccyskKS9nLCAnJykucmVwbGFjZSgvKDlcZHxcZHszLH0pLywgJzAnKQogIHJldHVybiB0dHMKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVtb3ZlVGlsZVw+</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVtb3ZlVGlsZVw+</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>data.viewer.workspace</last-replace>
       <last-substitute>data.workspace</last-substitute>
       <last-dir>1</last-dir>
@@ -7951,7 +7951,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRUVFNcPg==</entry>
         <entry>slices</entry>
         <entry>randomWords</entry>
         <entry encoding="base64">XDxnZXRGcmVzaFNsaWNlXD4=</entry>
@@ -7971,6 +7970,7 @@
         <entry encoding="base64">XDxpc01lY2F0b2xcPg==</entry>
         <entry>remove</entry>
         <entry encoding="base64">XDxfcmVtb3ZlVGlsZVw+</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SparqueApi/ApiConfig/g</entry>
