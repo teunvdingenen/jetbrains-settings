@@ -21,8 +21,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="84" column="22" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1565622252517">
-        <mark key="'" line="89" column="19" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1565684773445">
+        <mark key="'" line="86" column="66" />
         <mark key="[" line="127" column="60" />
         <mark key="]" line="127" column="61" />
         <mark key="^" line="127" column="61" />
@@ -405,8 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="457" column="12" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="338" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="469" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="157" column="14" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="180" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
@@ -505,6 +503,8 @@
       <jump line="62" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="33" column="16" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
       <jump line="96" column="20" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
+      <jump line="37" column="32" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" />
+      <jump line="86" column="66" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7910,7 +7910,7 @@
         <text encoding="base64">LmZpbHRlcihjID0+IGMgPT09ICIiKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>saveMap</text>
+        <text encoding="base64">XDxyZWZldGNoXD4=</text>
       </register>
       <register name="0" type="4">
         <text>id, name, resources, influence, available, skips</text>
@@ -7974,9 +7974,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveMap</last-search>
+      <last-search encoding="base64">XDxyZWZldGNoXD4=</last-search>
       <last-offset />
-      <last-pattern>saveMap</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZldGNoXD4=</last-pattern>
       <last-replace>data.viewer.workspace</last-replace>
       <last-substitute>data.workspace</last-substitute>
       <last-dir>1</last-dir>
@@ -7984,7 +7984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>valid</entry>
         <entry>axial_</entry>
         <entry encoding="base64">XDxheGlhbFZhbGlkXD4=</entry>
         <entry encoding="base64">XDxzbGljZVBvc2l0aW9uXD4=</entry>
@@ -8004,6 +8003,7 @@
         <entry encoding="base64">XDxzYXZlTWFwXD4=</entry>
         <entry>console</entry>
         <entry>saveMap</entry>
+        <entry encoding="base64">XDxyZWZldGNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TableCell/Table.Cell/g</entry>
