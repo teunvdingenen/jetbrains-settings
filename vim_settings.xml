@@ -9,12 +9,12 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Header.jsx" timestamp="1565702086550">
-        <mark key="'" line="77" column="31" />
-        <mark key="[" line="174" column="32" />
-        <mark key="]" line="174" column="32" />
-        <mark key="." line="174" column="32" />
-        <mark key="^" line="174" column="32" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Header.jsx" timestamp="1565703797416">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="45" column="48" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1565692928876">
         <mark key="'" line="86" column="66" />
@@ -143,6 +143,13 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/sitemap.jsx" timestamp="1565703781465">
+        <mark key="'" line="82" column="17" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="92" column="41" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/local/data.jsx" timestamp="1565598157921">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="10" />
@@ -204,12 +211,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/App.jsx" timestamp="1565277207267">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="75" column="61" />
-        <mark key="]" line="75" column="61" />
-        <mark key="." line="75" column="61" />
-        <mark key="^" line="75" column="65" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/App.jsx" timestamp="1565703461412">
+        <mark key="'" line="34" column="25" />
+        <mark key="[" line="70" column="29" />
+        <mark key="]" line="71" column="33" />
+        <mark key="." line="71" column="33" />
+        <mark key="^" line="71" column="33" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1565278564897">
         <mark key="'" line="328" column="23" />
@@ -279,11 +286,11 @@
         <mark key="." line="101" column="46" />
         <mark key="^" line="101" column="46" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" timestamp="1565692911984">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="41" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="41" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" timestamp="1565703650321">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="37" />
+        <mark key="^" line="26" column="37" />
+        <mark key="." line="26" column="37" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1565613073497">
         <mark key="'" line="12" column="38" />
@@ -301,12 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="2" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="183" column="49" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="196" column="20" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="29" column="7" filename="$USER_HOME$/development/playti4/src/db/operations.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/development/playti4/src/resolvers/mutation.js" />
-      <jump line="6" column="14" filename="$USER_HOME$/development/playti4/src/resolvers/mutation.js" />
       <jump line="7" column="8" filename="$USER_HOME$/development/playti4/src/resolvers/mutation.js" />
       <jump line="60" column="19" filename="$USER_HOME$/development/playti4/client/src/mutations/index.jsx" />
       <jump line="36" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
@@ -401,10 +402,16 @@
       <jump line="116" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
       <jump line="64" column="14" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
       <jump line="76" column="31" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
+      <jump line="34" column="25" filename="$USER_HOME$/development/playti4/client/src/app/App.jsx" />
+      <jump line="68" column="19" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
+      <jump line="149" column="27" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
+      <jump line="171" column="2" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
+      <jump line="88" column="17" filename="$USER_HOME$/development/playti4/client/src/sitemap.jsx" />
+      <jump line="159" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7803,16 +7810,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>edit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUVFNTdHJpbmdcPg==</text>
+        <text>account</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aW5pdGlhbEF4aWFsICE9PSB1bmRlZmluZWQgJiYgaW5pdGlhbEF4aWFsLmxlbmd0aCAhPT0gMAogICAgPyBpbml0aWFsQXhpYWwgOiBnZXRGcmVzaEF4aWFs</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB7IGlkOiAnbmV3JywgdGl0bGU6ICdOZXcnIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHMgPSBzLnJlcGxhY2UoLygxOCtccyl8KFxzKyQpL2csICcnKS5yZXBsYWNlKC8oOVxkfFxkezMsfSkvLCAnMCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7841,38 +7848,46 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBpbml0aWFsQXhpYWwgPQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PE1lbnVJdGVtIGNvbXBvbmVudD17TGlua30KICAgICAgICAgICAgICAgICAgICAgICAgICB0bz0iL2FjY291bnQvYWNjb3VudCI+QWNjb3VudDwvTWVudUl0ZW0+</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGF0YS52aWV3ZXIgJiYgZGF0YS52aWV3ZXIubWFwICYmIGRhdGEudmlld2VyLm1hcC5zcGlyYWwKICAgID8gewogICAgICBpbml0aWFsQXhpYWw6IHNwaXJhbF90b19heGlhbChkYXRhLnZpZXdlci5tYXAuc3BpcmFsKSwKICAgICAgaW5pdGlhbFNsaWNlczogZGF0YS52aWV3ZXIubWFwLnNsaWNlcwogICAgfQogICAgOiB7IGluaXRpYWxBeGlhbDogZGF0YS5tYXBkcmFmdCAmJiBkYXRhLm1hcGRyYWZ0LmF4aWFsLCBpbml0aWFsU2xpY2VzOiBbXSB9</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aW5pdGlhbEF4aWFsICE9PSB1bmRlZmluZWQgJiYgaW5pdGlhbEF4aWFsLmxlbmd0aCAhPT0gMAogICAgPyBpbml0aWFsQXhpYWwgOiBnZXRGcmVzaEF4aWFs</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZmluZEhvbWVTeXN0ZW1zKGF4aWFsKQogICAgLm1hcCgoeyB0aWxlLCBwIH0pID0+IGdldEZyZXNoU2xpY2UocCwgdGlsZSwgaW5pdGlhbFNsaWNlcy5maW5kKHMgPT4gcy5ob21lc3lzdGVtID09PSB0aWxlLm51bWJlcikpCiAgICAp</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBpbml0aWFsTmFtZSA9Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="4">
+        <text>{
+      id: 'account',
+      title: 'Account',
+      component: Account,
+      children: [{ id: 'account', title: 'Account' }]
+    }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyBpZDogJ2VkaXQnLCB0aXRsZTogJ0VkaXQnIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyBpZDogJ2VkaXQnLCB0aXRsZTogJ0VkaXQnIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB7IGlkOiAnbmV3JywgdGl0bGU6ICdOZXcnIH0sCg==</text>
+      </register>
       <register name="8" type="4">
-        <text encoding="base64">ZGF0YS52aWV3ZXIgJiYgZGF0YS52aWV3ZXIubWFwICYmIGRhdGEudmlld2VyLm1hcC5uYW1lCiAgICA/IGRhdGEudmlld2VyLm1hcC5uYW1lIDogZGF0YS5tYXBkcmFmdCAmJiBkYXRhLm1hcGRyYWZ0Lm5hbWUgIT09ICIiCiAgICAgID8gZGF0YS5tYXBkcmFmdC5uYW1lIDogcmFuZG9tV29yZHMoMykuam9pbignJyk=</text>
+        <text>alt: {
+                id: 'edit',
+                name: 'Edit'
+              }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF4aWFsLCBuYW1lKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5sb2NhdGlvbikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRUVFNTdHJpbmdcPg==</last-search>
+      <last-search>account</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUVFNTdHJpbmdcPg==</last-pattern>
+      <last-pattern>account</last-pattern>
       <last-replace>data.viewer.workspace</last-replace>
       <last-substitute>data.workspace</last-substitute>
       <last-dir>1</last-dir>
@@ -7880,9 +7895,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
-        <entry>length</entry>
-        <entry>planets</entry>
         <entry>cache</entry>
         <entry encoding="base64">XDxzZXRGcm9tU3RyaW5nXD4=</entry>
         <entry>replace</entry>
@@ -7900,6 +7912,9 @@
         <entry>initialAxial</entry>
         <entry>axial_spiral</entry>
         <entry encoding="base64">XDxnZXRUVFNTdHJpbmdcPg==</entry>
+        <entry>Header</entry>
+        <entry>tab</entry>
+        <entry>account</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TableCell/Table.Cell/g</entry>
