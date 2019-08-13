@@ -255,12 +255,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1565694831173">
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" timestamp="1565698533039">
         <mark key="'" line="74" column="9" />
-        <mark key="[" line="72" column="84" />
-        <mark key="]" line="73" column="17" />
-        <mark key="." line="73" column="17" />
-        <mark key="^" line="73" column="17" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" timestamp="1565601535407">
         <mark key="'" line="170" column="31" />
@@ -292,11 +291,11 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" timestamp="1565692490726">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="92" column="61" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" timestamp="1565698541998">
+        <mark key="[" line="94" column="40" />
+        <mark key="]" line="94" column="40" />
+        <mark key="^" line="94" column="40" />
+        <mark key="." line="94" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -403,7 +402,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiggbG9hZGluZyApIHJldHVybiA8TG9hZGluZy8+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0dHMpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7811,7 +7810,7 @@
         <text encoding="base64">ZGF0YS52aWV3ZXIgJiYgZGF0YS52aWV3ZXIubWFwICYmIGRhdGEudmlld2VyLm1hcC5zcGlyYWw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiggbG9hZGluZyApIHJldHVybiA8TG9hZGluZy8+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0dHMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7841,31 +7840,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiggbG9hZGluZyApIHJldHVybiA8TG9hZGluZy8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLnZpZXdlciAmJiBkYXRhLnZpZXdlci5tYXAgJiYgZGF0YS52aWV3ZXIubWFwLnNwaXJhbCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLnZpZXdlci5tYXAubmFtZSkK</text>
+        <text encoding="base64">ICBpZiggbG9hZGluZyApIHJldHVybiA8TG9hZGluZy8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXRjaC5wYXJhbXMpCg==</text>
+        <text encoding="base64">ICBpZiggbG9hZGluZyApIHJldHVybiA8TG9hZGluZy8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gbWFwCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLnZpZXdlciAmJiBkYXRhLnZpZXdlci5tYXAgJiYgZGF0YS52aWV3ZXIubWFwLnNwaXJhbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXApCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLnZpZXdlci5tYXAubmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQcm9maWxlOiBtb25nb29zZS5tb2RlbCgnUHJvZmlsZScsIHByb2ZpbGVTY2hlbWEpLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXRjaC5wYXJhbXMpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>creator {
-                    id
-                    name
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICByZXR1cm4gbWFwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
