@@ -179,12 +179,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" timestamp="1565186308775">
-        <mark key="'" line="19" column="33" />
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" timestamp="1565770780131">
+        <mark key="'" line="24" column="204" />
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="50" />
+        <mark key="^" line="24" column="50" />
+        <mark key="." line="24" column="50" />
       </file>
       <file name="$USER_HOME$/development/playti4/src/resolvers/query.js" timestamp="1565693139924">
         <mark key="'" line="39" column="13" />
@@ -246,6 +246,13 @@
         <mark key="^" line="88" column="2" />
         <mark key="." line="88" column="2" />
       </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Tuner.jsx" timestamp="1565770953486">
+        <mark key="'" line="64" column="19" />
+        <mark key="[" line="54" column="22" />
+        <mark key="]" line="54" column="29" />
+        <mark key="^" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+      </file>
       <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1565706313265">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="234" column="9" />
@@ -287,11 +294,17 @@
         <mark key="." line="54" column="23" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/Tune.jsx" timestamp="1565184676112">
-        <mark key="[" line="10" column="67" />
-        <mark key="]" line="10" column="68" />
-        <mark key="." line="10" column="68" />
-        <mark key="^" line="10" column="68" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/Tune.jsx" timestamp="1565770921482">
+        <mark key="[" line="14" column="65" />
+        <mark key="]" line="14" column="84" />
+        <mark key="." line="14" column="84" />
+        <mark key="^" line="14" column="84" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/utils.js" timestamp="1565770964196">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="4" column="55" />
+        <mark key="." line="4" column="55" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" timestamp="1565770113598">
         <mark key="'" line="123" column="16" />
@@ -322,6 +335,9 @@
         <mark key="]" line="36" column="22" />
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="22" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" timestamp="1565601535407">
+        <mark key="'" line="170" column="31" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" timestamp="1565437602887">
         <mark key="'" line="10" column="0" />
@@ -363,11 +379,15 @@
         <mark key="^" line="130" column="4" />
         <mark key="." line="123" column="15" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Overview.jsx" timestamp="1565186628926">
-        <mark key="[" line="103" column="20" />
-        <mark key="]" line="103" column="20" />
-        <mark key="." line="103" column="20" />
-        <mark key="^" line="99" column="31" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Overview.jsx" timestamp="1565770940408">
+        <mark key="'" line="60" column="32" />
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+      </file>
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" timestamp="1565771060574">
+        <mark key="'" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/WorkspaceSelection.jsx" timestamp="1565768416558">
         <mark key="[" line="4" column="0" />
@@ -383,32 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="14" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="104" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="71" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="72" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="191" column="21" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="128" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="114" column="32" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="65" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="94" column="35" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="23" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="99" column="21" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="100" column="11" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="24" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="137" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="125" column="36" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="63" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="20" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="243" column="29" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="89" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="133" column="8" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="87" column="60" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
-      <jump line="245" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="10" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
-      <jump line="169" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" />
       <jump line="170" column="31" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" />
       <jump line="69" column="9" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/CreateMap.jsx" />
       <jump line="75" column="40" filename="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" />
@@ -483,10 +477,36 @@
       <jump line="23" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
       <jump line="35" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
       <jump line="41" column="20" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" />
+      <jump line="5" column="114" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="11" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="15" column="3" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="19" column="86" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="21" column="243" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="1" column="22" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="23" column="251" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="0" column="26" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="26" column="204" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/tune.js" />
+      <jump line="60" column="32" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Overview.jsx" />
+      <jump line="54" column="29" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Tuner.jsx" />
+      <jump line="63" column="15" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Tuner.jsx" />
+      <jump line="64" column="19" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Tuner.jsx" />
+      <jump line="69" column="34" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="76" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="87" column="24" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="93" column="27" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="111" column="35" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="119" column="38" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="126" column="50" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="134" column="35" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="140" column="36" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="147" column="41" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="0" column="25" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7885,90 +7905,80 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
+        <text encoding="base64">XDxnZXRXb3Jrc3BhY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBbc2F2ZVN5bm9ueW1dID0gdXNlTXV0YXRpb24oU0FWRVNZTk9OWU1fTVVUQVRJT04pOwo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGRhdGEsIGxvYWRpbmcsIGVycm9yfSA9IHVzZVF1ZXJ5KFdPUktTUEFDRV9RVUVSWSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
           <key char="110" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJpYWJsZXM6IHsK</text>
+        <text encoding="base64">ICBjb25zdCB7IGRhdGEsIGxvYWRpbmcsIGVycm9yfSA9IHVzZVF1ZXJ5KFdPUktTUEFDRV9RVUVSWSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtdXRhdGlvbjogU0FWRVNZTk9OWU1fTVVUQVRJT04sCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50Lm11dGF0ZSh7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgV09SS1NQQUNFX1FVRVJZIH0gZnJvbSAnLi4vZ3JhcGhxbC9xdWVyaWVzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudCBmcm9tICcuLi8uLi9jbGllbnQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNsaWVudCBmcm9tICcuLi9jbGllbnQnOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWVudCBmcm9tICcuL2NsaWVudCc7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y2xpZW50LnF1ZXJ5KHsgcXVlcnk6IFdPUktTUEFDRV9RVUVSWSB9KQogIC50aGVuKCh7IH0pID0+IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IE11dGF0aW9uIGZyb20gJ3JlYWN0LWFwb2xsby9NdXRhdGlvbic7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y2xpZW50LnF1ZXJ5KHsgcXVlcnk6IFdPUktTUEFDRV9RVUVSWSB9KQogIC50aGVuKCh7IH0pID0+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFF1ZXJ5IGZyb20gJ3JlYWN0LWFwb2xsby9RdWVyeSc7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y2xpZW50LnF1ZXJ5KHsgcXVlcnk6IFdPUktTUEFDRV9RVUVSWSB9KQogIC50aGVuKCh7IH0pID0+IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFF1ZXJ5IGZyb20gJ3JlYWN0LWFwb2xsby9RdWVyeSc7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y2xpZW50IGZyb20gJy4uL2NsaWVudCc7CmltcG9ydCB7IFdPUktTUEFDRV9RVUVSWSB9IGZyb20gJy4uL2dyYXBocWwvcXVlcmllcyc7CmltcG9ydCB7IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRXb3Jrc3BhY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</last-pattern>
-      <last-replace>data.viewer.workspace</last-replace>
-      <last-substitute>data.workspace</last-substitute>
+      <last-pattern encoding="base64">XDxnZXRXb3Jrc3BhY2VcPg==</last-pattern>
+      <last-replace>viewer</last-replace>
+      <last-substitute>data.viewer</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3B1bGF0ZVw+</entry>
-        <entry>spiral</entry>
-        <entry>initialAxial</entry>
-        <entry>axial_spiral</entry>
-        <entry encoding="base64">XDxnZXRUVFNTdHJpbmdcPg==</entry>
-        <entry>Header</entry>
-        <entry>tab</entry>
         <entry>account</entry>
         <entry encoding="base64">XDxUeXBvZ3JhcGh5XD4=</entry>
         <entry>ref</entry>
@@ -7982,10 +7992,15 @@
         <entry>getUser</entry>
         <entry>onSubmit</entry>
         <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
+        <entry>data.</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry>get</entry>
+        <entry>client</entry>
+        <entry>data.viewer</entry>
+        <entry>data</entry>
+        <entry encoding="base64">XDxnZXRXb3Jrc3BhY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/TableCell/Table.Cell/g</entry>
-        <entry>%s/&quot;//g</entry>
         <entry>%s/,/;/g</entry>
         <entry>%s/2.5/${data.workspace.version}/g</entry>
         <entry>%s/strategy/commit/g</entry>
@@ -8003,6 +8018,8 @@
         <entry>ww</entry>
         <entry>&quot;</entry>
         <entry>&quot;!</entry>
+        <entry>%s/data.//g</entry>
+        <entry>%s/data.viewer/viewer/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
