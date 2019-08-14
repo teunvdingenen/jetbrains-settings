@@ -374,12 +374,12 @@
         <mark key="." line="101" column="46" />
         <mark key="^" line="101" column="46" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/Settings.jsx" timestamp="1565780162899">
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/Settings.jsx" timestamp="1565783750616">
         <mark key="'" line="108" column="8" />
-        <mark key="[" line="58" column="52" />
-        <mark key="]" line="58" column="52" />
-        <mark key="." line="58" column="52" />
-        <mark key="^" line="58" column="51" />
+        <mark key="[" line="83" column="55" />
+        <mark key="]" line="83" column="59" />
+        <mark key="." line="83" column="59" />
+        <mark key="^" line="83" column="59" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1565613073497">
         <mark key="'" line="12" column="38" />
@@ -529,7 +529,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>v.username</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7928,7 +7928,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>v.username</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
