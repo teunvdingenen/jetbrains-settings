@@ -287,11 +287,11 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/style/styles.less" timestamp="1565186525565">
-        <mark key="[" line="87" column="3" />
-        <mark key="]" line="88" column="2" />
-        <mark key="^" line="88" column="2" />
-        <mark key="." line="88" column="2" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/style/styles.less" timestamp="1565861133578">
+        <mark key="[" line="112" column="13" />
+        <mark key="]" line="112" column="13" />
+        <mark key="^" line="112" column="13" />
+        <mark key="." line="112" column="13" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Media.jsx" timestamp="1565853211374">
         <mark key="[" line="38" column="51" />
@@ -415,12 +415,12 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/Settings.jsx" timestamp="1565795597215">
-        <mark key="'" line="105" column="8" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/Settings.jsx" timestamp="1565861142057">
+        <mark key="'" line="107" column="8" />
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="35" />
+        <mark key="." line="50" column="36" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1565855285123">
         <mark key="'" line="12" column="38" />
@@ -468,8 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
-      <jump line="96" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
       <jump line="125" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
       <jump line="87" column="23" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
       <jump line="102" column="13" filename="$USER_HOME$/development/sparque/sparque-demo/src/db/operations.js" />
@@ -568,10 +566,12 @@
       <jump line="17" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/resources/CreateResource.jsx" />
       <jump line="104" column="26" filename="$USER_HOME$/development/playti4/client/src/app/components/resources/CreateResource.jsx" />
       <jump line="51" column="0" filename="$USER_HOME$/development/playti4/client/src/css/editor.css" />
+      <jump line="91" column="10" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/style/styles.less" />
+      <jump line="100" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/style/styles.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGxlZnQ7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7970,18 +7970,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>font</text>
+        <text>center</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cmVuZGVyPXtwcm9wcyA9PiA8T3ZlcnZpZXcgey4uLnByb3BzfSB2aWV3ZXI9e2RhdGEudmlld2VyfSAvPn0vPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEZpZWxkIG5hbWU9e2BjaGlsZHJlbi4ke2luZGV4fS5uYW1lYH0vPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGxlZnQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8008,37 +8006,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9J1JpY2hFZGl0b3ItZWRpdG9yJwo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA2Ni42NjY2NjY2NyU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAzMy4zMzMzMzMzMyU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IERyYWZ0IGZyb20gJ2RyYWZ0LWpzJzsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA2Ni42NjY2NjY2NyU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9ImVkaXRvciIK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAzMy4zMzMzMzMzMyU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6ICcxMDAlJwo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogLTIwcHggYXV0byAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogJ0dlb3JnaWEnLCBzZXJpZjsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAzNTBweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvblRhYj17ZSA9PiBzZXRFZGl0b3JTdGF0ZShSaWNoVXRpbHMub25UYWIoZSwgZWRpdG9yU3RhdGUsIDQpKX0K</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9ImVkaXRvciIK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA2Ni42NjY2NjY2NyU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>font</last-search>
+      <last-search>center</last-search>
       <last-offset />
-      <last-pattern>font</last-pattern>
+      <last-pattern>center</last-pattern>
       <last-replace>viewer</last-replace>
       <last-substitute>data.viewer</last-substitute>
       <last-dir>1</last-dir>
@@ -8046,7 +8044,6 @@
     </search>
     <history>
       <history-search>
-        <entry>workspace</entry>
         <entry encoding="base64">XDx2aWV3ZXJcPg==</entry>
         <entry>refresh</entry>
         <entry>sessionResul</entry>
@@ -8066,6 +8063,7 @@
         <entry>props</entry>
         <entry>onTab</entry>
         <entry>font</entry>
+        <entry>center</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,/;/g</entry>
