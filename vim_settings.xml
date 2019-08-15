@@ -36,11 +36,12 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/resources/CreateResource.jsx" timestamp="1565855687930">
-        <mark key="[" line="10" column="68" />
-        <mark key="]" line="10" column="68" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="10" column="68" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/resources/CreateResource.jsx" timestamp="1565858735290">
+        <mark key="'" line="115" column="26" />
+        <mark key="[" line="126" column="35" />
+        <mark key="]" line="127" column="11" />
+        <mark key="." line="127" column="11" />
+        <mark key="^" line="127" column="11" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1565705272808">
         <mark key="'" line="86" column="66" />
@@ -101,6 +102,12 @@
         <mark key="]" line="72" column="32" />
         <mark key="." line="72" column="32" />
         <mark key="^" line="72" column="32" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/css/editor.css" timestamp="1565858480665">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" timestamp="1565853427695">
         <mark key="'" line="0" column="0" />
@@ -428,11 +435,11 @@
         <mark key="^" line="130" column="4" />
         <mark key="." line="123" column="15" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Resources.jsx" timestamp="1565854154484">
-        <mark key="[" line="45" column="27" />
-        <mark key="]" line="45" column="32" />
-        <mark key="." line="45" column="32" />
-        <mark key="^" line="45" column="32" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/Resources.jsx" timestamp="1565858115227">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Overview.jsx" timestamp="1565793041550">
         <mark key="'" line="65" column="15" />
@@ -461,9 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="54" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" />
-      <jump line="87" column="60" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" />
-      <jump line="8" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
       <jump line="94" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
       <jump line="96" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
       <jump line="125" column="16" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
@@ -561,10 +565,13 @@
       <jump line="281" column="55" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
       <jump line="153" column="21" filename="$USER_HOME$/development/playti4/client/src/queries/index.jsx" />
       <jump line="31" column="0" filename="$USER_HOME$/development/playti4/client/src/queries/index.jsx" />
+      <jump line="17" column="6" filename="$USER_HOME$/development/playti4/client/src/app/components/resources/CreateResource.jsx" />
+      <jump line="104" column="26" filename="$USER_HOME$/development/playti4/client/src/app/components/resources/CreateResource.jsx" />
+      <jump line="51" column="0" filename="$USER_HOME$/development/playti4/client/src/css/editor.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7963,16 +7970,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text>font</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cmVuZGVyPXtwcm9wcyA9PiA8T3ZlcnZpZXcgey4uLnByb3BzfSB2aWV3ZXI9e2RhdGEudmlld2VyfSAvPn0vPg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+      <register name="1" type="4">
+        <text>{
+        
+      }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7999,37 +8008,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9J1JpY2hFZGl0b3ItZWRpdG9yJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">aW1wb3J0IERyYWZ0IGZyb20gJ2RyYWZ0LWpzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWY9ImVkaXRvciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25DaGFuZ2UgPSAoZWRpdG9yU3RhdGUpID0+IHRoaXMuc2V0U3RhdGUoe2VkaXRvclN0YXRlfSk7Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6ICcxMDAlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7ZWRpdG9yU3RhdGU6IEVkaXRvclN0YXRlLmNyZWF0ZUVtcHR5KCl9Owo=</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTogJ0dlb3JnaWEnLCBzZXJpZjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvblRhYj17ZSA9PiBzZXRFZGl0b3JTdGF0ZShSaWNoVXRpbHMub25UYWIoZSwgZWRpdG9yU3RhdGUsIDQpKX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICByZWY9ImVkaXRvciIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search>font</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern>font</last-pattern>
       <last-replace>viewer</last-replace>
       <last-substitute>data.viewer</last-substitute>
       <last-dir>1</last-dir>
@@ -8037,10 +8046,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrZXl3b3JkU3VnZ2VzdFw+</entry>
-        <entry encoding="base64">XDxwcm9kdWN0U3VnZ2VzdFw+</entry>
-        <entry>Button</entry>
-        <entry>loading</entry>
         <entry>workspace</entry>
         <entry encoding="base64">XDx2aWV3ZXJcPg==</entry>
         <entry>refresh</entry>
@@ -8057,6 +8062,10 @@
         <entry encoding="base64">XDxwYXBlclw+</entry>
         <entry>league</entry>
         <entry>css</entry>
+        <entry encoding="base64">XDxJTkxJTkVfU1RZTEVTXD4=</entry>
+        <entry>props</entry>
+        <entry>onTab</entry>
+        <entry>font</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,/;/g</entry>
