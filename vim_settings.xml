@@ -162,15 +162,15 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/auth/utils.js" timestamp="1565693306704">
+      <file name="$USER_HOME$/development/playti4/src/auth/utils.js" timestamp="1565873260792">
         <mark key="'" line="21" column="43" />
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="75" />
-        <mark key="." line="9" column="14" />
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="17" column="49" />
+        <mark key="." line="17" column="49" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1565853163399">
-        <mark key="'" line="41" column="10" />
+      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1565873116163">
+        <mark key="'" line="122" column="6" />
         <mark key="[" line="163" column="66" />
         <mark key="]" line="163" column="66" />
         <mark key="." line="163" column="66" />
@@ -183,7 +183,7 @@
         <mark key="^" line="168" column="14" />
         <mark key="." line="219" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1565853573959">
+      <file name="/GraphQL.variables.json" timestamp="1565873101146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" timestamp="1565605377262">
@@ -405,7 +405,7 @@
         <mark key="^" line="123" column="52" />
         <mark key="." line="123" column="52" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1565859183427">
+      <file name="/GraphQL.result.json" timestamp="1565873101459">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/FormikTimePicker.js" timestamp="1565265996491">
@@ -524,7 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="1" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
       <jump line="42" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
       <jump line="1" column="12" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
       <jump line="106" column="4" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
@@ -624,6 +623,7 @@
       <jump line="80" column="8" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
       <jump line="130" column="30" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
       <jump line="110" column="6" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/rest/demo.js" />
+      <jump line="122" column="6" filename="$USER_HOME$/development/playti4/src/db/model/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
