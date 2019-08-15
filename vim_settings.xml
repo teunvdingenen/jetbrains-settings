@@ -15,10 +15,6 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/shared/LoadingView.jsx" timestamp="1565773833027">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="53" />
-      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/Shop.jsx" timestamp="1565772812413">
         <mark key="'" line="34" column="4" />
         <mark key="[" line="39" column="61" />
@@ -40,6 +36,12 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/resources/CreateResource.jsx" timestamp="1565855687930">
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="10" column="68" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="10" column="68" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/MyMaps.jsx" timestamp="1565705272808">
         <mark key="'" line="86" column="66" />
         <mark key="[" line="37" column="65" />
@@ -53,11 +55,6 @@
         <mark key="]" line="45" column="4" />
         <mark key="." line="45" column="4" />
         <mark key="^" line="45" column="4" />
-      </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/client.js" timestamp="1565770196005">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/header/Alerts.jsx" timestamp="1565275059707">
         <mark key="[" line="22" column="0" />
@@ -85,10 +82,11 @@
         <mark key="." line="117" column="17" />
         <mark key="^" line="117" column="17" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Synonym.jsx" timestamp="1565773795990">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="55" column="10" />
-        <mark key="]" line="56" column="26" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/AddMenu.jsx" timestamp="1565513819572">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/form/TimezoneSelectField.jsx" timestamp="1565275013341">
         <mark key="'" line="22" column="39" />
@@ -104,12 +102,12 @@
         <mark key="." line="72" column="32" />
         <mark key="^" line="72" column="32" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" timestamp="1565277317839">
+      <file name="$USER_HOME$/development/playti4/client/src/app/Calendar.jsx" timestamp="1565853427695">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="129" column="7" />
-        <mark key="." line="153" column="0" />
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="15" />
+        <mark key="^" line="61" column="15" />
+        <mark key="." line="61" column="15" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/profile/AvailabilityForm.jsx" timestamp="1565276829848">
         <mark key="'" line="24" column="30" />
@@ -118,15 +116,12 @@
         <mark key="^" line="117" column="43" />
         <mark key="." line="117" column="43" />
       </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/Product.jsx" timestamp="1565772636765">
-        <mark key="'" line="19" column="35" />
-      </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" timestamp="1565437867494">
-        <mark key="'" line="59" column="11" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="101" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/SearchContainer.jsx" timestamp="1565853524353">
+        <mark key="'" line="61" column="11" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Signup.jsx" timestamp="1565773695153">
         <mark key="'" line="15" column="9" />
@@ -135,12 +130,12 @@
         <mark key="^" line="116" column="17" />
         <mark key="." line="116" column="17" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/queries/index.jsx" timestamp="1565705113366">
-        <mark key="'" line="202" column="21" />
-        <mark key="[" line="224" column="14" />
-        <mark key="]" line="225" column="16" />
-        <mark key="^" line="225" column="16" />
-        <mark key="." line="225" column="16" />
+      <file name="$USER_HOME$/development/playti4/client/src/queries/index.jsx" timestamp="1565853450488">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="148" column="21" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/src/auth/utils.js" timestamp="1565693306704">
         <mark key="'" line="21" column="43" />
@@ -149,22 +144,28 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1565694288523">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="62" column="16" />
+      <file name="$USER_HOME$/development/playti4/src/db/model/index.js" timestamp="1565853163399">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="163" column="66" />
+        <mark key="]" line="163" column="66" />
+        <mark key="." line="163" column="66" />
+        <mark key="^" line="163" column="66" />
       </file>
-      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1565808350964">
-        <mark key="'" line="130" column="24" />
-        <mark key="[" line="129" column="27" />
-        <mark key="]" line="129" column="32" />
-        <mark key="^" line="129" column="32" />
-        <mark key="." line="129" column="32" />
+      <file name="$USER_HOME$/development/playti4/playtiiv.graphqls" timestamp="1565853234041">
+        <mark key="'" line="216" column="0" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="^" line="168" column="14" />
+        <mark key="." line="219" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1565807439148">
+      <file name="/GraphQL.variables.json" timestamp="1565853573959">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/SliceInfo.jsx" timestamp="1565605377262">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/form/CountrySelectField.js" timestamp="1565275017170">
         <mark key="'" line="18" column="0" />
@@ -199,12 +200,12 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/sitemap.jsx" timestamp="1565703781465">
-        <mark key="'" line="82" column="17" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="92" column="41" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/development/playti4/client/src/sitemap.jsx" timestamp="1565854794562">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="92" column="17" />
+        <mark key="]" line="92" column="26" />
+        <mark key="." line="92" column="26" />
+        <mark key="^" line="92" column="26" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/local/data.jsx" timestamp="1565598157921">
         <mark key="[" line="4" column="6" />
@@ -219,12 +220,12 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/resolvers/query.js" timestamp="1565693139924">
+      <file name="$USER_HOME$/development/playti4/src/resolvers/query.js" timestamp="1565853191345">
         <mark key="'" line="39" column="13" />
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="13" />
-        <mark key="^" line="35" column="14" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" timestamp="1565773828135">
         <mark key="'" line="67" column="6" />
@@ -253,6 +254,12 @@
         <mark key="." line="79" column="40" />
         <mark key="^" line="78" column="34" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/tiles.js" timestamp="1565509938480">
+        <mark key="'" line="537" column="8" />
+        <mark key="[" line="895" column="18" />
+        <mark key="]" line="895" column="18" />
+        <mark key="." line="895" column="18" />
+      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Profile.jsx" timestamp="1565706795471">
         <mark key="'" line="43" column="52" />
         <mark key="[" line="107" column="41" />
@@ -279,6 +286,12 @@
         <mark key="^" line="88" column="2" />
         <mark key="." line="88" column="2" />
       </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/Media.jsx" timestamp="1565853211374">
+        <mark key="[" line="38" column="51" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="35" />
+        <mark key="^" line="39" column="35" />
+      </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Tuner.jsx" timestamp="1565792893945">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="70" column="30" />
@@ -286,12 +299,12 @@
         <mark key="^" line="70" column="37" />
         <mark key="." line="70" column="37" />
       </file>
-      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1565706313265">
+      <file name="$USER_HOME$/development/playti4/src/db/operations.js" timestamp="1565853178866">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="234" column="9" />
-        <mark key="]" line="234" column="15" />
-        <mark key="^" line="234" column="15" />
-        <mark key="." line="234" column="15" />
+        <mark key="[" line="282" column="14" />
+        <mark key="]" line="283" column="14" />
+        <mark key="^" line="283" column="14" />
+        <mark key="." line="283" column="14" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/App.jsx" timestamp="1565703461412">
         <mark key="'" line="34" column="25" />
@@ -306,12 +319,18 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1565808591643">
-        <mark key="'" line="360" column="32" />
-        <mark key="[" line="319" column="4" />
-        <mark key="]" line="319" column="29" />
-        <mark key="." line="319" column="29" />
-        <mark key="^" line="319" column="29" />
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" timestamp="1565853359756">
+        <mark key="'" line="281" column="55" />
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="56" column="15" />
+        <mark key="." line="56" column="15" />
+        <mark key="^" line="56" column="15" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/BuildArea.jsx" timestamp="1565509437074">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/conversions.js" timestamp="1564644937360">
         <mark key="'" line="8" column="6" />
@@ -369,9 +388,6 @@
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/Tile.jsx" timestamp="1565601535407">
-        <mark key="'" line="170" column="31" />
-      </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/calendar/NewEvent.jsx" timestamp="1565437602887">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="94" column="8" />
@@ -379,12 +395,12 @@
         <mark key="^" line="124" column="11" />
         <mark key="." line="124" column="11" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/app/Results.jsx" timestamp="1565278233312">
+      <file name="$USER_HOME$/development/playti4/client/src/app/Results.jsx" timestamp="1565852687793">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="100" column="54" />
-        <mark key="]" line="101" column="46" />
-        <mark key="." line="101" column="46" />
-        <mark key="^" line="101" column="46" />
+        <mark key="[" line="101" column="48" />
+        <mark key="]" line="102" column="32" />
+        <mark key="." line="102" column="32" />
+        <mark key="^" line="102" column="32" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/Maps.jsx" timestamp="1565703650321">
         <mark key="[" line="26" column="32" />
@@ -399,12 +415,11 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1565613073497">
+      <file name="$USER_HOME$/development/playti4/client/src/index.js" timestamp="1565855285123">
         <mark key="'" line="12" column="38" />
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-        <mark key="^" line="10" column="48" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/development/playti4/client/src/app/components/maps/useAxial.js" timestamp="1565701065821">
         <mark key="'" line="118" column="11" />
@@ -412,6 +427,12 @@
         <mark key="]" line="123" column="15" />
         <mark key="^" line="130" column="4" />
         <mark key="." line="123" column="15" />
+      </file>
+      <file name="$USER_HOME$/development/playti4/client/src/app/Resources.jsx" timestamp="1565854154484">
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+        <mark key="^" line="45" column="32" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/tune/Overview.jsx" timestamp="1565793041550">
         <mark key="'" line="65" column="15" />
@@ -425,9 +446,6 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/components/demo/CategoryList.jsx" timestamp="1565772494330">
-        <mark key="'" line="21" column="42" />
       </file>
       <file name="$USER_HOME$/development/sparque/sparque-demo/client/src/pages/WorkspaceSelection.jsx" timestamp="1565768416558">
         <mark key="[" line="4" column="0" />
@@ -443,16 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="19" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
-      <jump line="149" column="27" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
-      <jump line="171" column="2" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
-      <jump line="88" column="17" filename="$USER_HOME$/development/playti4/client/src/sitemap.jsx" />
-      <jump line="159" column="0" filename="$USER_HOME$/development/playti4/client/src/app/Header.jsx" />
-      <jump line="43" column="52" filename="$USER_HOME$/development/playti4/client/src/app/Profile.jsx" />
-      <jump line="21" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/src/model/index.js" />
-      <jump line="42" column="55" filename="$USER_HOME$/development/sparque/sparque-demo/src/model/index.js" />
-      <jump line="17" column="28" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/entry.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" />
       <jump line="82" column="54" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" />
       <jump line="87" column="60" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/SiteContainer.jsx" />
       <jump line="8" column="9" filename="$USER_HOME$/development/sparque/sparque-demo/client/src/components/extend/Expansion.jsx" />
@@ -543,10 +551,20 @@
       <jump line="312" column="20" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
       <jump line="360" column="32" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
       <jump line="130" column="24" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
+      <jump line="149" column="10" filename="$USER_HOME$/development/playti4/src/db/model/index.js" />
+      <jump line="161" column="27" filename="$USER_HOME$/development/playti4/src/db/model/index.js" />
+      <jump line="41" column="10" filename="$USER_HOME$/development/playti4/src/db/model/index.js" />
+      <jump line="168" column="14" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
+      <jump line="216" column="0" filename="$USER_HOME$/development/playti4/playtiiv.graphqls" />
+      <jump line="342" column="10" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
+      <jump line="54" column="2" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
+      <jump line="281" column="55" filename="$USER_HOME$/development/playti4/client/src/app/components/Suggest.jsx" />
+      <jump line="153" column="21" filename="$USER_HOME$/development/playti4/client/src/queries/index.jsx" />
+      <jump line="31" column="0" filename="$USER_HOME$/development/playti4/client/src/queries/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKGRhdGEgJiYgZGF0YS52aWV3ZXIgJiYgZGF0YS52aWV3ZXIuc3VnZ2VzdCkgewogICAgICBzZXRPcHRpb25zKGRhdGEudmlld2VyLnN1Z2dlc3RbbmFtZV0ubWFwKHMgPT4gKHsKICAgICAgICB2YWx1ZTogcy5pZCwKICAgICAgICBsYWJlbDogcy5uYW1lCiAgICAgIH0pKSkKICAgIH0=</text>
+        <text>;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -7945,16 +7963,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KHtkYXRhfSkgPT4gKQ==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>suggest</text>
+        <text>css</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cmVuZGVyPXtwcm9wcyA9PiA8T3ZlcnZpZXcgey4uLnByb3BzfSB2aWV3ZXI9e2RhdGEudmlld2VyfSAvPn0vPg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKGRhdGEgJiYgZGF0YS52aWV3ZXIgJiYgZGF0YS52aWV3ZXIuc3VnZ2VzdCkgewogICAgICBzZXRPcHRpb25zKGRhdGEudmlld2VyLnN1Z2dlc3RbbmFtZV0ubWFwKHMgPT4gKHsKICAgICAgICB2YWx1ZTogcy5pZCwKICAgICAgICBsYWJlbDogcy5uYW1lCiAgICAgIH0pKSkKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7981,37 +7999,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob3B0aW9ucykK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBbdmFyaWFibGVzLCBzZXRWYXJpYWJsZXNdID0gUmVhY3QudXNlU3RhdGUoKQo=</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMub25DaGFuZ2UgPSAoZWRpdG9yU3RhdGUpID0+IHRoaXMuc2V0U3RhdGUoe2VkaXRvclN0YXRlfSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dXNlRWZmZWN0KCgpID0+IHsKICAgIHNldFYKICB9KQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7ZWRpdG9yU3RhdGU6IEVkaXRvclN0YXRlLmNyZWF0ZUVtcHR5KCl9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7bG9hZGluZywgZXJyb3IsIGRhdGEsIHJlZmV0Y2h9ID0gdXNlUXVlcnkocXVlcnkpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>suggest</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern>suggest</last-pattern>
+      <last-pattern>css</last-pattern>
       <last-replace>viewer</last-replace>
       <last-substitute>data.viewer</last-substitute>
       <last-dir>1</last-dir>
@@ -8019,12 +8037,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
-        <entry>setLoading</entry>
-        <entry encoding="base64">XDxmYWNldE9wdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
-        <entry encoding="base64">XDxicmFuZFN1Z2dlc3RcPg==</entry>
-        <entry encoding="base64">XDxjYXRlZ29yeVN1Z2dlc3RcPg==</entry>
         <entry encoding="base64">XDxrZXl3b3JkU3VnZ2VzdFw+</entry>
         <entry encoding="base64">XDxwcm9kdWN0U3VnZ2VzdFw+</entry>
         <entry>Button</entry>
@@ -8039,6 +8051,12 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxzZXRWYXJpYWJsZXNcPg==</entry>
         <entry>suggest</entry>
+        <entry encoding="base64">XDxDb21tZW50XD4=</entry>
+        <entry>League</entry>
+        <entry encoding="base64">XDxjbGFzc2VzXD4=</entry>
+        <entry encoding="base64">XDxwYXBlclw+</entry>
+        <entry>league</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,/;/g</entry>
